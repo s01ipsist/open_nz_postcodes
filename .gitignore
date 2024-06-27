@@ -1,0 +1,6 @@
+.DS_Store
+data
+snapshots/*.png
+snapshots/*.pgw
+snapshots/qgis_screenshots.sh
+release

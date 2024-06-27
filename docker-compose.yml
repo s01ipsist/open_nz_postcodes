@@ -1,0 +1,37 @@
+volumes:
+  postgres-data:
+    driver: local
+
+services:
+  postgres:
+    # https://hub.docker.com/r/postgis/postgis
+    # arm64 image required for MacOS development
+    # image: postgis/postgis # not arm64 friendly https://github.com/postgis/docker-postgis/issues/216
+    image: imresamu/postgis:16-3.4 # arm64 # https://hub.docker.com/r/imresamu/postgis/tags
+    restart: always
+    shm_size: 1gb
+    environment:
+      # POSTGRES_PASSWORD: example
+      POSTGRES_HOST_AUTH_METHOD: trust
+    ports:
+        - 5432:5432
+    volumes:
+      - postgres-data:/var/lib/postgresql/data:cached
+      - .:/app:delegated
+
+  app:
+    build: .
+    depends_on:
+      - postgres
+    environment:
+      # https://www.postgresql.org/docs/16/libpq-envars.html
+      PGHOST: postgres
+      PGUSER: postgres
+      PGPASSWORD: example
+
+    volumes:
+      # Mounts the app code (".") into the container's "/app" folder:
+      - .:/app:delegated
+      - /app/tmp
+    tty: true
+    stdin_open: true
