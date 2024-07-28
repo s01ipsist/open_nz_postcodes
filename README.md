@@ -108,6 +108,10 @@ https://creativecommons.org/publicdomain/zero/1.0/
 - The postcode assigned to any single locality, street or address is a fact.
 - [Facts are not copyrightable; although compilations of facts can be.](https://en.wikipedia.org/wiki/Feist_Publications,_Inc.,_v._Rural_Telephone_Service_Co.)
 
+## Attribution
+
+Uses data licensed for reuse under [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/) from [LINZ Data Service](https://data.linz.govt.nz/) and [Stats NZ](https://www.stats.govt.nz/).
+
 ## Contributors
 
 Thanks to www.addressable.co.nz who developed the initial project and cultivated the street-postcode dataset.
