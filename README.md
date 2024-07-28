@@ -2,7 +2,7 @@
 
 An openly licenced (unofficial) dataset of New Zealand postcodes with geospatial representation as digital boundaries.
 
-See the Releases page to download the latest boundary files.
+See [Releases](https://github.com/s01ipsist/open_nz_postcodes/releases) to download the latest boundary files.
 
 ![Sample output for Auckland central area](images/sample-auckland.png)
 
