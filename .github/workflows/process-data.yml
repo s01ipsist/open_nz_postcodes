@@ -82,8 +82,7 @@ jobs:
 
       - name: Generate artifact name
         id: generate-name
-        run: |
-          echo "open_nz_postcode_boundaries_shp_`date +%Y-%m-%d`_index.zip"
+        run: echo "artifact=open_nz_postcode_boundaries_shp_`date +%Y-%m-%d`_index.zip" >> $GITHUB_OUTPUT
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
