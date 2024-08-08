@@ -1,0 +1,4 @@
+# https://koordinates-python.readthedocs.io/en/stable/
+koordinates
+# https://stackoverflow.com/questions/76175487/sudden-importerror-cannot-import-name-appengine-from-requests-packages-urlli
+appengine-python-standard

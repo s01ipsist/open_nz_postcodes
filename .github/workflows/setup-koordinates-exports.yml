@@ -1,0 +1,22 @@
+name: setup-koordinates-exports
+on:
+  schedule:
+    - cron: "30 2 * * 0"   # Run weekly at 02:30 on Sunday
+jobs:
+  init-data-export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          cache: 'pip'
+      - name: Install dependencies
+        working-directory: ./scripts/koordinates
+        run: pip install -r requirements.txt
+      - name: Run setup downloads script
+        working-directory: ./scripts/koordinates
+        run: python ./setup_downloads.py
+        env:
+          LINZ_DATA_API_TOKEN: ${{ secrets.LINZ_DATA_API_TOKEN }}
+          STATSNZ_DATA_API_TOKEN: ${{ secrets.STATSNZ_DATA_API_TOKEN }}
