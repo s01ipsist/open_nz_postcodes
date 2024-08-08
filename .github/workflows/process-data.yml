@@ -1,5 +1,8 @@
 name: process-data
-on: [push]
+on:
+  schedule:
+    - cron: "30 3 * * 0"   # Run weekly at 03:30 on Sunday
+    # 1 hour after setup-koordinates-exports job runs to allow exports to build
 
 jobs:
   process-data:
