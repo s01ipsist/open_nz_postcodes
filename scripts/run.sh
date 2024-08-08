@@ -13,7 +13,7 @@ psql -d open_nz_postcodes -f scripts/setup-snapshots.sql
 # psql -d open_nz_postcodes -c "UPDATE postcode_boundaries SET geom = ST_Simplify(geom, 0.001);"
 
 # generate zipped shapefile bundle
-mkdir -p release
+mkdir -p release tmp
 pgsql2shp -f "tmp/open_nz_postcode_boundaries" open_nz_postcodes postcode_boundaries
 zip -jr release/open_nz_postcode_boundaries_shp.zip tmp/
 

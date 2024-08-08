@@ -21,8 +21,8 @@ rm -f data/tmp/*.sql
 
 path_addresses_1=data/nz-addresses/nz-addresses.shp
 path_addresses_2=data/nz-addresses/nz-addresses.2.shp
-path_roads=data/nz-roads/nz-roads-addressing.shp
-path_suburbs=data/nz-suburbs-localities/nz-suburbs-and-localities.shp
+path_roads=data/nz-roads-addressing/nz-roads-addressing.shp
+path_suburbs=data/nz-suburbs-and-localities/nz-suburbs-and-localities.shp
 path_meshblocks=data/meshblock-2024/meshblock-2024.shp
 
 # check that data assets are in place

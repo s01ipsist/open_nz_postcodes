@@ -1,0 +1,94 @@
+name: process-data
+on:
+  schedule:
+    - cron: "30 3 * * 0"   # Run weekly at 03:30 on Sunday
+    # 1 hour after setup-koordinates-exports job runs to allow exports to build
+
+jobs:
+  process-data:
+    runs-on: ubuntu-latest
+
+    services:
+      postgres:
+        image: postgis/postgis
+        env:
+          POSTGRES_HOST_AUTH_METHOD: trust
+        # Set health checks to wait until postgres has started
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+        ports:
+          - 5432:5432
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          cache: 'pip'
+
+      - name: Install dependencies
+        working-directory: ./scripts/koordinates
+        run: pip install -r requirements.txt
+
+      - name: Create download data folder
+        run: mkdir -p scripts/koordinates/data
+
+      - name: Restore cached download
+        id: cache-nz-koordinates
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            scripts/koordinates/data
+          key: ${{ runner.os }}-nz-koordinates
+
+      - name: Run export downloads script
+        working-directory: ./scripts/koordinates
+        run: python ./export_downloads.py
+        env:
+          LINZ_DATA_API_TOKEN: ${{ secrets.LINZ_DATA_API_TOKEN }}
+          STATSNZ_DATA_API_TOKEN: ${{ secrets.STATSNZ_DATA_API_TOKEN }}
+
+      - name: Save download cache
+        id: cache-nz-koordinates-save
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            scripts/koordinates/data
+          key: ${{ steps.cache-nz-koordinates.outputs.cache-primary-key }}
+
+      - name: Create processing data folder
+        run: mkdir -p data
+
+      - name: Extract data
+        run: bash scripts/extract-export-data.sh
+
+      - name: Check data processing directory contents
+        run: |
+          echo "Contents of ./data:"
+          ls -R ./data
+          echo "pwd:"
+          pwd
+
+      - name: ⚙️ Install postgis
+        run: |
+          sudo apt-get update
+          sudo apt-get -y install postgis
+
+      - name: Run processing
+        run: bash scripts/run.sh
+        env:
+          PGHOST: localhost
+          PGUSER: postgres
+
+      - name: Generate artifact name
+        id: generate-name
+        run: echo "artifact=open_nz_postcode_boundaries_shp_`date +%Y-%m-%d`_index.zip" >> $GITHUB_OUTPUT
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ steps.generate-name.outputs.artifact }}
+          path: release/open_nz_postcode_boundaries_shp.zip

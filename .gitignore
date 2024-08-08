@@ -4,3 +4,4 @@ snapshots/*.png
 snapshots/*.pgw
 snapshots/qgis_screenshots.sh
 release
+*.zip
