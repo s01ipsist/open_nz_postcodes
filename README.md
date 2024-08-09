@@ -6,6 +6,8 @@ Latest boundary shapefiles can be downloaded from "Artifacts" in the latest/top 
 
 Boundary files are generated automatically using latest upstream data weekly via GitHub Actions.
 
+[![process-data](https://github.com/s01ipsist/open_nz_postcodes/actions/workflows/process-data.yml/badge.svg?event=schedule)](https://github.com/s01ipsist/open_nz_postcodes/actions/workflows/process-data.yml)
+
 ![Sample output for Auckland central area](images/sample-auckland.png)
 
 ## Context
