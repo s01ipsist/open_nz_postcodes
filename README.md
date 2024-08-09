@@ -104,7 +104,12 @@ https://www.nzpost.co.nz/business/sending-within-nz/quality-addressing/postcode-
 
 ## License
 
-All assets and code are under the CC0 LICENSE and in the public domain.
+This project is licensed under the Creative Commons Zero (CC0) 1.0 Universal License. This means that all assets and code in this repository are dedicated to the public domain.
+
+You are free to:
+- Copy, modify, distribute, and use the work, even for commercial purposes, without asking permission.
+
+For more information, see the full license text:
 https://creativecommons.org/publicdomain/zero/1.0/
 
 - The postcode assigned to any single locality, street or address is a fact.
