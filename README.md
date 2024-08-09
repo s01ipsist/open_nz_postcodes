@@ -6,6 +6,8 @@ Latest boundary shapefiles can be downloaded from "Artifacts" in the latest/top 
 
 Boundary files are generated automatically using latest upstream data weekly via GitHub Actions.
 
+[![process-data](https://github.com/s01ipsist/open_nz_postcodes/actions/workflows/process-data.yml/badge.svg?event=schedule)](https://github.com/s01ipsist/open_nz_postcodes/actions/workflows/process-data.yml)
+
 ![Sample output for Auckland central area](images/sample-auckland.png)
 
 ## Context
@@ -92,8 +94,6 @@ The included QGIS project open_nz_post.qgz presents the road network on top of t
 color_rgb(rand(50, 255, to_int(  attribute( 'postcode') )), rand(100, 255, to_int(  attribute( 'postcode') )), rand(200, 255, to_int(   attribute( 'postcode') )))
 ```
 
-Create Github release and attach release zips.
-
 ## Usage
 
 This dataset is appropriate for non-commerical use such as educational use, or personal or private study.
@@ -104,7 +104,12 @@ https://www.nzpost.co.nz/business/sending-within-nz/quality-addressing/postcode-
 
 ## License
 
-All assets and code are under the CC0 LICENSE and in the public domain.
+This project is licensed under the Creative Commons Zero (CC0) 1.0 Universal License. This means that all assets and code in this repository are dedicated to the public domain.
+
+You are free to:
+- Copy, modify, distribute, and use the work, even for commercial purposes, without asking permission.
+
+For more information, see the full license text:
 https://creativecommons.org/publicdomain/zero/1.0/
 
 - The postcode assigned to any single locality, street or address is a fact.
