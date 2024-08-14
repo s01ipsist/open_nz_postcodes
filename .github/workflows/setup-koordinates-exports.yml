@@ -1,7 +1,8 @@
 name: setup-koordinates-exports
 on:
   schedule:
-    - cron: "30 2 * * 0"   # Run weekly at 02:30 on Sunday
+    # LINZ data appears to update weekly on Monday around 13:30 UTC, so set for 6 hrs later
+    - cron: "30 19 * * 1"   # Run weekly at 19:30 on Monday
 jobs:
   init-data-export:
     runs-on: ubuntu-latest
