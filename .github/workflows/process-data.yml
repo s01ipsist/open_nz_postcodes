@@ -1,5 +1,6 @@
 name: process-data
 on:
+  push:
   schedule:
     - cron: "30 20 * * 1"   # Run weekly at 20:30 on Monday
     # 1 hour after setup-koordinates-exports job runs to allow export archives to process
