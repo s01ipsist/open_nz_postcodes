@@ -39,11 +39,6 @@ DATA_SOURCES = {
 def get_client(host, token):
     return koordinates.Client(host=host, token=token)
 
-def print_recent_exports(client, limit=5):
-    logging.info(f"Printing {limit} most recent exports:")
-    for export in client.exports.list()[:limit]:
-        logging.info(f"Name: {export.name}, State: {export.state}, Download URL: {export.download_url}")
-
 def get_recent_active_exports(client, export_name):
     exports = client.exports.list()
     now = datetime.now().replace(tzinfo=UTC)
@@ -78,8 +73,6 @@ def create_new_export(client, config):
 
 def process_data_source(config):
     client = get_client(config['host'], config['token'])
-
-    print_recent_exports(client)
 
     recent_active_exports = get_recent_active_exports(client, config['name'])
 
