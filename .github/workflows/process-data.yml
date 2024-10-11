@@ -1,8 +1,12 @@
 name: process-data
 on:
+  workflow_dispatch:
   schedule:
     - cron: "30 20 * * 1"   # Run weekly at 20:30 on Monday
     # 1 hour after setup-koordinates-exports job runs to allow export archives to process
+
+permissions:
+  actions: write    # For managing Actions cache
 
 jobs:
   process-data:
@@ -35,6 +39,12 @@ jobs:
 
       - name: Create download data folder
         run: mkdir -p scripts/koordinates/data
+
+      - name: Remove stale caches
+        working-directory: ./scripts
+        run: bash cache-purger.sh
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Restore cached download
         id: cache-nz-koordinates
