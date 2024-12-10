@@ -6,7 +6,7 @@ on:
     - cron: "30 19 * * 1"   # Run weekly at 19:30 on Monday
 jobs:
   init-data-export:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
