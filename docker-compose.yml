@@ -7,7 +7,7 @@ services:
     # https://hub.docker.com/r/postgis/postgis
     # arm64 image required for MacOS development
     # image: postgis/postgis # not arm64 friendly https://github.com/postgis/docker-postgis/issues/216
-    image: imresamu/postgis:16-3.4 # arm64 # https://hub.docker.com/r/imresamu/postgis/tags
+    image: imresamu/postgis # arm64 # https://hub.docker.com/r/imresamu/postgis/tags
     restart: always
     shm_size: 1gb
     environment:
