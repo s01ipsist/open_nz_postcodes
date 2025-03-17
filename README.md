@@ -94,6 +94,13 @@ The included QGIS project open_nz_post.qgz presents the road network on top of t
 color_rgb(rand(50, 255, to_int(  attribute( 'postcode') )), rand(100, 255, to_int(  attribute( 'postcode') )), rand(200, 255, to_int(   attribute( 'postcode') )))
 ```
 
+Export new roads to street_postcodes data set
+```
+docker compose run --rm app /bin/bash
+psql -d open_nz_postcodes -f scripts/add-new-roads.sql
+./scripts/export-street-postcodes.sh
+```
+
 ## Usage
 
 This dataset is appropriate for non-commerical use such as educational use, or personal or private study.
