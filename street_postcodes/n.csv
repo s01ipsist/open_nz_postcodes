@@ -169,6 +169,7 @@ road_id,postcode,name,locality,city
 1788800,7022,Naumai Place,Brightwater,
 1816760,4310,Naumai Place,Spotswood,New Plymouth
 1821346,0984,Naumai Road,Tauhoa,Wellsford
+3084951,2582,Nau Mai Road,Clevedon,Clevedon
 3032228,3295,Nau Mai Road,Raglan,
 1789613,7010,Naumai Street,Atawhai,Nelson
 1831432,1026,Naumai Street,Avondale,Auckland
@@ -187,6 +188,7 @@ road_id,postcode,name,locality,city
 3082111,8025,Navarra Road,Halswell,Christchurch
 1823944,1071,Navarre Road,"Glen Innes,Glendowie",Auckland
 3000938,5024,Naver Place,Papakowhai,Porirua
+3085260,2585,Navigation Drive,Clevedon,Clevedon
 3078752,3591,Navigation Drive,Cooks Beach,Whitianga
 1799904,5024,Navigation Drive,Whitby,Porirua
 1828185,2025,Navigator Place,Papatoetoe,Auckland
@@ -285,6 +287,7 @@ road_id,postcode,name,locality,city
 1826146,0112,Neil Street,Regent,Whangarei
 1788263,7011,Neinei Lane,Stoke,Nelson
 3082538,3330,Neinei Place,Wharewaka,Taupo
+3084868,0782,Neinei Street,Westgate,Auckland
 1796628,4691,Nei Street,Rangataua,Ohakune
 3080987,1041,Nekuneku Lane,Mount Roskill,Auckland
 1823947,1071,Neligan Avenue,Kohimarama,Auckland
@@ -401,6 +404,7 @@ road_id,postcode,name,locality,city
 3079048,7615,Nestling Place,Rolleston,
 1799883,6037,Neston Grove,Churton Park,Wellington
 1832885,0612,Neta Grove,Henderson,Auckland
+3084920,0373,Netana Panapa Lane,Kaihu,Kaihu
 1814765,3191,Netana Road,Ruatoki,Taneatua
 1785502,8061,Netherby Lane,Shirley,Christchurch
 1772454,9011,Netherby Street,"Balaclava,Kenmure",Dunedin
@@ -645,6 +649,7 @@ road_id,postcode,name,locality,city
 3023144,3873,Ngahape Road,"Maihiihi,Ngahape,Otorohanga","Otorohanga,Te Awamutu"
 3023142,5890,Ngahape Road,"Ngahape,Stronvar","Masterton,Wainuioru"
 1826706,0184,Ngahau Bay Road,Helena Bay,Hikurangi
+3085044,3493,Ngā Hau Road,Cambridge,Cambridge
 1946729,7630,Ngahau Street,Kaiapoi,
 1840367,0910,Ngahau Street,Warkworth,
 1801384,4412,Ngahere Court,Awapuni,Palmerston North
@@ -674,6 +679,7 @@ road_id,postcode,name,locality,city
 1813373,3874,Ngahuia Place,Tokanui,Te Awamutu
 1798976,4796,Ngahuinga Road,Taihape,
 1823951,1021,Ngahura Street,"Eden Terrace,Mount Eden",Auckland
+3084898,0932,Ngahuru Road,Wainui,Wainui
 1810468,3015,Ngahu Street,Fairy Springs,Rotorua
 1839168,3673,Ngahutoitoi Marae Road,Paeroa,
 1828758,2022,Ngaio Avenue,Mangere Bridge,Auckland
@@ -737,7 +743,9 @@ road_id,postcode,name,locality,city
 1817914,3981,Ngakaukore Road,Aria,
 3080578,2578,Ngakau Road,Karaka,Papakura
 1824584,1071,Ngake Street,Orakei,Auckland
+3085053,0629,Ngakete Crescent,Glenfield,Auckland
 3084590,3434,Ngaki Drive,Cambridge,
+3085069,2577,Ngakinga Loop,Drury,Drury
 1956217,2019,Ngaki Street,Flat Bush,Auckland
 1805077,4197,Ngakoauau Road,Raupunga,
 3064779,,Ngakonui-Ongarue Road,"Ongarue,Taringamotu",
@@ -745,6 +753,7 @@ road_id,postcode,name,locality,city
 1802601,4071,Ngakoroa Road,Ormond,Gisborne
 1827327,2578,Ngakoroa Road,Runciman,Drury
 3078036,2113,Ngakoro Road,"Karaka,Rosehill",Papakura
+3085076,5036,Nga Koru Place,Waikanae,Waikanae
 1816440,4375,Ngakoti Street,Urenui,
 1836588,8042,Nga Mahi Road,Sockburn,Christchurch
 1817882,4181,Nga Manu Place,Tangoio,Napier
@@ -802,6 +811,7 @@ road_id,postcode,name,locality,city
 1842540,3994,Ngapuke Road,"Manunui,Ngapuke,Taringamotu","Taringamotu,Taumarunui"
 1771901,9596,Ngapuna Road,"Middlemarch,Ngapuna",Middlemarch
 1822385,0632,Ngarahana Avenue,Paremoremo,Auckland
+3084850,1072,Ngārahu Lane,St Johns,Auckland
 1817652,4591,Ngarahu Road,Waverley,
 3084131,0985,Ngarara Court,Warkworth,
 1801495,,Ngarara Road,Waikanae,
@@ -933,6 +943,7 @@ road_id,postcode,name,locality,city
 1795211,5890,Ngaumu Road,Ngaumu,Wainuioru
 1795872,3334,Ngaumu Street,Turangi,
 1795202,5810,Ngaumutawa Road,"Masterton,Solway,Upper Plain",Masterton
+3085134,0472,Ngaungau Lane,Oromahoe,Haruru
 1841235,6035,Ngauranga Gorge Road,Ngauranga,Wellington
 1812433,3330,Ngauruhoe Street,Hilltop,Taupo
 1825126,1024,Ngauruhoe Street,Mount Eden,Auckland
@@ -949,10 +960,12 @@ road_id,postcode,name,locality,city
 1802442,4094,Ngawari Place,Whatatutu,Te Karaka
 1808561,3188,Ngawaro Road,Ngawaro,Hamurana
 1802399,4032,Ngawati Street,Ruatoria,
+3084895,3378,Ngāwhā Place,Tauhara,Taupo
 1819888,0472,Ngawha School Road,Kaikohe,
 1819882,0472,Ngawha Springs Road,"Kaikohe,Ngawha Springs",Kaikohe
 1788272,7011,Ngawhatu Road,Stoke,Nelson
 3080341,3110,Ngawhetu Lane,Tauranga,
+3084771,5024,Ngā Whetū Way,Cannons Creek,Porirua
 3025235,4674,Ngawhini Road,"Ararata,Hawera,Normanby",Hawera
 1819883,0281,Ngawhitu Road,Moerewa,
 3083195,2113,Ngoi Way,Karaka,Papakura
@@ -960,6 +973,7 @@ road_id,postcode,name,locality,city
 1798259,4474,Ngui Road,Opiki,Palmerston North
 1826697,0173,Ngunguru Ford Road,Kiripaka,Whangarei
 1832495,0173,Ngunguru Heights Rise,Ngunguru,Whangarei
+3085073,2577,Ngunguru Place,Drury,Drury
 3063334,,Ngunguru Road,"Glenbervie,Kiripaka,Ngunguru,Tikipunga",Whangarei
 3050530,7073,Nguroa Road,"Kahurangi National Park,Kaihoka,Puponga","Collingwood,Kahurangi National Park"
 3067951,3393,Ngutumanga Road,"Otway,Te Aroha,Waihou",Te Aroha
@@ -1270,6 +1284,7 @@ road_id,postcode,name,locality,city
 1821354,0931,Noel Avenue,Orewa,
 1802152,4010,Noel Bull Avenue,Te Hapara,Gisborne
 1841284,2025,Noel Burnside Road,"Papatoetoe,Wiri",Auckland
+3085250,7272,Noel Chandler Road,Burleigh,Blenheim
 3080960,0573,Noel Close,Mangawhai Heads,Mangawhai
 1831151,0629,Noeleen Street,Glenfield,Auckland
 3083990,2112,Noel Hayden Street,Takanini,Auckland
@@ -1773,6 +1788,7 @@ road_id,postcode,name,locality,city
 3077582,1062,Nuinga Lane,Mount Wellington,Auckland
 3078636,4175,Nukanoa Lane,Bridge Pa,Hastings
 3081206,2582,Nukuao Lane,Clevedon,
+3085034,3282,Nukuhau Lane,Rukuhia,Hamilton
 1817617,4591,Nukuhau Road,Waverley,
 1812427,3330,Nukuhau Street,Taupo,
 3055225,4588,Nukumaru Parade,Waiinu Beach,Whanganui
@@ -1796,6 +1812,7 @@ road_id,postcode,name,locality,city
 1780723,7700,Nursery Drive,Tinwald,Ashburton
 1826695,0181,Nursery Flat Road,Glenbervie Forest,Hikurangi
 3081132,9011,Nursery Lane,Belleknowes,Dunedin
+3085173,3216,Nursery Lane,Hamilton East,Hamilton
 1799171,3377,Nursery Lane,Kinloch,Taupo
 3082188,3118,Nursery Lane,Papamoa,
 1791185,7210,Nursery Lane,Seddon,

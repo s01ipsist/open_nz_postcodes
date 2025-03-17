@@ -28,6 +28,7 @@ road_id,postcode,name,locality,city
 1784059,8025,Uldale Place,Westmorland,Christchurch
 1828447,2012,Ullswater Place,Half Moon Bay,Auckland
 1835862,7206,Ulm Crescent,Woodbourne,Blenheim
+3085208,3434,Ulmer Lane,Cambridge,Cambridge
 1783683,8061,Ulm Place,Burwood,Christchurch
 1792442,5026,Ulric Street,Plimmerton,Porirua
 1824135,0600,Ulster Road,Blockhouse Bay,Auckland
@@ -167,9 +168,11 @@ road_id,postcode,name,locality,city
 1780583,7673,Upper High Street,Coalgate,
 3062453,7978,Upper Hook Road,"Hunter,Makikihi",Waimate
 3038643,4391,Upper Hunter Road,"Eltham,Mangatoki","Eltham,Stratford"
+3084792,4681,Upper Ihaia Road,Opunake,Opunake
 1770128,,Upper Junction Road,"Sawyers Bay,Upper Junction",Dunedin
 3009112,4684,Upper Kahui Road,Rahotu,Opunake
 1779128,7472,Upper Karetu Road,Ashley Forest,Loburn
+3084793,4682,Upper Kaweora Road,Opunake,Opunake
 1797417,4797,Upper Kawhatau Road,Mangaweka,
 1807738,3204,Upper Kent Street,Frankton,Hamilton
 1817285,4681,Upper Kina Road,"Oaonui,Rahotu",Opunake
@@ -181,12 +184,14 @@ road_id,postcode,name,locality,city
 1802702,8081,Upper Major Hornbrook Road,Mount Pleasant,Christchurch
 1795214,5888,Upper Manaia Road,Upper Plain,Masterton
 3015153,4392,Upper Mangaehu Road,"Aotuhia,Makahu",Stratford
+3084799,4679,Upper Mangawhero Road,"Egmont National Park,Riverlea","Egmont National Park,Hawera"
 1771416,9387,Upper Manorburn Road,"Manorburn,Moa Creek",Moa Creek
 1817717,4598,Upper Manutahi Road,Manutahi,Patea
 1825471,1061,Upper Municipal Place,Onehunga,Auckland
 3033412,4381,Upper Newall Road,Newall,Warea
 1778142,9778,Upper Newburn Street,Waikaia,
 3000149,4684,Upper Ngariki Road,Rahotu,Opunake
+3084821,4678,Upper Oeo Road,Awatuna,Hawera
 3081606,3173,Upper Ohauiti Road,Ohauiti,Tauranga
 1798705,4592,Upper Okotuku Road,Waverley,
 1830985,0992,Upper Orewa Road,Wainui,

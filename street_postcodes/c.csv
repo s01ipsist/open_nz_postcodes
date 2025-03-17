@@ -198,6 +198,7 @@ road_id,postcode,name,locality,city
 3015749,1072,California Place,Wai o Taiki Bay,Auckland
 1798147,5036,Calistemon Grove,Waikanae,
 1819764,0281,Callaghan Road,Maromaku,Kawakawa
+3085224,9305,Callaghans Creek Rise,Wanaka,Wanaka
 1790486,7882,Callaghans Road,Awatuna,Hokitika
 1842694,7020,Calla Grove,Richmond,
 1783013,8025,Callan Place,Hoon Hay,Christchurch
@@ -821,6 +822,7 @@ road_id,postcode,name,locality,city
 1842324,0630,Carex Way,Long Bay,Auckland
 1834100,4625,Carex Way,Ohakune,
 1772347,9012,Carey Avenue,South Dunedin,Dunedin
+3085084,2578,Careyme Road,Karaka,Papakura
 1828459,2023,Carey Place,Otara,Auckland
 1820213,0474,Carey Road,Kaikohe,
 1806682,3584,Carey Road,Port Charles,Coromandel
@@ -884,6 +886,7 @@ road_id,postcode,name,locality,city
 1827692,2112,Carlinka Place,Conifer Grove,Takanini
 1808076,3973,Carlin Road,Honikiwi,Otorohanga
 1779046,7910,Carlisle Place,Marchwiel,Timaru
+3085178,7700,Carlisle Place,Tinwald,Ashburton
 3069274,,Carlisle Road,"Browns Bay,Northcross,Torbay",Auckland
 1776951,9793,Carlisle Street,Athol,
 1824253,1071,Carlisle Street,Glendowie,Auckland
@@ -1260,6 +1263,7 @@ road_id,postcode,name,locality,city
 1782112,7901,Cass Crescent,Twizel,
 1818049,4312,Cassia Place,Bell Block,New Plymouth
 1822597,0620,Cassia Place,Sunnynook,Auckland
+3085236,7614,Cassia Way,Rolleston,Rolleston
 1841159,7608,Cassidy Avenue,Lincoln,
 1944697,0931,Cassidy Drive,Orewa,
 1784798,8051,Cassidy Place,Belfast,Christchurch
@@ -1655,6 +1659,7 @@ road_id,postcode,name,locality,city
 1806688,3510,Centennial Drive,Whitianga,
 3053012,6035,Centennial Highway,"Johnsonville,Newlands,Ngauranga",Wellington
 3062994,4071,Centennial Marine Drive,"Awapuni,Matawhero",Gisborne
+3084783,9400,Centennial Park Road,Oamaru North,Oamaru
 1821085,0900,Centennial Park Road,Wellsford,
 1832602,0630,Centennial Place,Campbells Bay,Auckland
 1772991,9018,Centennial Road,Fairfield,Dunedin
@@ -2080,6 +2085,7 @@ road_id,postcode,name,locality,city
 3008905,9779,Chartlea Park Road,"Glenure,Josephville",Balfour
 1838469,9302,Chartres Lane,Arrowtown,
 3082028,2113,Chartreuse Road,Rosehill,Papakura
+3084892,7614,Chartreuse Way,Rolleston,Rolleston
 1822599,0629,Chartwell Avenue,"Glenfield,Hillcrest",Auckland
 1806692,3620,Chartwell Avenue,Whangamata,
 1779048,7400,Chartwell Close,Rangiora,
@@ -2250,6 +2256,7 @@ road_id,postcode,name,locality,city
 1830513,0875,Cherry Blossom Lane,Helensville,
 3082086,7630,Cherry Blossom Way,Kaiapoi,
 1783603,8013,Cherryburton Place,Shirley,Christchurch
+3084977,3400,Cherry Close,Matamata,Matamata
 1771697,9305,Cherry Court,Wanaka,
 1799714,4412,Cherry Crescent,Highbury,Palmerston North
 1827377,2120,Cherry Crescent,Pukekohe,
@@ -3048,6 +3055,7 @@ road_id,postcode,name,locality,city
 1813734,3384,Clearwater Lane,Rangatira Park,Taupo
 1826799,7201,Clearwater Place,Mayfield,Blenheim
 1778609,9877,Clearwater Road,Awarua Wetlands,Invercargill
+3084928,0185,Clearwater Road,Te Kamo,Whangarei
 1772522,9014,Clearwater Street,Broad Bay,Dunedin
 1791761,5018,Clearwater Terrace,Brown Owl,Upper Hutt
 3082240,3282,Clearway Rise,Rukuhia,Hamilton
@@ -3350,10 +3358,12 @@ road_id,postcode,name,locality,city
 1830142,2120,Cloverlea Place,Pukekohe,
 1795723,4475,Cloverlea Road,Westbrook,Palmerston North
 1813481,3112,Cloverlea Walk,Welcome Bay,Tauranga
+3085092,9291,Cloverlea Way,Milton,Milton
 1822093,0630,Cloverly Crescent,Campbells Bay,Auckland
 1824718,1023,Clovernook Road,Epsom,Auckland
 1788608,7081,Clover Road East,Hope,Richmond
 1788613,7091,Clover Road West,Hope,Richmond
+3085005,7571,Clover Street,Darfield,Darfield
 1813557,3206,Clow Place,Melville,Hamilton
 1782816,8011,Club Lane,Christchurch Central,Christchurch
 1822718,0622,Club Lane,Takapuna,Auckland
@@ -3465,6 +3475,7 @@ road_id,postcode,name,locality,city
 1819291,0975,Coal Hill Road,"Mangawhai,Te Arai","Mangawhai,Wellsford"
 1827632,2584,Coal Mine Road,Opaheke,Papakura
 1776203,9771,Coalpit Road,Pukerau,Gore
+3084930,7572,Coalpit Road,Windwhistle,Hororata
 3007508,9492,Coal Pit Road,"Airedale,Enfield,Windsor Park",Oamaru
 1781956,7987,Coal Pit Road,Albury,
 1771287,9391,Coal Pit Road,"Clyde,Waikerikeri","Alexandra,Clyde"
@@ -3708,6 +3719,7 @@ road_id,postcode,name,locality,city
 1797545,4476,Cole Road,Rongotea,
 1830623,0391,Cole Road,Te Kopuru,
 1825070,1024,Coles Avenue,Mount Eden,Auckland
+3085203,7618,Colesbourne Way,West Melton,West Melton
 1987366,3610,Colesburg Lane,Waihi,
 1784291,8053,Colesbury Street,Bishopdale,Christchurch
 1838943,3118,Coles Cove,Papamoa Beach,Papamoa
@@ -3953,6 +3965,7 @@ road_id,postcode,name,locality,city
 1785438,6037,Comber Place,Johnsonville,Wellington
 1811522,3400,Comber Street,Matamata,
 1824738,1050,Combes Road,Remuera,Auckland
+3085007,7510,Combine Place,Darfield,Darfield
 1772532,9010,Comely Bank,Opoho,Dunedin
 1806009,3591,Comers Road,Kaimarama,Whitianga
 3083509,8025,Comer Street,Halswell,Christchurch
@@ -4354,6 +4367,7 @@ road_id,postcode,name,locality,city
 3077628,4414,Coprosma Court,Milson,Palmerston North
 1787032,3330,Coprosma Crescent,Waipahihi,Taupo
 3078985,8025,Coprosma Road,Wigram,Christchurch
+3085239,0814,Coprosma Street,Westgate,Auckland
 1823872,1026,Copsey Place,Avondale,Auckland
 1828805,2024,Coptic Place,Mangere East,Auckland
 3083888,2402,Coptic Terrace,Pokeno,
@@ -4985,6 +4999,7 @@ road_id,postcode,name,locality,city
 3069633,7910,Craigie Avenue,"Kensington,Parkside,Timaru",Timaru
 1819498,3110,Craigieburn Lane,Bethlehem,Tauranga
 1795369,8081,Craigieburn Lane,Mount Pleasant,Christchurch
+3085225,9305,Craigie Burn Lane,Wanaka,Wanaka
 3067765,7580,Craigieburn Road,"Arthur's Pass,Lake Pearson",Arthur's Pass
 1790617,7871,Craigieburn Road,Atarau,Blackball
 1788511,7183,Craigieburn Road,Uruwhenua,Takaka
@@ -5152,6 +5167,7 @@ road_id,postcode,name,locality,city
 1831981,2113,Creek Street,Drury,
 1789061,7872,Creek Street,Dunganville,Arnold Valley
 1821258,0982,Creek Street,Warkworth,
+3085083,2578,Creekview Road,Karaka,Papakura
 1784863,8051,Creese Place,Redwood,Christchurch
 1776425,9810,Cree Street,Glengarry,Invercargill
 1840849,2019,Creeve Place,Flat Bush,Auckland
@@ -5242,6 +5258,7 @@ road_id,postcode,name,locality,city
 1955016,7691,Cricklewood Close,Woodend,
 1790958,7201,Cricklewood Lane,Springlands,Blenheim
 1784351,8042,Cricklewood Place,Avonhead,Christchurch
+3084781,9494,Cricklewood Rise,Otiake,Duntroon
 3024777,7987,Cricklewood Road,"Albury,Coal Stream","Albury,Fairlie"
 3024778,,Cricklewood Road,"Putere,Raupunga,Wairoa","Raupunga,Wairoa"
 1802511,4191,Cricklewood Station Road,Raupunga,
@@ -5356,6 +5373,7 @@ road_id,postcode,name,locality,city
 1828514,2013,Crooks Road,East Tamaki,Auckland
 1774051,9587,Crookston Road,"Crookston,Heriot",Tapanui
 1775497,9495,Crook Street,Maheno,Oamaru
+3084959,2582,Croppers Road,Clevedon,Clevedon
 1788924,7020,Cropp Place,Richmond,
 1790520,7881,Cropp Road,Kokatahi,
 3079534,9371,Crop Street,Jacks Point,Queenstown
@@ -5762,11 +5780,13 @@ road_id,postcode,name,locality,city
 1806379,7886,Cuttance Road,Haast,
 1772546,9012,Cutten Street,South Dunedin,Dunedin
 1832984,0632,Cutter Place,Greenhithe,Auckland
+3085105,3114,Cutting Lane,Omokoroa,Omokoroa
 1822360,0632,Cutts Crescent,Paremoremo,Auckland
 1786922,8042,Cutts Road,Russley,Christchurch
 3078609,0616,Cutty Sark Road,Hobsonville,Auckland
 1814571,3189,Cutwater Road,Pukehina,
 1806087,3592,Cuvier Crescent,Kuaotunu West,Whitianga
+3084890,7614,Cyan Lane,Rolleston,Rolleston
 3084618,0632,Cyathea Lane,Schnapper Rock,Auckland
 1828500,2014,Cyclades Place,Shelly Park,Auckland
 1799752,8025,Cyclamen Place,Aidanfield,Christchurch
@@ -5783,6 +5803,7 @@ road_id,postcode,name,locality,city
 1807090,3200,Cypress Crescent,Pukete,Hamilton
 1793102,5010,Cypress Drive,Maungaraki,Lower Hutt
 1831838,0110,Cypress Gardens Place,Onerahi,Whangarei
+3084965,3400,Cypress Grove,Matamata,Matamata
 1796236,5032,Cypress Grove,Paraparaumu,
 3078181,9230,Cypress Lane,Balclutha,
 1841950,7675,Cypress Lane,West Melton,
@@ -5791,7 +5812,9 @@ road_id,postcode,name,locality,city
 1822361,0620,Cypress Place,Sunnynook,Auckland
 1809177,3110,Cypress Street,Judea,Tauranga
 1782864,8062,Cypress Street,Linwood,Christchurch
+3084845,5510,Cypress Way,Levin,Levin
 3077449,4410,Cyprus Place,Fitzherbert,Palmerston North
+3084946,1072,Cyril Bennett Lane,Glen Innes,Auckland
 1823404,0618,Cyril Crescent,West Harbour,Auckland
 1837420,2016,Cyril French Drive,Flat Bush,Auckland
 1828512,2022,Cyril Kay Road,Auckland Airport,Auckland

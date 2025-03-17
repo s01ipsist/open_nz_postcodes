@@ -37,6 +37,7 @@ road_id,postcode,name,locality,city
 1798658,4078,Jackman Road,Tiniroto,Manutuke
 1773799,9271,Jackmans Creek Road,Glenomaru Valley,Kaka Point
 1841000,8083,Jackmin Lane,Burwood,Christchurch
+3085252,7272,Jack Moon Road,Burleigh,Blenheim
 1983069,8023,Jacko Lane,Sydenham,Christchurch
 1827625,2584,Jack Paterson Road,Opaheke,Papakura
 1838998,2019,Jack Place,Flat Bush,Auckland
@@ -648,10 +649,12 @@ road_id,postcode,name,locality,city
 1819753,5512,Jim Spiers Lane,Otaki,
 1771582,9371,Jims Way,Lower Shotover,Queenstown
 1818705,0624,Jim Titchener Parade,"Devonport,Stanley Point",Auckland
+3085209,5582,Jim Winiata Way,Te Horo,Otaki
 1784120,8042,Jipcho Road,Wigram,Christchurch
 1826862,2684,J Irwin Road,Awhitu,
 1821205,0984,J Mason Road,Mangakura,Warkworth
 1785117,7891,Joachim Street,Denniston,Westport
+3085216,4283,Joal Lane,Waipukurau,Waipukurau
 1838874,5810,Joan Allen Lane,Masterton,
 1838457,3510,Joan Gaskell Drive,Whitianga,
 1838320,0875,Joanna Lee Lane,Helensville,
@@ -713,6 +716,7 @@ road_id,postcode,name,locality,city
 3080256,0932,John Fair Drive,"Dairy Flat,Silverdale,Wainui",
 3017474,4414,John F Kennedy Drive,"Cloverlea,Milson",Palmerston North
 1831215,0602,John F Kennedy Place,Glen Eden,Auckland
+3085153,8051,John Gibb Street,Belfast,Christchurch
 3051947,2014,John Gill Road,"Cockle Bay,Shelly Park",Auckland
 1830107,0632,John Glenn Avenue,Rosedale,Auckland
 1837282,2022,John Goulter Drive,Auckland Airport,Auckland
@@ -997,6 +1001,7 @@ road_id,postcode,name,locality,city
 1801834,4414,Jordan Way,Kelvin Grove,Palmerston North
 1792062,5024,Joseph Banks Drive,Whitby,Porirua
 1829828,1050,Joseph Banks Terrace,Remuera,Auckland
+3084987,5018,Joseph Bolton Crescent,Trentham,Upper Hutt
 1832634,0782,Joseph Dunstan Drive,Taupaki,
 1792680,5018,Joseph Grove,Elderslea,Upper Hutt
 3025133,2022,Joseph Hammond Road,"Auckland Airport,Mangere",Auckland
@@ -1005,6 +1010,7 @@ road_id,postcode,name,locality,city
 1833844,3782,Josephine Place,Te Kauwhata,
 1772313,9012,Josephine Street,Caversham,Dunedin
 1790271,7805,Josephine Street,Greymouth,
+3085168,7410,Josephine Way,Amberley,Amberley
 3077815,0614,Joseph Kokich Avenue,Swanson,Auckland
 1816874,3210,Joseph Lovett Lane,Flagstaff,Hamilton
 3056307,0618,Joseph McDonald Drive,Whenuapai,Auckland
@@ -1187,6 +1193,7 @@ road_id,postcode,name,locality,city
 1774350,9300,Juniper Place,Frankton,Queenstown
 1822633,0620,Juniper Road,Sunnynook,Auckland
 1835691,7020,Juniper Street,Richmond,
+3085246,7630,Juniper Way,Kaiapoi,Kaiapoi
 3082084,7630,Juniper Way,Kaiapoi,
 1837161,7604,Juniper Way,Prebbleton,
 1792200,5024,Juno Lane,Cannons Creek,Porirua

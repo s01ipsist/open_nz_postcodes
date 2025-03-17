@@ -222,6 +222,7 @@ road_id,postcode,name,locality,city
 1806133,3500,Garden Place,Thames,
 1826362,0112,Garden Place,Tikipunga,Whangarei
 1792982,5011,Garden Road,Avalon,Lower Hutt
+3085217,7571,Garden Road,Darfield,Darfield
 3040398,0991,Garden Road,Great Barrier Island (Aotea Island),
 1794943,6012,Garden Road,"Kelburn,Northland",Wellington
 1784538,8014,Garden Road,Merivale,Christchurch
@@ -995,6 +996,7 @@ road_id,postcode,name,locality,city
 1791537,7201,Gingko Place,Witherlea,Blenheim
 3079159,9300,Ginkgo Avenue,Frankton,Queenstown
 1832935,2022,Ginko Place,Mangere,Auckland
+3084970,3400,Ginko Place,Matamata,Matamata
 1811095,3771,Ginn Road,Rotowaro,Huntly
 1840650,0582,Ginty Way,Waipu,
 1837908,0175,Giovanni Drive,Whareora,
@@ -1222,6 +1224,7 @@ road_id,postcode,name,locality,city
 1832099,2110,Glenburn Place,Papakura,
 1808230,4470,Glenburn Road,Ashhurst,
 1795393,5883,Glenburn Road,"Glenburn,Te Wharau",Masterton
+3084939,0616,Glenburn Road,Hobsonville,Auckland
 3043260,9683,Glenburn Road,Otautau,
 1822986,0614,Glenbury Place,Massey,Auckland
 1831044,0626,Glenbush Place,Birkenhead,Auckland
@@ -1503,6 +1506,7 @@ road_id,postcode,name,locality,city
 1830462,2103,Glenveagh Park Drive,"Manurewa,Weymouth",Auckland
 1806139,3579,Glen Venus,Pauanui,
 1807887,3900,Glen View Avenue,Otorohanga,
+3085230,1071,Glenview Place,Glendowie,Auckland
 1822796,0602,Glenview Road,Glen Eden,Auckland
 3040226,7183,Glenview Road,"Motupipi,Takaka",Takaka
 1807213,3206,Glenview Terrace,Glenview,Hamilton
@@ -1630,6 +1634,7 @@ road_id,postcode,name,locality,city
 1819666,0281,Going Road,Maromaku,Kawakawa
 3003809,0185,Going Road,"Matarau,Ruatangata West",Whangarei
 1776125,9773,Gold Creek Road,"Knapdale,Maitland",Gore
+3085015,9382,Golden Age Close,Cardrona,Wanaka
 1818469,2025,Golden Arches Place,Wiri,Auckland
 3078314,2019,Golden Avenue,Flat Bush,Auckland
 3018039,9483,Golden Bar Road,"Macraes,Stoneburn","Macraes Flat,Palmerston"
@@ -1667,6 +1672,8 @@ road_id,postcode,name,locality,city
 1813629,3674,Goldfields Road,Karangahake,
 1806143,3581,Goldfields Road,Manaia,Coromandel
 1813630,3674,Goldfields Road North,Karangahake,
+3085163,9371,Goldfinch Drive,Jacks Point,Queenstown
+3085041,0984,Goldfinch Lane,Warkworth,Warkworth
 1801327,3112,Goldfinch Place,Welcome Bay,Tauranga
 1831135,0632,Goldfinch Rise,Unsworth Heights,Auckland
 1796630,4625,Goldfinch Street,Ohakune,
@@ -2249,6 +2256,7 @@ road_id,postcode,name,locality,city
 1842548,7614,Granite Drive,Rolleston,
 1828996,2104,Granite Place,Wiri,Auckland
 1789364,7096,Granite Road,Tapawera,Wakefield
+3085144,9305,Granite Terrace,Albert Town,Wanaka
 1777895,9883,Granity Road,Pourakino Valley,Riverton/Aparima
 1802588,4010,Granny Tarr Street,Makaraka,Gisborne
 1833319,2013,Gransna Lane,East Tamaki,Auckland
@@ -2402,6 +2410,7 @@ road_id,postcode,name,locality,city
 1798955,4787,Greatford Street,Marton,
 1785729,8022,Great Gables Lane,Huntsbury,Christchurch
 3006573,9016,Great King Street,"Dunedin Central,North Dunedin,North East Valley",Dunedin
+3084839,1050,Great Northern Terrace,Remuera,Auckland
 1818407,,Great North Road,"Avondale,Glen Eden,Glendene,Grey Lynn,Henderson,New Lynn,Point Chevalier,Waterview,Western Springs",Auckland
 3024898,,Great North Road,"Kauri,Te Kamo","Kauri,Whangarei"
 3024895,,Great North Road,"Otamatea,Saint Johns Hill,Westmere,Whanganui",Whanganui
@@ -2856,6 +2865,7 @@ road_id,postcode,name,locality,city
 1779665,7392,Groome Road,Balmoral,
 1804539,4281,Groome Road,Hatuma,Waipukurau
 1814868,3073,Groome Street,Kaingaroa Forest,Murupara
+3084777,0582,Groom Rise,Waipu,Waipu
 3050262,9883,Gropers Bush Thornbury Road,"Gropers Bush,Thornbury,Waimatuku",Riverton/Aparima
 1808977,3110,Grosmont Terrace,Brookfield,Tauranga
 3008026,4410,Grosvenor Court,West End,Palmerston North
@@ -3073,6 +3083,7 @@ road_id,postcode,name,locality,city
 1799484,4410,Guy Avenue,"Palmerston North,Takaro",Palmerston North
 3081868,3700,Guy King Place,Huntly,
 1836698,4472,Guyland Drive,Turitea,Palmerston North
+3084984,7334,Guyon Place,Hanmer Springs,Hanmer Springs
 3077569,8083,Guyon Street,Marshland,Christchurch
 1835360,1072,Guyon Street,Stonefields,Auckland
 1807233,3206,Guy Place,Melville,Hamilton
