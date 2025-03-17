@@ -118,6 +118,7 @@ road_id,postcode,name,locality,city
 1771811,3110,Valley View Way,Bethlehem,Tauranga
 3032250,5018,Valley View Way,Timberlea,Upper Hutt
 1818537,2013,Valnera Close,Northpark,Auckland
+3085050,4122,Valona Lane,Akina,Hastings
 1831469,0600,Valonia Street,"New Windsor,Wesley",Auckland
 1840048,4478,Valor Drive,Milson,Palmerston North
 2006802,7400,Valour Drive,Rangiora,
@@ -246,6 +247,7 @@ road_id,postcode,name,locality,city
 1812813,3432,Vennell Street,Leamington,Cambridge
 3079778,9310,Venning Crescent,Cromwell,
 1798034,4821,Venn Street,Shannon,
+3085093,7020,Ventana Lane,Richmond,Richmond
 1783696,8061,Ventnor Crescent,Aranui,Christchurch
 1796212,5032,Ventnor Drive,Paraparaumu,
 1824195,1050,Ventnor Road,Remuera,Auckland
@@ -283,6 +285,7 @@ road_id,postcode,name,locality,city
 3084431,7777,Vercoe Street,Elgin,Ashburton
 1825198,1041,Vercoe Street,Mount Roskill,Auckland
 1837759,0602,Verdale Circle,Glen Eden,Auckland
+3084891,7614,Verdant Close,Rolleston,Rolleston
 3080546,1062,Verdant Lane,Mount Wellington,Auckland
 3080949,2019,Verdant View Avenue,Flat Bush,Auckland
 1948152,7020,Verde Close,Richmond,
@@ -338,6 +341,7 @@ road_id,postcode,name,locality,city
 1786919,8052,Verran Place,Fendalton,Christchurch
 3058677,0626,Verran Road,"Birkdale,Birkenhead",Auckland
 1794267,6012,Versailles Street,Karori,Wellington
+3084826,2019,Versilia Lane,Flat Bush,Auckland
 3082879,7614,Verstappen Drive,Rolleston,
 1774120,9074,Verter Burn Road,Waipori,Outram
 1794261,6012,Verviers Street,Karori,Wellington
@@ -399,7 +403,9 @@ road_id,postcode,name,locality,city
 1775698,9371,Victoria Flats Road,Gibbston,Queenstown
 3016187,7010,Victoria Heights,Stepneyville,Nelson
 3026649,9491,Victoria Hill Road,"Tapui,Windsor",Oamaru
+3085149,9494,Victoria Lane,Oamaru North,Oamaru
 1803781,4183,Victoria Lane,Waiohiki,Napier
+3084772,2019,Victorian Crescent,Flat Bush,Auckland
 1783919,8022,Victoria Park Road,Cashmere,Christchurch
 1815188,3420,Victoria Place,Tokoroa,
 3068232,3493,Victoria Road,"Cambridge,Pukemoremore,Tauwhare","Cambridge,Hamilton"
@@ -628,6 +634,7 @@ road_id,postcode,name,locality,city
 1830249,0632,Vinewood Drive,Albany,Auckland
 3081718,0975,Vineyard Lane,Mangawhai,
 1841549,5781,Vineyard Lane,Martinborough,
+3085154,7483,Vineyard Lane,Waipara,Waipara
 1842214,0632,Vineyard Road,Albany,Auckland
 1823261,0614,Vineyard Road,Henderson Valley,Auckland
 1811140,3782,Vineyard Road,Te Kauwhata,
@@ -662,6 +669,7 @@ road_id,postcode,name,locality,city
 1856713,9371,Violet Way,Lower Shotover,Queenstown
 1830984,0932,Vipond Road,"Red Beach,Stanmore Bay","Red Beach,Whangaparaoa"
 1821422,0975,Vipond Road,Wellsford,
+3084894,7614,Virdis Lane,Rolleston,Rolleston
 1772011,9016,Vire Street,Dunedin Central,Dunedin
 1829853,2105,Vireya Court,Goodwood Heights,Auckland
 1784247,8052,Virgil Place,Northcote,Christchurch

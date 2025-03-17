@@ -159,6 +159,7 @@ road_id,postcode,name,locality,city
 1794892,6012,Fairview Crescent,Kelburn,Wellington
 1825696,1081,Fairview Crescent,Omiha,Waiheke Island
 3005493,5372,Fairview Drive,"Akatarawa,Birchville",Upper Hutt
+3084945,9384,Fairview Lane,Cromwell,Cromwell
 1797313,4702,Fairview Place,Feilding,
 1836027,4130,Fairview Place,Havelock North,
 3081051,5510,Fairview Place,Levin,
@@ -301,6 +302,7 @@ road_id,postcode,name,locality,city
 3082379,0600,Fantail Place,Avondale,Auckland
 1799069,4720,Fantail Place,Taihape,
 1954747,0294,Fantail Rise,Kerikeri,
+3085157,7893,Fantail Rise,Little Wanganui,Karamea
 1834064,3283,Fantails Flit,Tamahere,Hamilton
 1815497,3508,Fantail Terrace,Tairua,
 3079152,0505,Fantail Way,Mangawhai,
@@ -367,6 +369,7 @@ road_id,postcode,name,locality,city
 1804993,4284,Farm Road Extension,Oueroa,Waipukurau
 1775670,9073,Farm Road West,Henley,Mosgiel
 1851019,7774,Farmstead Lane,Huntingdon,Ashburton
+3084872,0583,Farms Terrace,Maungaturoto,Maungaturoto
 1778584,9730,Farm Street,Lumsden,
 1808803,3116,Farm Street,Mount Maunganui,
 3083038,7674,Farmview Lane,Lincoln,
@@ -892,6 +895,7 @@ road_id,postcode,name,locality,city
 1839068,2112,Figaro Crescent,Takanini,Auckland
 1945463,3283,Figgmartin Lane,Tamahere,Hamilton
 3082227,2019,Figo Place,Totara Park,Auckland
+3085032,0293,Fig Tree Lane,Kerikeri,Kerikeri
 1841046,0932,Fig Tree Lane,Silverdale,
 1830254,2105,Figtree Terrace,Goodwood Heights,Auckland
 3079402,1072,Filemu Lane,"Glen Innes,Wai o Taiki Bay",Auckland
@@ -994,6 +998,7 @@ road_id,postcode,name,locality,city
 1839659,2113,Fiorano Place,Karaka,Papakura
 1839035,5024,Fiordland Place,Aotea,Porirua
 1775383,9320,Fir Close,Alexandra,
+3084940,0618,Firebrick Way,Hobsonville,Auckland
 3081184,4891,Fire Lane,Himatangi Beach,
 3084035,2019,Firenze Road,Flat Bush,Auckland
 1838371,5018,Fire Station Lane,Trentham,Upper Hutt
@@ -1057,6 +1062,7 @@ road_id,postcode,name,locality,city
 1796086,3122,Fisher Place,Opotiki,
 1836085,,Fisher-Point Drive,Auckland Central,Auckland
 1839150,0482,Fisher-Riley Road,"Kaingaroa,Kaitaia",Kaitaia
+3085204,3434,Fisher Road,Cambridge,Cambridge
 3080684,3771,Fisher Road,Huntly,
 1773671,9273,Fisher Road,Kakapuaka,Balclutha
 1827094,2683,Fisher Road,Karioitahi,Waiuku
@@ -1211,12 +1217,14 @@ road_id,postcode,name,locality,city
 3081420,3210,Flaxbourne Lane,Flagstaff,Hamilton
 1786444,7986,Flaxburn Road,Winchester,
 3082307,3179,Flax Creek Way,Minden,Tauranga
+3084819,7334,Flax Crescent,Hanmer Springs,Hanmer Springs
 3078788,5794,Flax Cutter Lane,Woodside,Greytown
 1821670,0626,Flaxdale Street,Birkdale,Auckland
 1838934,3377,Flaxen Way,Kinloch,Taupo
 3077956,2571,Flaxfield Lane,Beachlands,Auckland
 3082312,0293,Flax Grove,Kerikeri,
 1785592,8083,Flaxgrove Place,Parklands,Christchurch
+3085232,7614,Flax Lane,Rolleston,Rolleston
 1803204,4120,Flaxmere Avenue,"Flaxmere,Longlands",Hastings
 1819906,0210,Flaxmere Place,Kawakawa,
 1798016,5036,Flaxmere Street,Waikanae Beach,Waikanae
@@ -1814,6 +1822,7 @@ road_id,postcode,name,locality,city
 2015086,7608,Foxbridge Lane,Lincoln,
 3082899,7614,Foxburrow Lane,Rolleston,
 1841377,3210,Foxbury Court,Rototuna North,Hamilton
+3084943,7604,Foxcroft Drive,Prebbleton,Prebbleton
 3063711,7483,Foxdown Road,Scargill,Waikari
 1784026,8025,Foxfield Lane,Westmorland,Christchurch
 1801969,7608,Foxford Close,Lincoln,
@@ -1964,6 +1973,7 @@ road_id,postcode,name,locality,city
 3077689,0931,Franheim Crescent,Orewa,
 1832310,2023,Franich Street,Otara,Auckland
 1832672,2019,Frank Bunce Grove,Flat Bush,Auckland
+3085179,7608,Frank Chittock Street,Lincoln,Lincoln
 1986960,8051,Frank Coxon Road,Belfast,Christchurch
 3081573,7604,Frank Ernest Crescent,Prebbleton,
 1823173,0610,Frank Evans Place,Henderson,Auckland
@@ -2273,6 +2283,7 @@ road_id,postcode,name,locality,city
 1828851,2102,Friedlanders Road,"Manurewa,Wattle Downs",Auckland
 1841239,8013,Friel Lane,Mairehau,Christchurch
 1776116,9774,Friend Road,Waimumu,Gore
+3085171,3216,Friends Drive,Hamilton East,Hamilton
 3056185,9092,Friends Hill Road,"Mosgiel,North Taieri",Mosgiel
 1770044,9018,Friendship Drive,Waldronville,Dunedin
 1780714,7700,Friendship Lane,Hampstead,Ashburton
@@ -2404,10 +2415,12 @@ road_id,postcode,name,locality,city
 1798804,4818,Funnell Street,Bulls,
 1840089,3112,Furl Close,Pyes Pa,Tauranga
 1842206,1061,Furley Place,Onehunga,Auckland
+3084837,1051,Furlong Avenue,Remuera,Auckland
 1799974,6037,Furlong Crescent,Churton Park,Wellington
 3077789,3187,Furlong Road,Papamoa,
 1817613,4610,Furlong Street,Hawera,
 3080839,8042,Furlong Street,Yaldhurst,Christchurch
+3085086,2113,Furlough Road,Opaheke,Papakura
 1832703,0932,Furnace Place,Silverdale,
 1792154,5024,Furneaux Grove,Whitby,Porirua
 1829893,1050,Furneaux Way,Remuera,Auckland

@@ -42,6 +42,7 @@ road_id,postcode,name,locality,city
 3081229,3876,Saddle Terrace,Te Awamutu,
 3039695,2679,Saddleton Road,"Clarks Beach,Waiau Pa","Clarks Beach,Pukekohe"
 3079865,8025,Saddle Vale Rise,Halswell,Christchurch
+3084887,9371,Saddle View Lane,Dalefield,Queenstown
 1773186,9018,Saddleview Place,Fairfield,Dunedin
 1825032,1025,Sadgrove Terrace,Mount Albert,Auckland
 3079123,3400,Sadie Drive,Matamata,
@@ -73,6 +74,7 @@ road_id,postcode,name,locality,city
 3083727,0616,Sailors Place,Hobsonville,Auckland
 1837102,0505,Sailrock Drive,Mangawhai Heads,Mangawhai
 1837255,0171,Sail Rock Road,Ruakaka,
+3084925,0616,Sails Road,Hobsonville,Auckland
 1783442,8053,Sails Street,Papanui,Christchurch
 1811679,3300,Sain Crescent,Morrinsville,
 1771662,9300,Sainsbury Road,Fernhill,Queenstown
@@ -170,6 +172,7 @@ road_id,postcode,name,locality,city
 1776317,9810,Salisbury Street,Waikiwi,Invercargill
 1788080,7825,Salisbury Street,Westport,
 1793685,6021,Salisbury Terrace,Mount Cook,Wellington
+3085231,7614,Salix Lane,Rolleston,Rolleston
 3082049,7610,Salkeld Place,Woodend,
 1826786,0116,Salle Road,Ruakaka,
 1820333,0486,Salles Road,Waiharara,Awanui
@@ -538,6 +541,7 @@ road_id,postcode,name,locality,city
 1796777,4500,Sarjeant Street,Gonville,Whanganui
 1822745,0602,Sarona Avenue,Glen Eden,Auckland
 1841082,3171,Sarona Park Drive,Omanawa,
+3084909,1072,Sarsen Place,Stonefields,Auckland
 1824443,1011,Sarsfield Street,"Herne Bay,Saint Marys Bay",Auckland
 1780311,7602,Sarsfield Street,Southbridge,
 3072094,,Sar Street,"Pipitea,Wadestown",Wellington
@@ -687,6 +691,7 @@ road_id,postcode,name,locality,city
 3047899,8081,Scarborough Track,Scarborough,Christchurch
 1778292,8022,Scarff Place,Cashmere,Christchurch
 1779380,7483,Scargill Valley Road,"Greta Valley,Scargill","Greta Valley,Waikari"
+3084803,3377,Scarlet Drive,Kinloch,Taupo
 1822966,0612,Scarlet Drive,Ranui,Auckland
 1787562,8051,Scarlet Lane,Redwood,Christchurch
 1832999,0632,Scarlet Oak Drive,Schnapper Rock,Auckland
@@ -708,6 +713,7 @@ road_id,postcode,name,locality,city
 3083325,0179,Scenic Rise,Maunu,Whangarei
 3083982,3281,Scenic Rise,Rototuna North,Hamilton
 1804307,4283,Scenic Road,Waipukurau,
+3085140,0573,Scenic Way,Mangawhai,Mangawhai
 1831521,1026,Sceptre Place,Avondale,Auckland
 1789530,7892,Schadick Avenue,Carters Beach,Westport
 1804591,4291,Schaeffer Road,Mangaorapa,Porangahau
@@ -868,6 +874,7 @@ road_id,postcode,name,locality,city
 1772724,9018,Scotland Terrace,Green Island,Dunedin
 1813464,3110,Scotney Mews,Bethlehem,Tauranga
 1781637,7992,Scotsburn Road,Peel Forest,Mount Peel
+3084766,7614,Scots Drive,Rolleston,Rolleston
 3031287,3371,Scotsman Valley Road,"Morrinsville,Tauwhare","Hamilton,Morrinsville"
 1838823,2103,Scotsmoor Drive,Wattle Downs,Auckland
 1783436,8052,Scotston Avenue,St Albans,Christchurch
@@ -1039,6 +1046,7 @@ road_id,postcode,name,locality,city
 1836630,3377,Seagers Close,Kinloch,Taupo
 1828040,2010,Seaglen Place,Botany Downs,Auckland
 1839412,5512,Seagrass Place,Otaki Beach,Otaki
+3085106,3114,Seagrass Way,Omokoroa,Omokoroa
 1784803,8041,Seagrave Place,Ilam,Christchurch
 3082351,2113,Seagreen Avenue,Rosehill,Papakura
 1826888,2679,Seagrove Road,Waiau Pa,Pukekohe
@@ -1313,6 +1321,7 @@ road_id,postcode,name,locality,city
 1789127,7020,Selbourne Avenue,Richmond,
 1776043,9772,Selbourne Street,"Charlton,Mataura","Gore,Mataura"
 1824456,1021,Selbourne Street,Grey Lynn,Auckland
+3085109,4130,Selby Lane,Havelock North,Havelock North
 1813284,3210,Selby Mews,Flagstaff,Hamilton
 1799142,4410,Selby Place,Hokowhitu,Palmerston North
 1831523,1011,Selby Square,Saint Marys Bay,Auckland
@@ -1464,6 +1473,7 @@ road_id,postcode,name,locality,city
 1770656,9492,Serpentine Road,"Incholme,Island Stream",Oamaru
 1836097,7882,Serpentine Road,Kumara Junction,Greymouth
 1775448,,Serpentine Road,"Lake Onslow,Paerau,Serpentine","Patearoa,Roxburgh"
+3085161,9305,Serpentine Street,Wanaka,Wanaka
 3047006,7977,Serpentine Valley Road,"Elephant Hill,Waihao Downs,Waihaorunga",Waimate
 3083573,2019,Serpent Road,Flat Bush,Auckland
 3082768,0230,Serrana Way,Kerikeri,
@@ -2198,11 +2208,13 @@ road_id,postcode,name,locality,city
 1794464,6012,Shropshire Avenue,Wilton,Wellington
 3084271,2580,Shropshire Street,Karaka,Papakura
 1775844,9793,Shropshire Street,Kingston,
+3084761,7614,Shrubbery Lane,Rolleston,Rolleston
 3078834,0616,Shrub Lane,Hobsonville,Auckland
 1833170,2013,Shrule Place,East Tamaki,Auckland
 1834452,3210,Shrule Place,Huntington,Hamilton
 3080935,3432,Shuka Avenue,Leamington,Cambridge
 1772705,9018,Shulma Street,Abbotsford,Dunedin
+3084806,3377,Shumard Way,Kinloch,Taupo
 1803606,4274,Shunt Road,Tikokino,
 1839821,7612,Shurrock Lane,Pegasus,
 3054205,8062,Shuttle Drive,"Bromley,Wainoni",Christchurch
@@ -2310,6 +2322,7 @@ road_id,postcode,name,locality,city
 1814458,3216,Silverdale Road,"Hillcrest,Silverdale",Hamilton
 1821131,0932,Silverdale Street,Silverdale,
 1820429,0420,Silver Egg Road,Mangonui,
+3085169,9371,Silvereye Lane,Lower Shotover,Queenstown
 1834066,3283,Silver Eye Lane,Tamahere,Hamilton
 3077523,0616,Silvereye Road,Hobsonville,Auckland
 3082614,8025,Silvereye Street,Halswell,Christchurch
@@ -2318,6 +2331,7 @@ road_id,postcode,name,locality,city
 3079815,3118,Silver Fern Lane,Papamoa,
 3083720,0110,Silver Fern Way,Woodhill,Whangarei
 1831180,0627,Silverfield,Wairau Valley,Auckland
+3085235,7614,Silvergrass Way,Rolleston,Rolleston
 3080657,0932,Silverhill Lane,Silverdale,
 1821133,0975,Silver Hill Road,"Te Hana,Wellsford",Wellsford
 1839196,4784,Silverhope Bush Road,Hunterville,
@@ -2505,6 +2519,7 @@ road_id,postcode,name,locality,city
 3080920,8051,Sir Keith Park Place,Harewood,Christchurch
 2004369,0810,Sir Lincoln Drive,Kumeu,
 3034615,2010,Sir Lloyd Drive,"Half Moon Bay,Pakuranga Heights",Auckland
+3084910,2013,Sir Noel Robinson Place,East Tamaki,Auckland
 1948920,7273,Sirocco Place,Koromiko,Picton
 2014032,3112,Sirocco Place,Ohauiti,Tauranga
 1832723,0622,Sir Peter Blake Parade,Bayswater,Auckland
@@ -2561,6 +2576,7 @@ road_id,postcode,name,locality,city
 1775172,9019,Skerries Street,Outram,
 1773726,9534,Skerry Street,Clinton,
 1784097,8042,Skerten Avenue,Hornby,Christchurch
+3084812,7774,Skevington Close,Huntingdon,Ashburton
 3081721,7477,Skevington Lane,Sefton,
 1791432,7371,Skevingtons Road,Hapuku,Kaikoura
 1785354,7691,Skewbridge Road,"Clarkville,Flaxton","Kaiapoi,Rangiora"
@@ -2835,6 +2851,7 @@ road_id,postcode,name,locality,city
 1799700,4474,Snake Gully,Shannon,
 1826485,0185,Snake Hill Road,Te Kamo,Whangarei
 3080656,8025,Snapdragon Lane,Wigram,Christchurch
+3085174,3114,Snapper Crescent,Omokoroa,Omokoroa
 1821139,0993,Snapper Road,Stillwater,Silverdale
 3079780,4815,Snappers Lane,Foxton Beach,Foxton
 1834973,0377,Snapper Street,Baylys Beach,
@@ -2886,12 +2903,14 @@ road_id,postcode,name,locality,city
 1780436,7510,Snowdon Place,Darfield,
 1784707,8052,Snowdon Road,Fendalton,Christchurch
 1781617,7974,Snowdon Road,Gleniti,Timaru
+3085135,7395,Snowdon Road,Lyford,Waiau
 1780435,7572,Snowdon Road,Windwhistle,Hororata
 1773250,9092,Snowdon Street,Allanton,Mosgiel
 2005395,7618,Snowlea Place,West Melton,
 1834099,4625,Snowmass Drive,Ohakune,
 1789054,7020,Snow Place,Richmond,
 1841213,9371,Snowshill Lane,Lower Shotover,Queenstown
+3085199,7671,Snowshill Way,West Melton,West Melton
 1801324,4071,Snowsill Road,Ormond,Gisborne
 3078907,9300,Snowy Place,"Frankton,Queenstown Hill",Queenstown
 1841231,7871,Snowy River Road,Ikamatua,Reefton
@@ -2908,6 +2927,7 @@ road_id,postcode,name,locality,city
 3078640,2110,Softwood Avenue,Takanini,Auckland
 1832619,0632,Sohlue Place,Oteha,Auckland
 3081787,3187,Soho Lane,Papamoa,
+3084901,7676,Soho Lane,West Melton,West Melton
 1771615,9382,Soho Street,Cardrona,Wanaka
 3078801,2104,Sohum Place,Manukau,Auckland
 1818482,2010,Solana Court,Botany Downs,Auckland
@@ -3073,6 +3093,7 @@ road_id,postcode,name,locality,city
 3079260,0612,Sophie Lane,Henderson,Auckland
 1789796,7011,Sophies Way,Enner Glynn,Nelson
 1835850,3118,Sophies Way,Papamoa Beach,Papamoa
+3084974,3400,Sophora Lane,Matamata,Matamata
 1950918,3118,Sophora Place,Papamoa Beach,Papamoa
 1786984,8083,Sophora Place,Parklands,Christchurch
 3024816,2105,Sophora Place,Totara Heights,Auckland
@@ -3421,6 +3442,7 @@ road_id,postcode,name,locality,city
 1780329,7674,Sportsmans Avenue,Motukarara,Tai Tapu
 3077590,0616,Spotted Dove Road,Hobsonville,Auckland
 3044178,9013,Spottiswoode Street,"Andersons Bay,Tainui",Dunedin
+3085227,9305,Spotts Creek Terrace,Wanaka,Wanaka
 1821540,0985,Spray Crescent,Leigh,
 3081049,0632,Spray Rise,Albany,Auckland
 1791286,7276,Spray Road,Waihopai Valley,
@@ -3443,6 +3465,7 @@ road_id,postcode,name,locality,city
 1788874,7803,Spring Creek Road,"Coal Creek,Dunollie,Nine Mile,Runanga","Greymouth,Runanga"
 3013058,2113,Springcrest Drive,Karaka,Papakura
 3080332,7774,Springdale Avenue,Huntingdon,Ashburton
+3084811,7774,Springdale Close,Huntingdon,Ashburton
 1799104,4410,Springdale Grove,Fitzherbert,Palmerston North
 1837276,0110,Springdale Lane,Maunu,Whangarei
 1772843,9023,Springdon Avenue,Sawyers Bay,Dunedin
@@ -3592,6 +3615,7 @@ road_id,postcode,name,locality,city
 3084605,5571,Stables Drive,Levin,
 1838236,7608,Stables Drive,Lincoln,
 3084730,9024,Stables Lane,Mosgiel,Mosgiel
+3084900,4120,Stables Lane,Raureka,Hastings
 1842497,0932,Stables Lane,Silverdale,
 1856712,9371,Stables Place,Arthurs Point,Queenstown
 1779072,8051,Stable Way,Belfast,Christchurch
@@ -3805,6 +3829,7 @@ road_id,postcode,name,locality,city
 1812358,3330,Stanley Street,Wharewaka,Taupo
 1804865,4920,Stanley Street,Woodville,
 3063090,9877,Stanley Township Road,"Greenhills,Mokomoko Inlet,Omaui",Invercargill
+3084981,7334,Stanley Vale Loop,Hanmer Springs,Hanmer Springs
 1797833,4900,Stanly Street,Eketahuna,
 1821537,0932,Stanmore Bay Road,Stanmore Bay,Whangaparaoa
 1823800,1021,Stanmore Road,Grey Lynn,Auckland
@@ -4238,6 +4263,7 @@ road_id,postcode,name,locality,city
 1842257,0932,Steamer Road,Silverdale,
 1823109,0782,Steam Hauler Track,Waitakere,Auckland
 1833789,7604,Steam Mill Lane,Prebbleton,
+3085261,2585,Steamship Hirere Lane,Clevedon,Clevedon
 1785691,8023,Steam Wharf Lane,Woolston,Christchurch
 1791048,7273,Steam Wharf Road,Grovetown,Blenheim
 1806442,8025,Steane Place,Halswell,Christchurch
@@ -4749,6 +4775,7 @@ road_id,postcode,name,locality,city
 1773997,9591,Stonewall Street,Beaumont,Lawrence
 1809305,3112,Stonewall Way,Hairini,Tauranga
 1829405,2025,Stonex Road,Papatoetoe,Auckland
+3085221,0420,Stoney Bay Lane,Cable Bay,Cable Bay
 1834106,0112,Stoneybrook Lane,Te Kamo,Whangarei
 2012360,0230,Stoney Brook Lane,Kerikeri,
 1830076,0782,Stoney Creek Drive,Waitakere,Auckland
@@ -4966,6 +4993,7 @@ road_id,postcode,name,locality,city
 2018664,2472,Streamfields Way,Bombay,
 3037922,5018,Stream Grove,"Heretaunga,Silverstream",Upper Hutt
 3014932,0981,Streamlands Swamp Road,"Dome Forest,Kaipara Flats",Warkworth
+3085017,3183,Stream Ridge,Papamoa,Papamoa
 1840525,8062,Streamside Court,Woolston,Christchurch
 3078101,2019,Streamside Drive,Flat Bush,Auckland
 1840285,9371,Streamside Lane,Arrowtown,
@@ -5707,6 +5735,7 @@ road_id,postcode,name,locality,city
 1778345,9710,Sword Street,Gore,
 1835508,7371,Swyncombe Place,Kaikoura Flat,Kaikoura
 1803607,8024,Swynford Lane,Spreydon,Christchurch
+3085121,9382,Sybil Drive,Wanaka,Wanaka
 1836705,7010,Sybil Way,Marybank,Nelson
 1781195,7782,Sycamore Avenue,Barrhill,Lauriston
 1804587,7400,Sycamore Close,Rangiora,

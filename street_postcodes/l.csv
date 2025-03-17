@@ -125,6 +125,7 @@ road_id,postcode,name,locality,city
 1841977,8083,Lakebridge Place,Parklands,Christchurch
 1790764,,Lake Brunner Road,"Inchbonnie,Jacksons,Moana","Inchbonnie,Moana"
 3080692,8053,Lake Bryndwr Lane,Burnside,Christchurch
+3085258,7201,Lake Chalice Drive,Springlands,Blenheim
 1813601,3579,Lake Court,Pauanui,
 1807350,3204,Lake Crescent,Hamilton Lake,Hamilton
 1788527,7110,Lake Crescent,Takaka,
@@ -198,6 +199,7 @@ road_id,postcode,name,locality,city
 1810358,3074,Lake Rotoma Road,Lake Rotoma,Rotorua
 1835452,3112,Lakes Boulevard,"Pyes Pa,Tauriko",Tauranga
 3048774,9371,Lakeshore Drive,Drift Bay,Queenstown
+3084935,7572,Lakeside,Windwhistle,Hororata
 1782004,7999,Lakeside Drive,Lake Tekapo,
 1818453,0931,Lakeside Drive,Orewa,
 1827843,2113,Lakeside Drive,Pahurehure,Papakura
@@ -582,6 +584,7 @@ road_id,postcode,name,locality,city
 1795241,5894,Larchbank Road,Tinui,
 1771694,9300,Larch Court,Kelvin Heights,Queenstown
 1774400,9320,Larch Crescent,Alexandra,
+3084765,7614,Larch Drive,Rolleston,Rolleston
 3081089,3377,Larches Lane,Kinloch,Taupo
 1796239,5032,Larch Grove,Paraparaumu,
 3006058,7999,Larch Grove Road,Aoraki/Mount Cook National Park,
@@ -1144,6 +1147,7 @@ road_id,postcode,name,locality,city
 1828288,2019,Lema Place,Clover Park,Auckland
 1788214,7011,Lemari Avenue,Stoke,Nelson
 1824465,1022,Lemington Road,Westmere,Auckland
+3085198,7671,Lemington Way,West Melton,West Melton
 1794770,6012,Lemnos Avenue,Karori,Wellington
 1823571,0604,Lemnos Place,Titirangi,Auckland
 3041082,0295,Lemon Grove,Waipapa,
@@ -1187,6 +1191,7 @@ road_id,postcode,name,locality,city
 1804923,4130,Lennon Grove,Havelock North,
 1841327,3118,Lennon Way,Papamoa Beach,Papamoa
 1836043,0632,Lennox Lane,Rosedale,Auckland
+3085160,9382,Lennox Lane,Wanaka,Wanaka
 1797315,4702,Lennox Place,Feilding,
 1798669,4592,Lennox Road,Waverley,
 1778353,9710,Lennox Street,Gore,
@@ -1320,6 +1325,7 @@ road_id,postcode,name,locality,city
 1839248,1060,Levene Place,Mount Wellington,Auckland
 3049547,2105,Leven Lane,Totara Heights,Auckland
 1779503,7920,Levens Lane,Temuka,
+3085226,9305,Leven Stream Lane,Wanaka,Wanaka
 1776565,9810,Leven Street,"Avenal,Invercargill",Invercargill
 1774616,9400,Leven Street,"Holmes Hill,South Hill",Oamaru
 1781751,7910,Leven Street,Marchwiel,Timaru
@@ -1421,6 +1427,8 @@ road_id,postcode,name,locality,city
 1807374,3200,Leyton Place,Nawton,Hamilton
 1828277,2104,Leyton Way,Manukau,Auckland
 1832200,2012,Liam Place,Half Moon Bay,Auckland
+3084760,7614,Liana Lane,Rolleston,Rolleston
+3084848,1072,Liane Ngamane Road,St Johns,Auckland
 1810368,3015,Liane Place,Mangakakahi,Rotorua
 1794784,,Liardet Street,"Berhampore,Vogeltown",Wellington
 1816727,4310,Liardet Street,New Plymouth,
@@ -1506,6 +1514,7 @@ road_id,postcode,name,locality,city
 1842989,7614,Lignite Drive,Rolleston,
 1810865,3700,Lignite Street,Huntly,
 3083341,2579,Lignite Street,Ramarama,Drury
+3084825,2019,Ligurian Lane,Flat Bush,Auckland
 1839419,3434,Lilac Close,Cambridge,
 1825504,1042,Lilac Grove,Hillsborough,Auckland
 1801361,4412,Lilac Lane,Highbury,Palmerston North
@@ -1722,6 +1731,7 @@ road_id,postcode,name,locality,city
 1778139,9720,Lindsay Street,Winton,
 1779946,7387,Lindsay Terrace,Motunau,Greta Valley
 3080288,9810,Lindsay Way,Grasmere,Invercargill
+3085180,7608,Lindsay Wilson Street,Lincoln,Lincoln
 1796966,4501,Lindsey Crescent,Springvale,Whanganui
 1839084,0483,Lindsey Way,Karikari Peninsula,
 1800976,4777,Lind Street,Kimbolton,
@@ -1825,6 +1835,7 @@ road_id,postcode,name,locality,city
 1811923,3320,Lipsey Street,Te Aroha,
 1827844,2113,Lipton Grove,Opaheke,Papakura
 1804217,4110,Lipton Place,Onekawa,Napier
+3084972,3474,Liquidambar Crescent,Matamata,Matamata
 1845275,0616,Liquidambar Drive,Hobsonville,Auckland
 1973523,0875,Liquidambar Lane,Kaukapakapa,
 3081887,8025,Liquidambar Street,Halswell,Christchurch
@@ -1901,6 +1912,7 @@ road_id,postcode,name,locality,city
 1825156,1042,Littlejohn Street,Hillsborough,Auckland
 3084405,3600,Little Kiwi Drive,Paeroa,
 3070850,9396,Little Kyeburn Road,"Kyeburn,Kyeburn Diggings,Naseby","Kyeburn,Naseby"
+3085141,0593,Little Lane,Tinopai,Tinopai
 1817843,4389,Little Lepper Road,"Inglewood,Waiongana",Inglewood
 1807379,3204,Little London Lane,Hamilton Central,Hamilton
 3003313,0991,Little Mahuki Island,"Hauraki Gulf / Tikapa Moana,Little Mahuki Island",
@@ -1912,6 +1924,7 @@ road_id,postcode,name,locality,city
 1817755,4678,Little Oeo Road,Auroa,Hawera
 1773899,9271,Little Omaru Road,"Glenomaru Valley,Katea","Kaka Point,Owaka"
 3078027,9382,Little Orchard Way,Wanaka,
+3085165,9371,Little Owl Loop,Jacks Point,Queenstown
 3031115,7882,Little Paddock Road,Blue Spur,Hokitika
 3010174,6011,Little Palmer Street,Aro Valley,Wellington
 1778275,9600,Little Park Lane,Te Anau,
@@ -2009,6 +2022,7 @@ road_id,postcode,name,locality,city
 1833268,0994,Lloyd Drive,Wainui,
 1802074,9382,Lloyd Dunn Avenue,Wanaka,
 1798724,4010,Lloyd George Road,Wainui,Gisborne
+3085022,5036,Lloyd Parker Lane,Waikanae,Waikanae
 1799774,5032,Lloyd Place,Paraparaumu Beach,Paraparaumu
 1781258,7992,Lloyd Road,"Arundel,Peel Forest","Geraldine,Mount Peel"
 1830916,0793,Lloyd Road,Riverhead,
@@ -2273,6 +2287,7 @@ road_id,postcode,name,locality,city
 3083209,0230,Lone Gum Lane,Kerikeri,
 1823565,0772,Lone Kauri Road,"Karekare,Piha","Auckland,Piha"
 3036064,,Lonely Track Road,"Albany Heights,Dairy Flat,Fairview Heights,Redvale","Auckland,Dairy Flat"
+3085016,9382,Lone Star Lane,Cardrona,Wanaka
 1830217,0610,Lone Tree Avenue,Te Atatu Peninsula,Auckland
 1800208,5010,Lone Tree Grove,Kelson,Lower Hutt
 1991280,3129,Long Acre Close,Katikati,
@@ -2327,6 +2342,7 @@ road_id,postcode,name,locality,city
 2012850,9371,Longlands Street,Lake Hayes,Queenstown
 1786903,8024,Longley Place,Addington,Christchurch
 1785903,7583,Long Lookout Road,Little Akaloa,
+3085117,9382,Long Meadow Drive,Wanaka,Wanaka
 1829796,0985,Long Meadow Lane,Matakana,
 1799247,4412,Long Melford Road,Awapuni,Palmerston North
 1794767,6037,Longmont Terrace,Churton Park,Wellington
@@ -2605,6 +2621,7 @@ road_id,postcode,name,locality,city
 1818382,4374,Lower Ahu Ahu Road,Kaitake,New Plymouth
 1831383,1010,Lower Albert Street,Auckland Central,Auckland
 1812827,3434,Lower Alpha Street,Cambridge,
+3084786,4681,Lower Arawhata Road,Opunake,Opunake
 1817624,4598,Lower Ball Road,Kakaramea,Patea
 3028804,7774,Lower Beach Road,"Ashton,Eiffelton,Lowcliffe",Ashburton
 1798769,4710,Lower Beaven Street,Marton,
@@ -2632,9 +2649,12 @@ road_id,postcode,name,locality,city
 1830898,0794,Lower Jeffs Road,Dairy Flat,
 1817626,4597,Lower Kaharoa Road,Patea,
 1817269,4681,Lower Kahui Road,Rahotu,Opunake
+3084797,4675,Lower Katene Road,Normanby,Hawera
 1817271,4681,Lower Kina Road,Oaonui,Opunake
 1817094,4372,Lower King Road,Tarurutangi,New Plymouth
+3084794,4682,Lower Kiri Road,Te Kiri,Opunake
 1780115,7683,Lower Lake Road,Leeston,
+3085122,9371,Lower Long Rise,Jacks Point,Queenstown
 1792241,5022,Lower Main Drive,Kenepuru,Porirua
 1771256,9393,Lower Manorburn Dam Road,Galloway,Alexandra
 1817625,4598,Lower Manutahi Road,Manutahi,Patea
@@ -2642,6 +2662,7 @@ road_id,postcode,name,locality,city
 1811590,4591,Lower Moeawatea Road,Moeawatea,Waverley
 1825452,1061,Lower Municipal Place,Onehunga,Auckland
 3006993,0604,Lower Nihotupu Dam Road,"Nihotupu,Parau",Auckland
+3084800,4678,Lower Normanby Road,Manaia,Manaia
 1794783,6012,Lower North Terrace,Kelburn,Wellington
 1776914,9893,Lowe Road,"Ashers,Oteramika,Seaward Downs","Invercargill,Wyndham"
 1826419,0181,Lowe Road,"Glenbervie Forest,Hikurangi",Hikurangi
@@ -2655,6 +2676,7 @@ road_id,postcode,name,locality,city
 1817101,4374,Lower Pitone Road,Pitone,New Plymouth
 1851095,4381,Lower Puniho Road,Warea,
 3045390,,Lower Queen Street,Richmond,
+3084796,4678,Lower Rama Road,Kaupokonui,Hawera
 3050269,9682,Lower Scotts Gap Road,"Scotts Gap,Waikoura",Otautau
 3063367,7472,Lower Sefton Road,"Ashley,Sefton","Rangiora,Sefton"
 3033606,9371,Lower Shotover Road,"Lake Hayes,Lower Shotover,Speargrass Flat",Queenstown
@@ -2667,8 +2689,10 @@ road_id,postcode,name,locality,city
 1801179,4592,Lower Waiau Road,Waverley,
 1815973,3720,Lower Waikato Esplanade,Ngaruawahia,
 1791027,7202,Lower Wairau Road,Grovetown,Blenheim
+3084798,4682,Lower Waiteika Road,Opunake,Opunake
 1791407,7300,Lower Ward Street,Kaikoura,
 1793874,6012,Lower Watt Street,Wadestown,Wellington
+3084795,4678,Lower Winks Road,Manaia,Manaia
 1825157,1041,Lowery Avenue,Mount Roskill,Auckland
 1774323,9593,Lowery Road,Waitahuna West,Lawrence
 3057185,7775,Lowerys Road,"Tinwald,Winslow",Ashburton
@@ -3001,6 +3025,7 @@ road_id,postcode,name,locality,city
 3011348,9010,Lynn Street,"Maori Hill,Wakari",Dunedin
 3011350,7772,Lynn Street,Newland,Ashburton
 1770178,9400,Lynn Street,Oamaru North,Oamaru
+3085212,2121,Lyn Reta Way,Tuakau,Tuakau
 1816975,4310,Lyn Street,Lynmouth,New Plymouth
 3022160,0793,Lynton Masters Lane,Coatesville,
 1829236,2012,Lynton Road,Bucklands Beach,Auckland

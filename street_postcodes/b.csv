@@ -1511,6 +1511,7 @@ road_id,postcode,name,locality,city
 1813454,3175,Beech Court,Welcome Bay,Tauranga
 1814434,3216,Beech Crescent,Hillcrest,Hamilton
 1829194,2010,Beechdale Crescent,Pakuranga Heights,Auckland
+3084818,7334,Beech Drive,Hanmer Springs,Hanmer Springs
 1840122,7400,Beech Drive,Rangiora,
 1822700,0626,Beeche Place,Birkdale,Auckland
 1830702,0200,Beechey Street,Opua,
@@ -2136,6 +2137,7 @@ road_id,postcode,name,locality,city
 1774461,9073,Berriedale Road,Circle Hill,Milton
 3084208,9382,Berry Farm Drive,Wanaka,
 3078525,7020,Berryfield Drive,"Appleby,Richmond",Richmond
+3085192,8051,Berryfields Avenue,Harewood,Christchurch
 1788313,7011,Berry Lane,Stoke,Nelson
 3040314,3772,Berrymans Access Road,"Huntly,Lake Waahi",Huntly
 1833540,4410,Berrymans Lane,Palmerston North,
@@ -2273,6 +2275,7 @@ road_id,postcode,name,locality,city
 1806474,8025,Bibiana Street,Aidanfield,Christchurch
 3080836,9372,Bible Terrace Rise,Glenorchy,
 1837450,0612,Bibury Avenue,Henderson,Auckland
+3085202,7618,Bibury Lane,West Melton,West Melton
 3006341,0391,Bickers Road,Te Kopuru,
 1830650,,Bickerstaffe Road,Maungaturoto,
 1819416,0587,Bickerstaffe Station Road,Maungaturoto,
@@ -2397,6 +2400,7 @@ road_id,postcode,name,locality,city
 1838364,7692,Birchdale Place,Ohoka,
 1779881,7385,Birchdale Road,Masons Flat,Hawarden
 1838337,4930,Birch Drive,Dannevirke,
+3084936,9371,Birches Avenue,Speargrass Flat,Queenstown
 1791420,7374,Birches Road,Oaro,Kaikoura
 1782524,8061,Birchfield Avenue,Dallington,Christchurch
 1771903,9010,Birchfield Avenue,North East Valley,Dunedin
@@ -2580,9 +2584,11 @@ road_id,postcode,name,locality,city
 1835592,4294,Black Barn Road,Havelock North,
 3078642,2110,Black Beech Crescent,Takanini,Auckland
 1792790,5018,Black Beech Street,Birchville,Upper Hutt
+3085193,8051,Blackberry Court,Harewood,Christchurch
 1841103,3175,Blackberry Way,Welcome Bay,Tauranga
 3077524,0616,Blackbird Lane,Hobsonville,Auckland
 3082416,0573,Blackbird Place,Mangawhai Heads,Mangawhai
+3085164,9371,Blackbird Road,Jacks Point,Queenstown
 1788945,7175,Blackbird Valley Road,Upper Moutere,
 3082892,7614,Blackbird Way,Rolleston,
 3082766,0293,Blackbridge Drive,Haruru,
@@ -2700,6 +2706,7 @@ road_id,postcode,name,locality,city
 1841646,0110,Black Wattle Lane,Raumanga,Whangarei
 1785069,7630,Blackwell Crescent,Kaiapoi,
 3060574,0991,Blackwell Drive,Great Barrier Island (Aotea Island),
+3085241,0985,Blackwell Lane,Warkworth,Warkworth
 3084582,0985,Blackwell Lane,Warkworth,
 1798732,4710,Blackwell Street,Marton,
 1771927,9014,Blackwell Street,Portobello,Dunedin
@@ -2899,6 +2906,7 @@ road_id,postcode,name,locality,city
 1779878,7481,Bloomfield Street,Leithfield,
 1800217,5010,Bloomfield Terrace,Hutt Central,Lower Hutt
 1794173,6037,Bloomsbury Grove,Newlands,Wellington
+3084973,3474,Blossom Close,Matamata,Matamata
 1784512,8053,Blossomdale Place,Bishopdale,Christchurch
 1839316,3118,Blossom Grove,Papamoa Beach,Papamoa
 1805754,8042,Blossom Lady Lane,Templeton,Christchurch
@@ -2951,6 +2959,7 @@ road_id,postcode,name,locality,city
 1813362,3283,Blue Heron Place,Tamahere,Hamilton
 1832558,0932,Blue Heron Rise,Stanmore Bay,Whangaparaoa
 3080717,0573,Blue Heron Way,Kaiwaka,
+3085257,7201,Blue Hills Drive,Springlands,Blenheim
 1837259,0174,Blue Horizon Road,Whangarei Heads,
 3080504,8025,Blue Jacket Drive,Halswell,Christchurch
 1842367,5024,Bluejacket Place,Whitby,Porirua
@@ -3063,6 +3072,7 @@ road_id,postcode,name,locality,city
 1796255,2120,Bob Craig Place,Pukekohe,
 3077712,2675,Bob Evans Way,Bombay,
 3053457,9371,Bob Fortune Way,Mount Creighton,Queenstown
+3084815,0179,Bob Herman Lane,Maunu,Whangarei
 3083544,0602,Bobica Lane,Glen Eden,Auckland
 1836580,9305,Bob Lee Place,Wanaka,
 3083411,7571,Bob Reid Crescent,Darfield,
@@ -3163,6 +3173,7 @@ road_id,postcode,name,locality,city
 1982685,0616,Bomb Point Drive,Hobsonville,Auckland
 1790850,7201,Bomford Street,Mayfield,Blenheim
 1933938,0920,Bon Accord Harbour,"Bon Accord Harbour,Kawau Island,School House Bay",Kawau Island
+3085091,9291,Bon Accord Way,Milton,Milton
 1841396,0932,Bonair Crescent,Silverdale,
 1812174,3420,Bonaly Street,Tokoroa,
 1806537,3579,Bonanza Place,Pauanui,
@@ -3364,6 +3375,7 @@ road_id,postcode,name,locality,city
 3082557,9371,Boulder Lane,Jacks Point,Queenstown
 1847824,3112,Boulder Lane,Pyes Pa,Tauranga
 1779159,7473,Boulder Road,Glentui,Oxford
+3085133,0475,Boulder Way,Okaihau,Okaihau
 1800444,6037,Bould Street,Johnsonville,Wellington
 1859648,8025,Bouler Court,Halswell,Christchurch
 1816632,4312,Boulevard Drive,Merrilands,New Plymouth
@@ -3799,6 +3811,7 @@ road_id,postcode,name,locality,city
 1783041,8061,Bramwell Street,Dallington,Christchurch
 3007775,3282,Branca Close,Fitzroy,Hamilton
 1835227,3434,Brancaster Place,Cambridge,
+3085228,9305,Branch Burn Close,Wanaka,Wanaka
 1771519,9382,Branch Creek Road,Cardrona,Wanaka
 1787338,7682,Branch Drain Road,Leeston,
 1816629,4312,Branch Road,"Highlands Park,Welbourn",New Plymouth
@@ -4010,6 +4023,7 @@ road_id,postcode,name,locality,city
 1822769,0602,Brian Berg Place,Glen Eden,Auckland
 1933530,2121,Brian Cowley Place,Tuakau,
 1820989,0932,Brian Crescent,Stanmore Bay,Whangaparaoa
+3085255,2582,Brian Cunningham Way,Clevedon,Clevedon
 1834219,3700,Brian Curle Close,Huntly,
 1813796,3112,Brianell Valley Road,Pyes Pa,Tauranga
 3081618,5014,Brian Hughes Road,Wainuiomata,Lower Hutt
@@ -4058,6 +4072,7 @@ road_id,postcode,name,locality,city
 1842898,5032,Bridford Way,Paraparaumu,
 1823461,0610,Bridge Avenue,Te Atatu South,Auckland
 1837791,2016,Bridgefield Crescent,Flat Bush,Auckland
+3084941,7604,Bridgehampton Drive,Prebbleton,Prebbleton
 1818701,0618,Bridgehead Cove,West Harbour,Auckland
 1774779,9572,Bridge Huts Road,Teviot,Roxburgh
 1777294,9876,Bridge Inn Road,"Grove Bush,Rakahouka,Roslyn Bush",Invercargill
@@ -4301,6 +4316,7 @@ road_id,postcode,name,locality,city
 1836691,7010,Broadfield Place,Nelson South,Nelson
 1829741,0614,Broadfield Street,Massey,Auckland
 1810093,3910,Broadfoot Place,Te Kuiti,
+3085009,7510,Broadgate Street,Darfield,Darfield
 1780406,7510,Broadgate Street,Darfield,
 1783580,7979,Broad Gully Road,Morven,Waimate
 1786987,8083,Broadhaven Avenue,Parklands,Christchurch
@@ -4713,6 +4729,7 @@ road_id,postcode,name,locality,city
 1807811,3206,Bruce Avenue,Glenview,Hamilton
 1780292,7674,Bruce Avenue,Springston,
 1813837,3800,Bruce Berquist Drive,Te Awamutu,
+3085025,3495,Bruce Cochrane Lane,Leamington,Cambridge
 1780763,7700,Brucefield Avenue,Netherby,Ashburton
 1833198,0994,Bruce MacGregor Lane,Puhoi,Warkworth
 1818753,0612,Bruce McLaren Road,Henderson,Auckland
@@ -4739,6 +4756,7 @@ road_id,postcode,name,locality,city
 1811366,3781,Bruce Road,Waerenga,Te Kauwhata
 1802455,4091,Bruce Road,Whatatutu,Te Karaka
 1832873,2013,Bruce Roderick Drive,East Tamaki,Auckland
+3085002,7810,Bruce Smith Drive,Hokitika,Hokitika
 1781019,7771,Bruces Road,Ashburton Forks,Ashburton
 1781018,7771,Bruces Road,Mount Somers,
 1784980,7472,Bruces Road,Sefton,
@@ -5356,6 +5374,7 @@ road_id,postcode,name,locality,city
 1789044,7096,Bush Gully Road,Tapawera,Wakefield
 1830171,0112,Bush Haven Drive,"Te Kamo,Tikipunga",Whangarei
 3055458,2679,Bushlake Way,Kingseat,Pukekohe
+3085137,2019,Bushland Drive,Flat Bush,Auckland
 1794659,6037,Bushland Grove,Paparangi,Wellington
 3081968,8025,Bushland Place,Westmorland,Christchurch
 1818496,0632,Bushlands Park Drive,Albany,Auckland
@@ -5487,6 +5506,7 @@ road_id,postcode,name,locality,city
 1770389,9483,Butter and Egg Road,Moonlight,Macraes Flat
 3082546,3600,Buttercup Lane,Paeroa,
 1832481,0812,Buttercup Place,Waimauku,
+3085119,9382,Buttercup Street,Wanaka,Wanaka
 1778987,0110,Butter Factory Lane,Whangarei,
 1787228,8062,Butterfield Avenue,"Bromley,Linwood",Christchurch
 1771777,9382,Butterfield Road,Hawea Flat,Lake Hawea
@@ -5521,6 +5541,7 @@ road_id,postcode,name,locality,city
 1824258,1022,Buxton Street,Point Chevalier,Auckland
 1788439,7011,Buxton Street,Stoke,Nelson
 1783839,8022,Buxton Terrace,Saint Martins,Christchurch
+3084759,7614,Buxus Way,Rolleston,Rolleston
 3046164,9492,Buzan Road,"Incholme,Island Stream,Maheno",Oamaru
 1789367,7095,Buzz Road,Belgrove,Wakefield
 1826944,2683,B Westhead Road,Pollok,

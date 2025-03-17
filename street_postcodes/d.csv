@@ -27,6 +27,7 @@ road_id,postcode,name,locality,city
 1799440,4414,Dahlstrom Grove,Kelvin Grove,Palmerston North
 1791542,3989,Dahya Lala Drive,Kakahi,
 1832651,0600,Dainton Place,New Lynn,Auckland
+3084871,0583,Dairy Drive,Maungaturoto,Maungaturoto
 3050110,7373,Dairy Farm Road,"Inland Road,Peketa",Kaikoura
 1795792,4472,Dairy Farm Road,Turitea,Palmerston North
 3064803,,Dairy Flat Highway,Albany,Auckland
@@ -256,6 +257,7 @@ road_id,postcode,name,locality,city
 3003830,9271,Dans Peak Road,"Ahuriri Flat,Katea","Kaka Point,Owaka"
 1789361,7096,Dans Road,Tapawera,Wakefield
 1778096,9883,Dan Street,Gummies Bush,Riverton/Aparima
+3084773,8083,Dan Street,Marshland,Christchurch
 1792727,5018,Dante Road,Trentham,Upper Hutt
 1830192,0931,Dan Tori Place,Orewa,
 1829577,0602,Danube Lane,Glen Eden,Auckland
@@ -1116,6 +1118,7 @@ road_id,postcode,name,locality,city
 1814203,3620,Diana Avenue,Whangamata,
 1822267,0627,Diana Drive,"Glenfield,Wairau Valley",Auckland
 1809553,3120,Diana Glade,Whakatane,
+3085195,8051,Diana Harrow Drive,Harewood,Christchurch
 1799921,4500,Diana Place,Otamatea,Whanganui
 1830222,0612,Diana Place,Ranui,Auckland
 1810147,3015,Diana Place,Sunnybrook,Rotorua
@@ -1572,6 +1575,7 @@ road_id,postcode,name,locality,city
 1779494,7920,Donald Street,Temuka,
 1786679,7614,Donatello Drive,Rolleston,
 2005894,3172,Don Boyes Way,Whakamarama,
+3085043,3110,Don Brebner Way,Bethlehem,Tauranga
 3064098,0614,Don Buck Road,"Henderson,Massey,Westgate",Auckland
 1853330,7608,Doncaster Avenue,Lincoln,
 1840188,4412,Doncaster Court,Awapuni,Palmerston North
@@ -1633,6 +1637,7 @@ road_id,postcode,name,locality,city
 1818785,0600,Donovan Street,Blockhouse Bay,Auckland
 1788075,7830,Donovan Street,Reefton,
 1808727,3119,Donovan Street,Te Puke,
+3084778,8051,Don Peebles Way,Belfast,Christchurch
 1770870,9320,Don Place,Alexandra,
 1828357,2023,Don Place,Otara,Auckland
 1843018,9085,Dons Creek Road,Waitati,
@@ -1731,6 +1736,7 @@ road_id,postcode,name,locality,city
 1778782,9877,Dorset Street,Woodend,Invercargill
 1794228,6012,Dorset Way,Wilton,Wellington
 1835090,2578,Dorsyd Way,Runciman,Drury
+3085176,3114,Dory Lane,Omokoroa,Omokoroa
 1828529,2023,Dosina Place,Flat Bush,Auckland
 3081992,0171,Dotterel Drive,Ruakaka,
 3083228,9310,Dotterel Lane,Cromwell,
@@ -1771,6 +1777,7 @@ road_id,postcode,name,locality,city
 1807121,3214,Douglas Crescent,Fairfield,Hamilton
 1842832,7700,Douglas Drive,Allenton,Ashburton
 3004646,7886,Douglas Drive,Franz Josef/Waiau,
+3085145,7604,Douglas Fay Way,Prebbleton,Prebbleton
 1804236,4110,Douglas McLean Avenue,Marewa,Napier
 1811915,4392,Douglas North Road,Huiroa,Stratford
 1810891,3700,Douglas Place,Huntly,
@@ -1859,6 +1866,7 @@ road_id,postcode,name,locality,city
 1778070,9881,Dover Street West,Orepuki,Riverton/Aparima
 1791382,7300,Dover Terrace,Kaikoura,
 1819787,0294,Doves Bay Road,Kerikeri,
+3084986,5018,Dovey Katene Horvath Street,Trentham,Upper Hutt
 1833111,0614,Dovey Place,Massey,Auckland
 3052184,9494,Doveys Road,"Island Cliff,Kokoamo","Duntroon,Oamaru"
 3077670,5512,Dow Chung Place,Otaki,
@@ -2554,6 +2562,7 @@ road_id,postcode,name,locality,city
 1796724,4500,Durie Street,Durie Hill,Whanganui
 1791915,4500,Durie Vale Road,Durie Hill,Whanganui
 1814141,3434,Durmast Court,Cambridge,
+3084802,3377,Durmast Place,Kinloch,Taupo
 3063908,9371,Durness Court,Jacks Point,Queenstown
 1821163,0932,Durness Place,Red Beach,
 1806102,3620,Durrant Drive,Whangamata,
