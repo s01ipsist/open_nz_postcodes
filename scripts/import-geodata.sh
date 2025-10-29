@@ -68,3 +68,6 @@ psql -d open_nz_postcodes -c "ALTER TABLE nz_addresses ADD COLUMN road_id intege
 psql -d open_nz_postcodes -c "ALTER TABLE nz_roads ADD COLUMN postcode text;"
 psql -d open_nz_postcodes -c "ALTER TABLE nz_addresses ADD COLUMN postcode text;"
 psql -d open_nz_postcodes -c "ALTER TABLE nz_meshblocks ADD COLUMN postcode text;"
+
+# Remove unnamed access lanes
+psql -d open_nz_postcodes -c "DELETE FROM nz_roads WHERE full_road_ IN ('Roadway', 'Accessway', 'Service Lane');"
