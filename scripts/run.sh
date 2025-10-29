@@ -8,6 +8,7 @@ bash scripts/import-street-postcodes.sh
 psql -d open_nz_postcodes -f scripts/set-postcodes.sql
 psql -d open_nz_postcodes -f scripts/setup-postcode-boundaries.sql
 psql -d open_nz_postcodes -f scripts/setup-snapshots.sql
+psql -A -d open_nz_postcodes -f scripts/checks.sql
 
 # optional: simplify topographies to reduce generated shapefile size from 90mb to 2mb
 # psql -d open_nz_postcodes -c "UPDATE postcode_boundaries SET geom = ST_Simplify(geom, 0.001);"
