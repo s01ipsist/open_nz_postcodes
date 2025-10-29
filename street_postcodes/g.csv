@@ -1,6 +1,7 @@
 road_id,postcode,name,locality,city
 1825917,1060,Gabador Place,Mount Wellington,Auckland
 3082122,7602,Gabbie Place,Southbridge,
+3085290,4130,Gables Way,Havelock North,Havelock North
 3079631,3112,Gabriela Close,Pyes Pa,Tauranga
 1806506,8025,Gabriel Grove,Aidanfield,Christchurch
 1775365,9591,Gabriels Gully Road,"Gabriels Gully,Lawrence",Lawrence
@@ -30,6 +31,7 @@ road_id,postcode,name,locality,city
 1799557,4412,Gainsborough Grove,Highbury,Palmerston North
 1783642,8025,Gainsborough Street,Hoon Hay,Christchurch
 1832314,2102,Gainsborough Street,Manurewa,Auckland
+3085353,7430,Gainsford Mews,Oxford,Oxford
 1791203,7206,Gainsford Place,Woodbourne,Blenheim
 1807017,3282,Gainsford Road,Peacocke,Hamilton
 1774738,9310,Gair Avenue,Cromwell,
@@ -37,6 +39,7 @@ road_id,postcode,name,locality,city
 1774908,9010,Gairloch Street,North East Valley,Dunedin
 3067067,4972,Gaisford Road,"Kumeroa,Maharahara","Dannevirke,Kumeroa"
 1805404,4200,Gaisford Terrace,Waipukurau,
+3085442,9302,Gala Burn Lane,Arrowtown,Arrowtown
 1837442,9320,Gala Grove,Alexandra,
 1816128,3210,Galahad Court,Rototuna North,Hamilton
 1779143,8062,Gala Lane,Woolston,Christchurch
@@ -111,6 +114,7 @@ road_id,postcode,name,locality,city
 3082421,8042,Gallop Lane,Yaldhurst,Christchurch
 1828879,2012,Galloway Crescent,Farm Cove,Auckland
 1836566,3112,Galloway Crescent,Pyes Pa,Tauranga
+3085295,7400,Galloway Place,Rangiora,Rangiora
 1771259,9393,Galloway Road,"Galloway,Springvale",Alexandra
 1832507,2580,Galloway Road,Karaka,Papakura
 3017315,9073,Galloway Road,Taieri Beach,Taieri Mouth
@@ -336,6 +340,7 @@ road_id,postcode,name,locality,city
 1825512,1061,Garside Place,Onehunga,Auckland
 3072548,9793,Garston Athol Highway,"Athol,Garston,Nokomai",Athol
 3002595,7774,Gartartan Road,"Tinwald,Willowby",Ashburton
+3085584,7614,Garten Lane,Rolleston,Rolleston
 1785227,7471,Garterys Road,Cust,
 1792811,5018,Garth Lane,Maoribank,Upper Hutt
 1773299,9598,Garthmyl Lane,Middlemarch,
@@ -659,6 +664,7 @@ road_id,postcode,name,locality,city
 3083506,1072,Georgie Salter Crescent,"Saint Johns,Stonefields",Auckland
 3083700,5713,Georgina Beyer Way,Carterton,
 1799546,4412,Georgina Close,Highbury,Palmerston North
+3085464,7632,Georgina Mary Street,Leeston,Leeston
 1824109,1011,Georgina Street,Freemans Bay,Auckland
 1955739,8083,Georgina Street,Marshland,Christchurch
 1826973,2121,Geraghty Maber Road,Tuakau,
@@ -1385,6 +1391,7 @@ road_id,postcode,name,locality,city
 1838650,3112,Glenmonarch Place,Pyes Pa,Tauranga
 1784284,8051,Glenmore Avenue,Casebrook,Christchurch
 1821499,0910,Glenmore Drive,Warkworth,
+3085302,9305,Glenmore Lane,Wanaka,Wanaka
 1821504,0793,Glenmore Road,Coatesville,
 1828992,2010,Glenmore Road,"Farm Cove,Pakuranga,Pakuranga Heights,Sunnyhills",Auckland
 1775567,9010,Glenmore Street,Glenleith,Dunedin
@@ -1673,6 +1680,7 @@ road_id,postcode,name,locality,city
 1806143,3581,Goldfields Road,Manaia,Coromandel
 1813630,3674,Goldfields Road North,Karangahake,
 3085163,9371,Goldfinch Drive,Jacks Point,Queenstown
+3085536,0505,Goldfinch Lane,Mangawhai,Mangawhai
 3085041,0984,Goldfinch Lane,Warkworth,Warkworth
 1801327,3112,Goldfinch Place,Welcome Bay,Tauranga
 1831135,0632,Goldfinch Rise,Unsworth Heights,Auckland
@@ -1696,6 +1704,7 @@ road_id,postcode,name,locality,city
 1828980,2105,Goldnib Place,Randwick Park,Auckland
 1838092,7805,Gold Nugget Road,Marsden,Greymouth
 1842147,7700,Goldrich Grove,Netherby,Ashburton
+3085515,9384,Goldrich Place,Cromwell,Cromwell
 1774172,9300,Goldridge Way,Queenstown,
 1842701,7614,Goldrush Lane,Rolleston,
 1800395,9300,Goldrush Way,Queenstown,
@@ -1844,6 +1853,7 @@ road_id,postcode,name,locality,city
 1770375,,Goodwood Road,"Bushey,Goodwood,Palmerston",Palmerston
 1774635,9481,Goodwood Settlement Road,Goodwood,Palmerston
 1799541,4410,Goodwyn Crescent,Hokowhitu,Palmerston North
+3085361,7678,Google Place,Rolleston,Rolleston
 1806145,3579,Gooseberry Grove,Pauanui,
 1779603,7395,Gooseberry Gully Road,Hanmer Forest,Hanmer Springs
 1773436,9272,Goose Neck Road,Awamangu,Balclutha
@@ -2178,6 +2188,7 @@ road_id,postcode,name,locality,city
 3083563,9371,Grain Close,Jacks Point,Queenstown
 1823139,0610,Grainger Road,Te Atatu South,Auckland
 3062813,9073,Grainger Road,Woodside,Outram
+3085495,2113,Grain Road,Opaheke,Papakura
 1828982,2010,Grammar School Road,Pakuranga,Auckland
 1797365,4777,Grammar Street,Kimbolton,
 1808371,3177,Grammer Road,Tahawai,
@@ -2555,6 +2566,7 @@ road_id,postcode,name,locality,city
 1807228,3216,Greensboro Street,"Hamilton East,Hillcrest",Hamilton
 3042444,0991,Greenside Road,Great Barrier Island (Aotea Island),
 1822150,0627,Greenslade Crescent,Northcote,Auckland
+3085281,7608,Greenslade Drive,Lincoln,Lincoln
 1811024,3295,Greenslade Road,Raglan,
 1779896,7011,Greenslade Way,Stoke,Nelson
 1818245,4681,Green's Lane,Rahotu,Opunake
@@ -2704,6 +2716,7 @@ road_id,postcode,name,locality,city
 1835291,2103,Greta Banks Place,Wattle Downs,Auckland
 1786635,8025,Greta Place,Hoon Hay,Christchurch
 1829819,0932,Greta Place,Stanmore Bay,Whangaparaoa
+3085516,7483,Greta Road,Greta Valley,Greta Valley
 3029333,7387,Greta Road,"Greta Valley,Lowry Hills Range","Cheviot,Greta Valley"
 1807229,3206,Greta Street,Glenview,Hamilton
 3072282,9400,Greta Street,"Oamaru,South Hill",Oamaru

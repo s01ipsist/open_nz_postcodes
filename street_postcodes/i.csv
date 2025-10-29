@@ -69,6 +69,7 @@ road_id,postcode,name,locality,city
 1798667,4592,Ihupuku Pa Road,Waitotara,Whanganui
 1838262,4592,Ihupuku Road,"Waitotara,Waverley","Waverley,Whanganui"
 1798666,4588,Ihupuku Street,Waitotara,Whanganui
+3085638,0985,Ika Lane,Warkworth,Warkworth
 3012174,,Ikamatua Highway,"Ikamatua,Maimai,Mawheraiti,Reefton,Totara Flat,Victoria Forest Park","Ahaura,Reefton"
 1783177,8023,Ikamatua Lane,Sydenham,Christchurch
 1803408,4120,Ikanui Place,Frimley,Hastings
@@ -156,10 +157,12 @@ road_id,postcode,name,locality,city
 3082952,0230,Industrial Way,Waipapa,
 1945356,8042,Industry Avenue,Islington,Christchurch
 1834771,0932,Industry Court,Silverdale,
+3085364,0618,Industry Drive,Whenuapai,Auckland
 1841320,2121,Industry Lane,Tuakau,
 1825534,1061,Industry Road,Penrose,Auckland
 3077472,2110,Infantry Lane,Papakura,
 1821962,0630,Infidel Place,Torbay,Auckland
+3085508,9384,Infinity Drive,Cromwell,Cromwell
 1839795,7612,Infinity Drive,Pegasus,
 1838135,9305,Infinity Drive,Wanaka,
 3084929,0185,Infinity Lane,Te Kamo,Whangarei
@@ -333,6 +336,7 @@ road_id,postcode,name,locality,city
 1987215,2103,Ipukarea Street,Weymouth,Auckland
 3084026,0985,Ipurangi Grove,Warkworth,
 1805688,8042,Iraklis Close,Templeton,Christchurch
+3085282,3193,Iramoko Lane,Manawahe,Whakatane
 1802026,4010,Iranui Road,Inner Kaiti,Gisborne
 1777312,9730,Ira Street,Lumsden,
 1794375,6022,Ira Street,"Miramar,Strathmore Park",Wellington
@@ -422,6 +426,7 @@ road_id,postcode,name,locality,city
 1800482,6023,Irwell Street,Island Bay,Wellington
 1780072,7591,Irwell Street,Little River,
 1808528,3129,Irwin Court,Katikati,
+3085474,0632,Irwin Lane,Windsor Park,Auckland
 1833980,9024,Irwin Logan Drive,Mosgiel,
 1812618,3377,Irwin Place,Kinloch,Taupo
 1778582,9782,Irwin Road,Browns,Winton
@@ -443,6 +448,7 @@ road_id,postcode,name,locality,city
 1830369,2120,Isabella Drive,Pukekohe,
 3084118,0610,Isabella Lane,Henderson,Auckland
 3080276,9383,Isabella Lane,Queensberry,Cromwell
+3085427,0505,Isabel Lane,Mangawhai Heads,Mangawhai
 1783203,8011,Isabella Place,Waltham,Christchurch
 1776480,9810,Isabella Street,"Glengarry,Hawthorndale",Invercargill
 1806201,3510,Isabella Street,Whitianga,

@@ -46,6 +46,7 @@ road_id,postcode,name,locality,city
 3036146,7985,Earl Road,"Hilton,Temuka","Geraldine,Temuka"
 3079227,3400,Earl Road,Matamata,
 1823615,0604,Earl Road,Titirangi,Auckland
+3085277,7608,Earlsbrook Boulevard,Lincoln,Lincoln
 1805895,3216,Earls Court,Hillcrest,Hamilton
 1828521,2102,Earls Court,Hillpark,Auckland
 1837218,2016,Earlshall Drive,Flat Bush,Auckland
@@ -621,6 +622,7 @@ road_id,postcode,name,locality,city
 1809903,3910,Eketone Street,Te Kuiti,
 3053541,4374,Ekuarangi Place,Kaitake,New Plymouth
 1782335,7193,Elaine Bay Road,Elaine Bay,Marlborough Sounds
+3085648,7602,Elaines Way,Southbridge,Southbridge
 1841945,7400,El Alamein Avenue,Rangiora,
 1824798,1052,Elam Street,"Hobson Bay,Parnell",Auckland
 1832101,2112,Elana Court,Conifer Grove,Takanini
@@ -712,6 +714,7 @@ road_id,postcode,name,locality,city
 1791153,7282,Elie Bay Road,Crail Bay,Marlborough Sounds
 1812280,2103,Elie Place,Wattle Downs,Auckland
 1829127,2010,Elimar Drive,Sunnyhills,Auckland
+3085621,5018,Elina Way,Heretaunga,Upper Hutt
 3064241,0484,Elingamite Drive,"Houhora,Pukenui",Pukenui
 1816899,4310,Eliot Heights,Hurdon,New Plymouth
 1812747,3432,Eliot Place,Leamington,Cambridge
@@ -878,6 +881,7 @@ road_id,postcode,name,locality,city
 1822676,0629,Elliott Avenue,"Bayview,Glenfield",Auckland
 1803480,4130,Elliott Crescent,Havelock North,
 1810166,3010,Elliott Crescent,Owhata,Rotorua
+3085389,7193,Elliott Peak Way,Okiwi Bay,Okiwi Bay
 1775368,9772,Elliott Road,Kaiwera,Gore
 3068571,4998,Elliott Road,"Papatawa,Woodville",Woodville
 1840491,0632,Elliott Rose Avenue,Albany,Auckland
@@ -952,6 +956,7 @@ road_id,postcode,name,locality,city
 1826222,0112,Elm Place,Tikipunga,Whangarei
 3079736,4284,Elm Place,Waipukurau,
 1803290,4122,Elm Road,Akina,Hastings
+3085466,4472,Elm Road,Turitea,Palmerston North
 1772281,9016,Elm Row,Dunedin Central,Dunedin
 1789787,7020,Elmsdale Close,Richmond,
 1787394,7910,Elmsdale Terrace,Marchwiel,Timaru
@@ -992,6 +997,7 @@ road_id,postcode,name,locality,city
 1777713,9679,Elmwood Station Road,The Key,Manapouri
 1838313,3118,Eloise Court,Papamoa Beach,Papamoa
 1830274,2103,Eloise Place,Clendon Park,Auckland
+3085417,0992,Elon Lane,Wainui,Wainui
 3081302,8025,El Patron Lane,Halswell,Christchurch
 1800551,6022,Elphinstone Avenue,Strathmore Park,Wellington
 1825189,1041,Elphinstone Avenue,Wesley,Auckland
@@ -1240,7 +1246,9 @@ road_id,postcode,name,locality,city
 1824899,1025,Ennismore Road,Mount Albert,Auckland
 1770917,9320,Ennis Street,Alexandra,
 1804968,4112,Ennor Place,Greenmeadows,Napier
+3085418,0992,Enoch Lane,Wainui,Wainui
 3080726,0474,Enoka Street,Kaikohe,
+3085416,0932,Enos Lane,Wainui,Wainui
 1774169,9300,Enright Lane,Queenstown,
 3046832,9074,Enrights Road,Clarks Junction,Outram
 3078402,8025,Ensete Road,Wigram,Christchurch
@@ -1535,6 +1543,7 @@ road_id,postcode,name,locality,city
 3083118,7604,Esther Mews,Prebbleton,
 1818597,0932,Esther Place,Red Beach,
 1795689,5711,Esther Street,Martinborough,
+3085556,7614,Estival Drive,Rolleston,Rolleston
 1835538,9383,Estrella Heights Lane,Queensberry,Cromwell
 1839974,0910,Estuary Close,Warkworth,
 1773168,9018,Estuary Crescent,Fairfield,Dunedin

@@ -129,6 +129,8 @@ road_id,postcode,name,locality,city
 1841393,9382,Jack Young Place,Albert Town,Wanaka
 1802696,4010,Jacob Lane,Riverdale,Gisborne
 3083939,7674,Jacob Lane,Rolleston,
+3085426,0505,Jacob Place,Mangawhai Heads,Mangawhai
+3085420,0992,Jacob Road,Wainui,Wainui
 1794510,6035,Jacobsen Lane,Ngaio,Wellington
 1805011,7608,Jacobsens Place,Lincoln,
 1772390,9012,Jacobs Ladder,Saint Clair,Dunedin
@@ -162,6 +164,7 @@ road_id,postcode,name,locality,city
 3077976,2014,JaeDee Court,Howick,Auckland
 1823445,0610,Jaemont Avenue,Te Atatu South,Auckland
 1833837,3210,Jaemont Court,Huntington,Hamilton
+3085372,7615,Jaffna Way,Rolleston,Rolleston
 1770037,9024,Jaffray Drive,East Taieri,Mosgiel
 3016080,9777,Jaffray Road,"Chatton,Otamita",Gore
 3010799,3474,Jagger Road,Waharoa,
@@ -218,6 +221,7 @@ road_id,postcode,name,locality,city
 1810301,3010,Jameson Avenue,Fenton Park,Rotorua
 1782922,8052,Jameson Avenue,St Albans,Christchurch
 3025759,0204,Jameson Esplanade,Haruru,
+3085293,4130,Jameson Lane,Havelock North,Havelock North
 3080123,9822,Jameson Lane,Riverton/Aparima,
 1786097,7391,Jamesons Road,Rotherham,
 1833349,0793,James Paige Lane,Riverhead,
@@ -460,6 +464,7 @@ road_id,postcode,name,locality,city
 1821186,0794,Jeffs Road,Dairy Flat,
 1829155,2016,Jeffs Road,Flat Bush,Auckland
 1830547,2471,Jeffs Road,Mangatawhiri,
+3085587,7604,Jeffs Street,Prebbleton,Prebbleton
 2008801,3118,Jeffs Way,Papamoa Beach,Papamoa
 1842679,0820,Jelas Drive,Riverhead,
 1821188,0932,Jelas Road,Red Beach,
@@ -565,6 +570,7 @@ road_id,postcode,name,locality,city
 3078305,0170,Jersey Lane,"Maungatapere,Otaika",Whangarei
 1816815,4312,Jersey Place,Bell Block,New Plymouth
 1813681,3200,Jersey Place,Grandview Heights,Hamilton
+3085481,3300,Jersey Street,Morrinsville,Morrinsville
 3081838,3187,Jersey Way,Papamoa,
 1832451,0994,Jervis Road,Waiwera,Orewa
 1810306,3015,Jervis Street,"Hillcrest,Utuhina",Rotorua
@@ -697,6 +703,7 @@ road_id,postcode,name,locality,city
 1842407,8025,John Annan Street,Halswell,Christchurch
 1811111,3771,John Avenue,Pukemiro,Ngaruawahia
 1808127,3188,John Bird Road,Te Puke,
+3085525,7020,John Blight Way,Richmond,Richmond
 1818697,0626,John Bracken Way,"Beach Haven,Waitemata Harbour",Auckland
 1835701,0794,John Brian Drive,Redvale,Auckland
 3080278,8011,John Britten Lane,Riccarton,Christchurch
@@ -726,6 +733,7 @@ road_id,postcode,name,locality,city
 1818850,2583,John Hill Road,Hunua,
 1829900,2580,John Hindmarsh Road,Karaka,Papakura
 3081072,8025,John Holmes Road,Halswell,Christchurch
+3085365,0618,John Hull Road,Whenuapai,Auckland
 3083585,8022,John Jameson Lane,Cracroft,Christchurch
 1830428,0632,John Jennings Drive,Oteha,Auckland
 1809766,3120,John Laughton Place,Whakatane,
@@ -1023,10 +1031,12 @@ road_id,postcode,name,locality,city
 1811119,3771,Joseph Street,Pukemiro,Ngaruawahia
 1791043,7202,Joseph Street,Spring Creek,
 1775225,9091,Joseph Street,Taieri Beach,Taieri Mouth
+3085409,0992,Joseph Street,Wainui,Wainui
 1776547,9810,Joseph Street,Waverley,Invercargill
 1839563,9779,Josephville Glenure Road,"Glenure,Josephville",Balfour
 1839556,9794,Josephville Glenure Road North,Josephville,Balfour
 1839568,9779,Josephville Saint Patricks Road,"Josephville,St Patricks",Balfour
+3085357,7678,Joseph Way,Rolleston,Rolleston
 1945367,0810,Josh Road,Huapai,Kumeu
 3078702,0616,Joshua Carder Drive,Hobsonville,Auckland
 1813744,3216,Joshua Lane,Hamilton East,Hamilton
@@ -1193,6 +1203,7 @@ road_id,postcode,name,locality,city
 1774350,9300,Juniper Place,Frankton,Queenstown
 1822633,0620,Juniper Road,Sunnynook,Auckland
 1835691,7020,Juniper Street,Richmond,
+3085533,0173,Juniper Way,Glenbervie,Whangarei
 3085246,7630,Juniper Way,Kaiapoi,Kaiapoi
 3082084,7630,Juniper Way,Kaiapoi,
 1837161,7604,Juniper Way,Prebbleton,

@@ -82,9 +82,11 @@ road_id,postcode,name,locality,city
 1801121,5036,Napier Grove,Waikanae Beach,Waikanae
 1823949,1011,Napier Lane,Freemans Bay,Auckland
 1775357,9495,Napier Place,Kakanui,Oamaru
+3085490,4471,Napier Road,Aokautere,Aokautere
 3044263,,Napier Road,"Aokautere,Ashhurst,Ballance,Kelvin Grove,Papatawa,Roslyn,Terrace End,Whakarongo,Woodville","Aokautere,Ashhurst,Pahiatua,Palmerston North,Woodville"
 3044261,,Napier Road,"Havelock North,Mangateretere","Hastings,Havelock North"
 1812601,3330,Napier Road,"Hilltop,Maunganamu,Waipahihi",Taupo
+3085488,4999,Napier Road,Woodville,Woodville
 1772459,9011,Napier Street,Belleknowes,Dunedin
 1770650,9491,Napier Street,Enfield,Oamaru
 1823953,1011,Napier Street,Freemans Bay,Auckland
@@ -177,6 +179,7 @@ road_id,postcode,name,locality,city
 1789508,7120,Naumai Street,Motueka,
 1819440,0592,Naumai Wharf Road,Ruawai,
 1983055,5024,Naureen Palmer Grove,Aotea,Porirua
+3085669,5018,Nausori Lane,Wallaceville,Upper Hutt
 1830314,0204,Nautical Drive,Haruru,
 1831228,0505,Nautical Heights,Mangawhai Heads,Mangawhai
 3084726,0118,Nautical Lane,"One Tree Point,Ruakaka","Ruakaka,Whangarei"
@@ -571,6 +574,7 @@ road_id,postcode,name,locality,city
 3001984,3174,Newnham Road,Te Puna,Tauranga
 1787080,7400,Newnham Street,Rangiora,
 1784665,8041,Newnham Terrace,Upper Riccarton,Christchurch
+3085348,9230,Newnham Way,Balclutha,Balclutha
 3046873,,New North Road,"Avondale,Eden Terrace,Kingsland,Morningside,Mount Albert",Auckland
 1781075,7774,New Park Road,Eiffelton,Ashburton
 1813582,3118,Newport Key,Papamoa Beach,Papamoa
@@ -638,6 +642,7 @@ road_id,postcode,name,locality,city
 1823948,0600,New Windsor Road,"Avondale,New Windsor",Auckland
 1795681,5711,New York Street,Martinborough,
 1839999,5711,New York Street West,Martinborough,
+3085501,9010,Neylon Street,Helensburgh,Dunedin
 3079028,2024,Nga Awa Place,Favona,Auckland
 3046112,3378,Nga Awa Purua Road,Rotokawa,Taupo
 3083336,2024,Ngae Place,Mangere East,Auckland
@@ -745,6 +750,7 @@ road_id,postcode,name,locality,city
 1824584,1071,Ngake Street,Orakei,Auckland
 3085053,0629,Ngakete Crescent,Glenfield,Auckland
 3084590,3434,Ngaki Drive,Cambridge,
+3085523,3432,Ngakinga Lane,Leamington,Cambridge
 3085069,2577,Ngakinga Loop,Drury,Drury
 1956217,2019,Ngaki Street,Flat Bush,Auckland
 1805077,4197,Ngakoauau Road,Raupunga,
@@ -809,6 +815,7 @@ road_id,postcode,name,locality,city
 1842101,0192,Ngapuke Lane,Parua Bay,
 1829860,0984,Ngapuke Road,Kaukapakapa,
 1842540,3994,Ngapuke Road,"Manunui,Ngapuke,Taringamotu","Taringamotu,Taumarunui"
+3085678,3420,Ngāpuke Way,Tokoroa,Tokoroa
 1771901,9596,Ngapuna Road,"Middlemarch,Ngapuna",Middlemarch
 1822385,0632,Ngarahana Avenue,Paremoremo,Auckland
 3084850,1072,Ngārahu Lane,St Johns,Auckland
@@ -1114,6 +1121,7 @@ road_id,postcode,name,locality,city
 1807483,3200,Nikau Place,Pukete,Hamilton
 1784187,8011,Nikau Place,Riccarton,Christchurch
 1827589,2123,Nikau Place,Waiuku,
+3085644,0985,Nikau Place,Warkworth,Warkworth
 3035422,7891,Nikau Road,"Hector,Mokihinui","Hector,Westport"
 1825652,1081,Nikau Road,Oneroa,Waiheke Island
 1825796,1062,Nikau Road,Otahuhu,Auckland
@@ -1189,6 +1197,7 @@ road_id,postcode,name,locality,city
 1840774,0612,Nirmal Place,Sunnyvale,Auckland
 3084099,7614,Nirmal Way,Rolleston,
 1799835,4410,Nirvana Court,Palmerston North,
+3085373,7615,Nirvana Crescent,Rolleston,Rolleston
 1784857,8083,Nirvana Street,Brooklands,Christchurch
 1829668,1041,Nirvana Way,Mount Roskill,Auckland
 1826703,0179,Nisbet Road,Maungatapere,Whangarei
@@ -1278,6 +1287,7 @@ road_id,postcode,name,locality,city
 1812429,3330,Noble Street,Nukuhau,Taupo
 1773679,9585,Noble Street,Owaka,
 1827588,2123,Noble Street,Waiuku,
+3085567,3076,Noble Way,Lynmore,Rotorua
 1818056,4312,Nobs Line,Strandon,New Plymouth
 1840585,3720,Nock Lane,Ngaruawahia,
 3078499,6972,Noel Ashton Way,Makara,Wellington
@@ -1489,6 +1499,7 @@ road_id,postcode,name,locality,city
 3056884,4977,Norsewood Ormondville Road,"Norsewood,Ormondville",
 1797678,4771,Norsewood Road,Apiti,
 1822870,0600,Northall Road,New Lynn,Auckland
+3085374,7676,Northampton Drive,Prebbleton,Prebbleton
 1770616,9410,Northampton Street,Hampden,
 1819326,0505,North Avenue,Mangawhai Heads,Mangawhai
 1821879,0624,North Avenue,Narrow Neck,Auckland
@@ -1662,6 +1673,7 @@ road_id,postcode,name,locality,city
 1807491,3200,Northview Lane,Nawton,Hamilton
 1821615,0932,Northview Road,Stanmore Bay,Whangaparaoa
 1990422,9300,Northview Terrace,Kawarau Falls,Queenstown
+3085639,0985,Northwards Lane,Warkworth,Warkworth
 1840645,8051,Northwater Drive,Northwood,Christchurch
 3083299,0410,North Way,Kaitaia,
 1823317,0604,North Way,"Oratia,Titirangi",Auckland

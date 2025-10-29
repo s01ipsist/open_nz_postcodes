@@ -50,6 +50,7 @@ road_id,postcode,name,locality,city
 1833016,0179,Kahikatea Drive,Poroti,Whangarei
 3001933,0871,Kahikatea Flat Road,"Dairy Flat,Kaukapakapa,Waitoki",
 1794503,6037,Kahikatea Grove,Paparangi,Wellington
+3085546,5018,Kahikatea Lane,Brown Owl,Upper Hutt
 1842337,4625,Kahikatea Lane,Ohakune,
 1839845,7612,Kahikatea Lane,Pegasus,
 1787591,8011,Kahikatea Lane,Riccarton,Christchurch
@@ -62,6 +63,7 @@ road_id,postcode,name,locality,city
 1810311,3010,Kahikatea Street,Glenholme,Rotorua
 1816529,4330,Kahikatea Street,Inglewood,
 1809400,3025,Kahikatea Street,Murupara,
+3085395,4108,Kahikatea Street,Wairoa,Wairoa
 3079811,0510,Kahikatea Tree Lane,Waipu,
 3080886,7020,Kahikatea Way,Appleby,Richmond
 3084421,3112,Kahikatea Way,Gate Pa,Tauranga
@@ -93,6 +95,7 @@ road_id,postcode,name,locality,city
 1802813,4087,Kahukura Street,Te Araroa,
 3081427,3176,Kahu Lane,Minden,Tauranga
 3082814,9393,Kahu Lane,Springvale,Alexandra
+3085284,3193,Kāhu Lane,Manawahe,Whakatane
 3009501,3173,Kahuparere Crescent,Pyes Pa,Tauranga
 1839860,7612,Kahuraki Drive,Pegasus,
 3045852,,Kahuranaki Road,"Elsthorpe,Kahuranaki,Tuki Tuki","Elsthorpe,Havelock North,Kahuranaki"
@@ -246,6 +249,7 @@ road_id,postcode,name,locality,city
 1804386,4275,Kaimotu Road,Waipukurau,
 1810314,3010,Kain Avenue,Fenton Park,Rotorua
 1782914,8052,Kain Avenue,Strowan,Christchurch
+3085449,0184,Kaingahoa Drive,Rawhiti,Russell
 3081960,3118,Kainga Lane,Papamoa Beach,Papamoa
 1981415,0618,Kainga Lane,Whenuapai,Auckland
 3061527,8083,Kainga Road,"Brooklands,Kainga",Christchurch
@@ -544,6 +548,7 @@ road_id,postcode,name,locality,city
 3084368,5032,Kamahi Place,Paraparaumu,
 3014113,7805,Kamahi Place,Paroa,Greymouth
 1810316,3015,Kamahi Place,Pukehangi,Rotorua
+3085637,9812,Kamahi Place,Tisbury,Invercargill
 1777558,9818,Kamahi Road,Halfmoon Bay / Oban,Stewart Island
 1791593,7195,Kamahi Road,Tennyson Inlet,Marlborough Sounds
 1778148,9893,Kamahi Road East,"Edendale,Menzies Ferry","Edendale,Wyndham"
@@ -578,6 +583,7 @@ road_id,postcode,name,locality,city
 1772984,9471,Kamura Road,Karitane,Waikouaiti
 1772318,9013,Kamura Street,Tainui,Dunedin
 3084424,2018,Kanae Drive,Beachlands,Auckland
+3085471,0110,Kanae Way,Avenues,Whangarei
 3040425,,Kanakanaia Road,"Tauwhareparae,Te Karaka,Whatatutu","Te Karaka,Tolaga Bay"
 1839803,7612,Kanakana Place,Pegasus,
 3078797,3118,Kanapa Close,"Papamoa,Papamoa Beach",Papamoa
@@ -629,6 +635,7 @@ road_id,postcode,name,locality,city
 1840516,5510,Kanuka Drive,Waitarere,Levin
 3078276,3377,Kanuka Grove,Kinloch,Taupo
 3078309,0272,Kanuka Grove,Russell,
+3085430,8022,Kanuka Lane,Cracroft,Christchurch
 1840374,7371,Kanuka Lane,Hapuku,Kaikoura
 3078547,3674,Kanuka Lane,Karangahake,
 1842348,4625,Kanuka Lane,Ohakune,
@@ -639,6 +646,7 @@ road_id,postcode,name,locality,city
 1789463,7120,Kanuka Place,Motueka,
 1815443,3112,Kanuka Place,Pyes Pa,Tauranga
 1806284,7581,Kanuka Place,Robinsons Bay,
+3085667,5018,Kānuka Place,Timberlea,Upper Hutt
 1804717,9305,Kanuka Rise,Albert Town,Wanaka
 3084003,4182,Kanuka Rise,Eskdale,Napier
 1816645,7334,Kanuka Rise,Hanmer Springs,
@@ -651,6 +659,7 @@ road_id,postcode,name,locality,city
 1805776,4274,Kanuka Road,Tikokino,
 1831482,1022,Kanuka Street,Point Chevalier,Auckland
 3079391,3225,Kanuka Street,Raglan,
+3085396,4108,Kānuka Street,Wairoa,Wairoa
 1818498,0632,Kanuka Way,Albany,Auckland
 1839446,5792,Kanuka Way,Martinborough,
 1841911,4625,Kanuka Way,Ohakune,
@@ -821,6 +830,7 @@ road_id,postcode,name,locality,city
 1801580,5014,Karamu Crescent,Wainuiomata,Lower Hutt
 1834622,3506,Karamu Lane,Coromandel,
 3082237,3800,Karamu Lane,Kihikihi,Te Awamutu
+3085613,9382,Karamu Lane,Luggate,Wanaka
 3084747,0505,Karamu Lane,Mangawhai,Mangawhai
 3077923,7081,Karamu Lane,Redwood Valley,Richmond
 1796646,4625,Karamu Place,Ohakune,
@@ -879,6 +889,7 @@ road_id,postcode,name,locality,city
 3080588,3120,Karearea Drive,Coastlands,Whakatane
 3078235,5010,Karearea Lane,Maungaraki,Lower Hutt
 3082640,0118,Karearea Lane,One Tree Point,Whangarei
+3085497,2584,Kārearea Lane,Opaheke,Papakura
 1841332,9305,Karearea Rise,Wanaka,
 1799030,4797,Karearea Street,Mangaweka,
 3083946,3592,Karearea Way,Matarangi,Whitianga
@@ -1029,6 +1040,7 @@ road_id,postcode,name,locality,city
 1802204,4010,Kate Wyllie Place,Riverdale,Gisborne
 1793831,6011,Katherine Avenue,Thorndon,Wellington
 3015388,0991,Katherine Bay,"Great Barrier Island (Aotea Island),Katherine Bay",Great Barrier Island (Aotea Island)
+3085676,3420,Katherine Close,Tokoroa,Tokoroa
 1792563,5371,Katherine Mansfield Drive,"Blue Mountains,Whitemans Valley",Upper Hutt
 1809262,3110,Katherine Place,Bellevue,Tauranga
 1807321,3206,Katherine Place,Melville,Hamilton
@@ -1185,6 +1197,7 @@ road_id,postcode,name,locality,city
 3081812,2113,Kauru Way,Karaka,Papakura
 1827617,2025,Kautami Avenue,Papatoetoe,Auckland
 3083182,0614,Kautawa Lane,Massey,Auckland
+3085344,2025,Kauwhanga Lane,Papatoetoe,Auckland
 3084831,3218,Kauwhata Lane,Temple View,Hamilton
 1797531,4891,Kauwhata Street,Himatangi Beach,
 1839490,9371,Kavanagh Lane,Lake Hayes,Queenstown
@@ -1204,6 +1217,7 @@ road_id,postcode,name,locality,city
 1823065,0604,Kawaka Street,Titirangi,Auckland
 3082388,2578,Kawakawa Avenue,Karaka,Papakura
 1828571,2585,Kawakawa Bay Coast Road,Kawakawa Bay,
+3085437,5036,Kawakawa Crescent,Waikanae,Waikanae
 3084588,3800,Kawakawa Drive,Te Awamutu,
 3078440,3110,Kawakawa Grove,Bethlehem,Tauranga
 3081623,5011,Kawakawa Lane,Fairfield,Lower Hutt
@@ -1461,6 +1475,7 @@ road_id,postcode,name,locality,city
 1796946,4500,Keith Street,Whanganui,
 1842769,8042,Keith Street,Wigram,Christchurch
 3082848,3114,Keiti View,Omokoroa,
+3085352,4310,Kekeno Crescent,Port Taranaki,New Plymouth
 1793222,5010,Kekeno Grove,Tirohanga,Lower Hutt
 1838862,9877,Kekeno Place,Awarua,Invercargill
 1793840,6022,Kekerenga Street,Strathmore Park,Wellington
@@ -1624,7 +1639,9 @@ road_id,postcode,name,locality,city
 1793541,5794,Kemptons Line,"Greytown,Morison Bush,Papawai",Greytown
 1795657,5712,Kempton Street,Greytown,
 3080754,8051,Kemsley Lane,Casebrook,Christchurch
+3085589,7604,Kemsley Way,Prebbleton,Prebbleton
 3082980,3434,Kemureti Square,Cambridge,
+3085600,3177,Kemureti Street,Athenree,Waihi Beach
 3002979,0494,Kenana Road,Mangonui,
 1808275,3186,Kenana Road,Te Puke,
 3027448,7081,Ken Beck Drive,Moturoa / Rabbit Island,Richmond
@@ -1685,6 +1702,7 @@ road_id,postcode,name,locality,city
 1830924,0972,Kennaway Road,Whangaripo,Wellsford
 1787282,8023,Kennaway Road,Woolston,Christchurch
 1780510,7673,Kennaway Street,Whitecliffs,Glentunnel
+3085325,7615,Kennebrook Road,Rolleston,Rolleston
 1797327,4702,Kennedy Avenue,Feilding,
 1822470,0620,Kennedy Avenue,Forrest Hill,Auckland
 3043040,3583,Kennedy Bay Road,"Coromandel,Kennedy Bay",Coromandel
@@ -1925,6 +1943,7 @@ road_id,postcode,name,locality,city
 1835983,8011,Kereru Lane,Riccarton,Christchurch
 1940021,0932,Kereru Lane,Silverdale,
 3082458,0986,Kereru Lane,Tawharanui Peninsula,Matakana
+3085578,4702,Kereru Place,Feilding,Feilding
 1828567,2012,Kereru Place,Half Moon Bay,Auckland
 3080187,4198,Kereru Place,Mahia,
 1795013,5810,Kereru Place,Masterton,
@@ -1948,6 +1967,7 @@ road_id,postcode,name,locality,city
 1812575,3330,Kereru Street,Two Mile Bay,Taupo
 1798304,5036,Kereru Street,Waikanae,
 1776414,9810,Kereru Street,Waikiwi,Invercargill
+3085286,3198,Kererutahi Road,Wainui,Whakatane
 3080307,3434,Kereruu Street,Cambridge,
 1788202,7010,Kereru Way,Atawhai,Nelson
 3082355,0910,Kereru Way,Warkworth,
@@ -2057,6 +2077,7 @@ road_id,postcode,name,locality,city
 1838748,3382,Ketetahi Road,"Otukou,Tongariro National Park","Tongariro National Park,Turangi"
 1799132,4412,Kettle Avenue,Awapuni,Palmerston North
 1804186,4110,Kettle Crescent,Marewa,Napier
+3085692,9382,Kettle Hole Court,Wanaka,Wanaka
 3017422,9012,Kettle Park Road,"Lawyers Head,Saint Clair",Dunedin
 1790223,7802,Kettle Street,Cobden,Greymouth
 1780125,7674,Kettle Street,Motukarara,Tai Tapu
@@ -2072,6 +2093,7 @@ road_id,postcode,name,locality,city
 1810333,3010,Kevin Street,Glenholme,Rotorua
 1782927,8025,Kevin Street,Hoon Hay,Christchurch
 1772496,9011,Kevin Street,Mornington,Dunedin
+3085585,7604,Kevler Avenue,Prebbleton,Prebbleton
 1838111,3889,Kevlor Place,Kawhia,
 1839817,7612,Kewai Court,Pegasus,
 1836621,0986,Kewai Street,Omaha,
@@ -2104,6 +2126,7 @@ road_id,postcode,name,locality,city
 3080772,0185,Keystone Place,Te Kamo,Whangarei
 3035264,0112,Keyte Street,"Kensington,Otangarei",Whangarei
 1832250,2112,Keywella Drive,"Conifer Grove,Takanini","Auckland,Takanini"
+3085402,2112,Keywella Walk,Takanini,Auckland
 3030873,0118,Key West Drive,One Tree Point,Whangarei
 1822826,0612,Khaleel Place,Henderson,Auckland
 1824220,0600,Khandallah Place,New Windsor,Auckland
@@ -2144,6 +2167,7 @@ road_id,postcode,name,locality,city
 1789971,7011,Kidson Place,Stoke,Nelson
 1783862,8022,Kidson Terrace,Cashmere,Christchurch
 3084389,3434,Kiekie Lane,Cambridge,
+3085398,4108,Kiekie Lane,Wairoa,Wairoa
 3082918,8051,Kiekie Road,Casebrook,Christchurch
 1828555,2022,Kiekie Road,Mangere Bridge,Auckland
 1802343,4079,Kiekie Road,Waipiro,Ruatoria
@@ -2300,6 +2324,7 @@ road_id,postcode,name,locality,city
 3062310,2675,Kimber Road,Mangatawhiri,
 1784972,7495,Kimbers Road,Glentui,Oxford
 1797672,4779,Kimber Street,Halcombe,
+3085615,4673,Kimble Crescent,Hawera,Hawera
 1787151,8022,Kimbolton Lane,Huntsbury,Christchurch
 3071278,,Kimbolton Road,"Cheltenham,Feilding,Kimbolton,Kiwitea","Feilding,Kimbolton"
 3082137,3210,Kimbolton Street,Rototuna North,Hamilton
@@ -2879,6 +2904,7 @@ road_id,postcode,name,locality,city
 1780511,7677,Kivers Road,Burnham,
 2018183,0930,Kiwa Crescent,Gulf Harbour,Whangaparaoa
 3081196,3330,Kiwai Place,Wharewaka,Taupo
+3085423,0992,Kiwakiwa Street,Wainui,Wainui
 1791403,7371,Kiwa Road,Hapuku,Kaikoura
 1807341,3200,Kiwi Avenue,Forest Lake,Hamilton
 3070006,0110,Kiwi Avenue,Maunu,Whangarei
@@ -3020,6 +3046,7 @@ road_id,postcode,name,locality,city
 3002784,7371,Knowles Crescent,Kaikoura Flat,Kaikoura
 1771069,9332,Knowles Crescent,Ranfurly,
 1807045,3610,Knowles Crescent,Waihi,
+3085507,9081,Knowles Lane,Long Beach,Port Chalmers
 1774044,9775,Knowles Road,"Blue Mountains,Tapanui",Tapanui
 3063039,8052,Knowles Street,"Mairehau,Merivale,St Albans",Christchurch
 1801319,4410,Knowles Street,Terrace End,Palmerston North
@@ -3126,6 +3153,7 @@ road_id,postcode,name,locality,city
 1789786,7197,Kohi Walk,Kaiteriteri,Motueka
 1828777,2102,Kohiwi Road,Manurewa,Auckland
 1817911,3981,Kohua Road,Aria,
+3085441,5036,Kohuhu Grove,Waikanae,Waikanae
 1785844,8083,Kohuhu Lane,Burwood,Christchurch
 3080482,7081,Kohuhu Lane,Redwood Valley,Richmond
 1988160,0814,Kohuhu Lane,Westgate,Auckland
@@ -3436,6 +3464,7 @@ road_id,postcode,name,locality,city
 1837201,5036,Koromiko Glen,Waikanae,
 3084443,0230,Koromiko Lane,Kerikeri,
 3082238,3800,Koromiko Lane,Kihikihi,Te Awamutu
+3085661,5018,Koromiko Lane,Maymorn,Upper Hutt
 3083174,3225,Koromiko Lane,Raglan,
 1832846,0175,Koromiko Lane,Tikipunga,Whangarei
 1811516,3400,Koromiko Place,Matamata,
@@ -3482,6 +3511,7 @@ road_id,postcode,name,locality,city
 1821939,0630,Korotaha Terrace,Rothesay Bay,Auckland
 1838107,3889,Korotangi Place,Kawhia,
 3084862,3010,Korotere Drive,Owhata,Rotorua
+3085534,4412,Korowai Place,Takaro,Palmerston North
 3078867,2578,Korowai Rise,Ramarama,Drury
 3081650,4120,Korowai Street,Flaxmere,Hastings
 1843135,8083,Korowai Street,Marshland,Christchurch
@@ -3763,6 +3793,7 @@ road_id,postcode,name,locality,city
 1789951,7183,Kowhatu Grove,Pohara,Takaka
 1825545,1061,Kowhatu Road,One Tree Hill,Auckland
 1782259,7977,Kowhatu Road,Waihaorunga,Waimate
+3085298,4501,Kōwhiti Drive,"Castlecliff,Westmere",Whanganui
 1820117,0492,Kowhitikaru Road,Panguru,
 3037451,0118,Kowi Lakes Drive,One Tree Point,Whangarei
 3014018,0981,Kraack Road,Dome Forest,Warkworth
@@ -3837,7 +3868,9 @@ road_id,postcode,name,locality,city
 1797046,4573,Kukuta Road,Okoia,Whanganui
 1798276,5575,Kukutauaki Road,Koputaroa,Shannon
 1982808,0932,Kukuwai Avenue,Red Beach,
+3085469,1072,Kūkūwai Lane,Point England,Auckland
 1808938,3110,Kulim Avenue,Otumoetai,Tauranga
+3085655,5018,Kumai Lane,Wallaceville,Upper Hutt
 1785490,8042,Kumai Place,Sockburn,Christchurch
 3083203,2578,Kumanu Drive,Karaka,Papakura
 1986401,0600,Kumanu Lane,Blockhouse Bay,Auckland

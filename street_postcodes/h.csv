@@ -932,6 +932,7 @@ road_id,postcode,name,locality,city
 1824757,1072,Harlow Crescent,Glen Innes,Auckland
 1793467,5014,Harlow Grove,Wainuiomata,Lower Hutt
 1824893,1025,Harlston Road,Mount Albert,Auckland
+3085385,9679,Harmana Lane,Manapouri,Manapouri
 1785161,7495,Harmans Gorge Road,View Hill,Oxford
 1780131,7682,Harmans Road,Leeston,
 1779982,8082,Harmans Road,Lyttelton,
@@ -1119,6 +1120,7 @@ road_id,postcode,name,locality,city
 1836030,3200,Harrogate Place,Grandview Heights,Hamilton
 1779666,7334,Harrogate Street,Hanmer Springs,
 3046137,6012,Harrold Street,"Aro Valley,Highbury,Kelburn",Wellington
+3085483,3300,Harrop Place,Morrinsville,Morrinsville
 1774875,9016,Harrop Street,Dunedin Central,Dunedin
 1784597,8042,Harrowdale Drive,Avonhead,Christchurch
 1780527,7600,Harrowell Road,Burnham,
@@ -1404,6 +1406,7 @@ road_id,postcode,name,locality,city
 1800808,8052,Haughey Drive,Mairehau,Christchurch
 1774045,9587,Haugh Road,"Dunrobin,Edievale",Tapanui
 1950854,7676,Haughty Place,Prebbleton,
+3085380,3114,Hauhake Lane,Omokoroa,Omokoroa
 3082152,4122,Hauhake Place,Mayfair,Hastings
 3081025,2019,Hauhake Road,Flat Bush,Auckland
 3084739,0612,Hauhake Road,Henderson,Auckland
@@ -2447,6 +2450,7 @@ road_id,postcode,name,locality,city
 1781719,7910,Hertford Street,Kensington,Timaru
 1781715,7910,Hertnon Street,West End,Timaru
 1786568,7978,Hertslets Road,Makikihi,Waimate
+3085424,0992,Heruheru Street,Wainui,Wainui
 1802394,4086,Herupara Road,Tikitiki,
 1834916,6035,Hervey Way,Kaiwharawhara,Wellington
 1824919,1021,Hesketh Street,Kingsland,Auckland
@@ -2820,6 +2824,7 @@ road_id,postcode,name,locality,city
 3080982,2113,Hikihiki Drive,Karaka,Papakura
 1802826,4079,Hikirangi Street,Tokomaru Bay,
 3079239,0616,Hiki Street,Hobsonville,Auckland
+3085580,5024,Hikoi Way,Whitby,Porirua
 1826636,0112,Hiko Road,Te Kamo,Whangarei
 1814214,3579,Hikuai School Road,Hikuai,
 3047492,3579,Hikuai Settlement Road,"Hikuai,Pauanui",
@@ -3207,6 +3212,7 @@ road_id,postcode,name,locality,city
 1791818,3334,Hinenamu Grove,Turangi,
 3084720,4471,Hinepaia Place,Aokautere,Aokautere
 1791686,7273,Hinepango Drive,Rarangi,Blenheim
+3085476,4122,Hinepare Crescent,Parkvale,Hastings
 1803052,4196,Hinepua Roadway,Whakaki,
 3079975,3400,Hinerangi Crescent,Matamata,
 1795845,3381,Hinerangi Place,Kuratau,Turangi
@@ -3626,6 +3632,7 @@ road_id,postcode,name,locality,city
 1771603,9300,Holly Court,Kelvin Heights,Queenstown
 1799808,4410,Holly Court,Palmerston North,
 1793945,6037,Hollydale Grove,Churton Park,Wellington
+3085459,7632,Holly Fields Drive,Leeston,Leeston
 1786924,8053,Hollyford Avenue,Bryndwr,Christchurch
 3026975,2105,Hollyford Drive,"Clover Park,Goodwood Heights",Auckland
 1841055,5024,Hollyford Place,Aotea,Porirua
@@ -3829,6 +3836,7 @@ road_id,postcode,name,locality,city
 3084247,0932,Honohono Avenue,Wainui,
 3077800,5573,Honoiti Ranapiri Place,Manakau,
 3082205,0627,Hononga Lane,Northcote,Auckland
+3085505,9010,Honora Lane,Helensburgh,Dunedin
 1795812,4472,Honore Drive,Linton,Palmerston North
 3077683,2110,Honour Road,Papakura,
 3079473,0810,Honowai Street,Kumeu,
@@ -3893,6 +3901,7 @@ road_id,postcode,name,locality,city
 1798602,4815,Hopcroft Street,Foxton Beach,Foxton
 1837342,9304,Hope Avenue,Lake Hayes,Queenstown
 1819622,0202,Hope Avenue,Russell,
+3085279,7608,Hope Drive,Lincoln,Lincoln
 1783627,7193,Hope Drive,Okiwi Bay,
 1791522,7201,Hope Drive,Witherlea,Blenheim
 1828734,2010,Hope Farm Avenue,Pakuranga Heights,Auckland
@@ -3959,6 +3968,7 @@ road_id,postcode,name,locality,city
 1818489,2105,Horlicks Place,Randwick Park,Auckland
 1800228,5011,Horlor Street,Naenae,Lower Hutt
 1777049,9876,Horman Road,Grove Bush,Invercargill
+3085643,0985,Hornbeam Place,Warkworth,Warkworth
 3083802,0814,Hornbeam Road,Westgate,Auckland
 1822758,0632,Hornbill Drive,Fairview Heights,Auckland
 1786464,7920,Hornbrook Street,Temuka,
@@ -4011,6 +4021,7 @@ road_id,postcode,name,locality,city
 1798153,5036,Horopito Road,Waikanae,
 3082621,8025,Horopito Street,Halswell,Christchurch
 1831643,1024,Horopito Street,Mount Eden,Auckland
+3085564,3183,Horopito Way,Papamoa,Papamoa
 3051983,7682,Hororata Dunsandel Road,"Dunsandel,Hororata",
 3022804,7572,Hororata Road,"Coalgate,Hororata",
 1822310,0622,Hororata Road,Hauraki,Auckland
@@ -4060,6 +4071,7 @@ road_id,postcode,name,locality,city
 1823825,1026,Horton Avenue,Avondale,Auckland
 3080336,4120,Horton Close,Frimley,Hastings
 1783197,8061,Horton Place,Avondale,Christchurch
+3085297,7400,Horton Place,Rangiora,Rangiora
 1788877,7173,Horton Road,Tasman,Upper Moutere
 1777051,9781,Horton Road,Tussock Creek,Winton
 1795652,5712,Horton Street,Greytown,
@@ -4211,6 +4223,8 @@ road_id,postcode,name,locality,city
 1802158,4010,Howarth Street,Mangapapa,Gisborne
 1809693,3120,Howat Place,Whakatane,
 3079533,9371,Howden Drive,Jacks Point,Queenstown
+3085478,9371,Howden Drive,Jacks Point,Queenstown
+3085479,9371,Howden Drive North,Jacks Point,Queenstown
 3045073,2013,Howden Lane,Golflands,Auckland
 1842725,5024,Howden Place,Aotea,Porirua
 1807285,3214,Howden Road,Fairfield,Hamilton
@@ -4285,6 +4299,7 @@ road_id,postcode,name,locality,city
 1825477,1061,Huapai Street,Onehunga,Auckland
 1800168,2121,Hua Place,Tuakau,
 3055667,0810,Huarahi Pai Road,Huapai,Kumeu
+3085400,0992,Huarahi Road,"Dairy Flat,Wainui","Dairy Flat,Wainui"
 3084445,0230,Hua Rakau Way,Kerikeri,
 1819502,0583,Huarau Road,Whakapirau,
 1819505,0583,Huarau Station Road,Maungaturoto,
@@ -4587,6 +4602,7 @@ road_id,postcode,name,locality,city
 1813353,3800,Huntaway Downs,Te Awamutu,
 3082761,7682,Huntaway Lane,Dunsandel,
 1830212,0610,Huntaway Lane,Te Atatu Peninsula,Auckland
+3085432,3710,Huntaway Road,Te Kauwhata,Te Kauwhata
 1837693,7077,Huntaway Road,Tutaki,Murchison
 1810283,3015,Hunt Crescent,Hillcrest,Rotorua
 1788889,7020,Hunter Avenue,Richmond,
@@ -4806,6 +4822,7 @@ road_id,postcode,name,locality,city
 1816458,4378,Hutiwai Road,Tongaporutu,Urenui
 1829739,0475,Hutoia Roadway,Horeke,Okaihau
 1796587,4696,Hutotoi Road,Horopito,Raetihi
+3085419,0932,Hutson Road,Wainui,Wainui
 1788186,7010,Hutson Street,Toi Toi,Nelson
 1841696,3420,Huttloc Drive,Tokoroa,
 1808774,3116,Hutton Place,Mount Maunganui,
@@ -4853,6 +4870,7 @@ road_id,postcode,name,locality,city
 1836849,4414,Hydrangea Lane,Milson,Palmerston North
 1822760,0602,Hydra Place,Glen Eden,Auckland
 3080899,7901,Hydro Avenue,Twizel,
+3085540,0505,Hydro Lane,Mangawhai,Mangawhai
 1817105,4371,Hydro Road,Burgess Park,New Plymouth
 1813531,3494,Hydro Road,"Cambridge,Karapiro,Maungatautari",Cambridge
 3051351,,Hydro Road,"Edgecumbe,Te Teko","Edgecumbe,Whakatane"
