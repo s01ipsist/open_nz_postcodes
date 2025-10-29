@@ -19,7 +19,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 DATA_SOURCES = {
     'linz': {
-        'name': 'linz-koord',
+        'name': 'linz-koord-2026',
         'host': 'data.linz.govt.nz',
         'token': LINZ_API_TOKEN,
         'crs': 'EPSG:4167',
@@ -27,7 +27,7 @@ DATA_SOURCES = {
         'layers': [123113, 123110, 113764]
     },
     'statsnz': {
-        'name': 'statsnz-koord',
+        'name': 'statsnz-koord-2026',
         'host': 'datafinder.stats.govt.nz',
         'token': STATSNZ_API_TOKEN,
         'crs': 'EPSG:2193',
