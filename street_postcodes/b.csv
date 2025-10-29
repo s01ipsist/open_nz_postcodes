@@ -420,7 +420,7 @@ road_id,postcode,name,locality,city
 1812155,3420,Banbury Place,Tokoroa,
 1784569,8053,Banbury Street,Burnside,Christchurch
 1787938,7891,Banbury Street,Waimangaroa,Westport
-1842333,9371,Banbury Terrace,Lower Shotover,Queenstown
+1842333,9304,Banbury Terrace,Lower Shotover,Queenstown
 1831296,0602,Bancroft Crescent,Glendene,Auckland
 1838940,8083,Bancroft Place,Parklands,Christchurch
 1794191,6037,Bancroft Terrace,Newlands,Wellington
@@ -935,7 +935,7 @@ road_id,postcode,name,locality,city
 3079976,3400,Batham Drive,Matamata,
 1794193,6011,Batham Drive,Mount Victoria,Wellington
 3083451,9014,Batham Way,Broad Bay,Dunedin
-2012849,9371,Bathans Lane,Lake Hayes,Queenstown
+2012849,9304,Bathans Lane,Lake Hayes,Queenstown
 3079309,2402,Bathgate Court,Pokeno,
 1830886,0972,Bathgate Road,Pakiri,Wellsford
 1786585,7980,Bathgates Road,Waimate,
@@ -3803,7 +3803,7 @@ road_id,postcode,name,locality,city
 1836459,0632,Brampton Court,Northcross,Auckland
 1828705,2010,Brampton Court,Pakuranga,Auckland
 3059192,7618,Brampton Drive,West Melton,
-3080671,9371,Brampton Lane,Lower Shotover,Queenstown
+3080671,9304,Brampton Lane,Lower Shotover,Queenstown
 1818446,0920,Brampton Road,Snells Beach,
 1808352,0185,Brampton Way,Kauri,
 1775702,9371,Bramshill Drive,Lower Shotover,Queenstown
@@ -5470,7 +5470,7 @@ road_id,postcode,name,locality,city
 1832884,0612,Butia Avenue,Henderson,Auckland
 1829469,2025,Butler Avenue,Papatoetoe,Auckland
 1812048,7614,Butler Court,Rolleston,
-1983873,9371,Butler Lane,Lower Shotover,Queenstown
+1983873,9304,Butler Lane,Lower Shotover,Queenstown
 3080541,0505,Butler Lane,Mangawhai Heads,Mangawhai
 1801944,4072,Butler Lane,Patutahi,Gisborne
 1807822,3214,Butler Place,Fairfield,Hamilton

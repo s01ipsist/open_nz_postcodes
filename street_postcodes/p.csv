@@ -1681,7 +1681,7 @@ road_id,postcode,name,locality,city
 1825104,1024,Peary Road,Mount Eden,Auckland
 1817584,4672,Pease Lane,Hawera,
 1775743,9771,Pease Street,McNab,Gore
-1983879,9371,Peasmoor Road,Lower Shotover,Queenstown
+1983879,9304,Peasmoor Road,Lower Shotover,Queenstown
 3061086,7895,Pea Soup Road,Shenandoah,Murchison
 1797087,4574,Peat Avenue,Kai Iwi,Whanganui
 1772772,9024,Peat Place,Mosgiel,
@@ -2023,7 +2023,7 @@ road_id,postcode,name,locality,city
 1828149,2010,Pepler Street,Pakuranga,Auckland
 1841983,3495,Peppercorn Place,Leamington,Cambridge
 3053261,3784,Peppercorn Road,Waiterimu,
-1860174,9371,Peppercorn Terrace,Lower Shotover,Queenstown
+1860174,9304,Peppercorn Terrace,Lower Shotover,Queenstown
 1832808,0632,Pepperdine Place,Albany,Auckland
 1811957,3482,Pepperill Road,Lichfield,Putaruru
 1840578,3400,Pepper Street,Matamata,
@@ -2225,7 +2225,7 @@ road_id,postcode,name,locality,city
 1791547,5028,Peterhouse Street,Tawa,Wellington
 1800251,5019,Peterkin Street,Taita,Lower Hutt
 1817446,8053,Peter Leeming Road,Christchurch Airport,Christchurch
-1983870,9371,Peterley Road,Lower Shotover,Queenstown
+1983870,9304,Peterley Road,Lower Shotover,Queenstown
 1809851,3127,Peter Lippa Drive,Kawerau,
 1791285,3989,Peter McIntyre Street,Kakahi,
 1824032,0600,Peter Mulgrew Street,New Windsor,Auckland
@@ -3968,7 +3968,7 @@ road_id,postcode,name,locality,city
 1785495,8051,Primrose Hill Lane,Casebrook,Christchurch
 3002240,0991,Primrose Hill Road,Great Barrier Island (Aotea Island),
 1805233,3674,Primrose Lane,Karangahake,
-1856715,9371,Primrose Lane,Lower Shotover,Queenstown
+1856715,9304,Primrose Lane,Lower Shotover,Queenstown
 1832944,0632,Primrose Lane,Lucas Heights,Auckland
 1841280,7700,Primrose Place,Allenton,Ashburton
 1828077,2102,Primrose Place,Manurewa,Auckland
@@ -4134,7 +4134,7 @@ road_id,postcode,name,locality,city
 1806927,3600,Prospect Terrace,Paeroa,
 1832049,2120,Prospect Terrace,Pukekohe,
 1841464,0932,Prospect Terrace,Silverdale,
-3084595,7271,Prosperity Avenue,Frankton,Queenstown
+3084595,9300,Prosperity Avenue,Frankton,Queenstown
 3082158,3800,Prosper Lane,Te Awamutu,
 1839264,4332,Prospero Place,Stratford,
 1825048,1025,Prospero Terrace,Mount Albert,Auckland

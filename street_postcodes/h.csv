@@ -300,7 +300,7 @@ road_id,postcode,name,locality,city
 1805726,4930,Hall Street,Dannevirke,
 1798581,4814,Hall Street,Foxton,
 1807239,3204,Hall Street,Frankton,Hamilton
-3079799,3204,Hall Street,Frankton,Queenstown
+3079799,9300,Hall Street,Frankton,Queenstown
 1786190,7822,Hall Street,Hector,
 1790766,7810,Hall Street,Hokitika,
 1810834,3700,Hall Street,Huntly,
@@ -1795,7 +1795,7 @@ road_id,postcode,name,locality,city
 1788774,7020,Headingly Lane,Richmond,
 1842634,0630,Headland Drive,Long Bay,Auckland
 3080972,3875,Headlands Drive,Te Awamutu,
-1983878,9371,Headley Drive,Lower Shotover,Queenstown
+1983878,9304,Headley Drive,Lower Shotover,Queenstown
 3082566,9382,Head Place,Albert Town,Wanaka
 1783810,7476,Headquarters Drive,Eyrewell,West Eyreton
 3078748,8042,Headquarters Place,Hornby South,Christchurch
@@ -2571,7 +2571,7 @@ road_id,postcode,name,locality,city
 1806182,3591,Hicks Place,Cooks Beach,Whitianga
 1820086,0481,Hicks Road,Broadwood,Kohukohu
 1817417,4672,Hicks Road,Hawera,
-1983876,9371,Hicks Road,Lower Shotover,Queenstown
+1983876,9304,Hicks Road,Lower Shotover,Queenstown
 1812845,3494,Hicks Road,Maungatautari,Cambridge
 3030687,9818,Hicks Road,Stewart Island/Rakiura,Stewart Island
 3084474,0932,Hicks Road,Wainui,
@@ -4036,7 +4036,7 @@ road_id,postcode,name,locality,city
 3043167,9482,Horse Range Road,"Bushey,Hillgrove,Palmerston","Moeraki,Palmerston"
 3043061,9472,Horse Road,"Flag Swamp,Goodwood","Palmerston,Waikouaiti"
 1777556,9818,Horseshoe Bay Road,"Halfmoon Bay / Oban,Stewart Island/Rakiura",Stewart Island
-3081517,7271,Horseshoe Bend Drive,Albert Town,Wanaka
+3081517,9382,Horseshoe Bend Drive,Albert Town,Wanaka
 1782235,7971,Horseshoe Bend Road,Otaio,Saint Andrews
 3042600,0794,Horseshoe Bush Road,"Dairy Flat,Waitoki",
 1777047,9872,Horseshoe Bush Road,Mabel Bush,Invercargill

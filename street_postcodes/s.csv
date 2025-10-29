@@ -308,7 +308,7 @@ road_id,postcode,name,locality,city
 1831072,0630,Sandford Street,Campbells Bay,Auckland
 1792843,5018,Sandford Street,Trentham,Upper Hutt
 2014843,6037,Sandford Terrace,Churton Park,Wellington
-1948391,9371,Sandford Terrace,Lower Shotover,Queenstown
+1948391,9304,Sandford Terrace,Lower Shotover,Queenstown
 1825605,1010,Sandford Way,Rakino Island,Auckland
 1828054,2010,Sandgate Avenue,Botany Downs,Auckland
 1773450,9073,Sandhead Street,Waihola,Milton
@@ -1210,7 +1210,7 @@ road_id,postcode,name,locality,city
 1819058,0310,Second Avenue,Dargaville,
 1831957,2681,Second Avenue,Glenbrook,
 1824982,1021,Second Avenue,"Kingsland,Morningside",Auckland
-3080434,7271,Second Avenue,Lake Hayes,Queenstown
+3080434,9304,Second Avenue,Lake Hayes,Queenstown
 1825608,1081,Second Avenue,Onetangi,Waiheke Island
 3083694,3015,Second Avenue,Pukehangi,Rotorua
 1821854,0624,Second Avenue,Stanley Point,Auckland
@@ -1544,7 +1544,7 @@ road_id,postcode,name,locality,city
 1781537,7985,Seven Sisters Road,Temuka,
 1771773,9382,Seven Street,John Creek,Lake Hawea
 1808906,3112,Seventeenth Avenue,Tauranga South,Tauranga
-3080438,9371,Seventh Avenue,Lake Hayes,Queenstown
+3080438,9304,Seventh Avenue,Lake Hayes,Queenstown
 1831750,1081,Seventh Avenue,Onetangi,Waiheke Island
 1808904,3110,Seventh Avenue,"Tauranga,Tauranga Harbour",Tauranga
 1816447,4377,Seventh Avenue,Urenui,
@@ -1802,7 +1802,7 @@ road_id,postcode,name,locality,city
 1780992,7730,Shearer Place,Methven,
 1803974,4112,Shearer Place,Pirimai,Napier
 1808310,3183,Shearer Road,Te Puke,
-3080006,3204,Shearers Drive,Frankton,Queenstown
+3080006,9300,Shearers Drive,Frankton,Queenstown
 3006087,7977,Shearers Hill Road,"Ikawai,Waihao Downs",Waimate
 3064896,7776,Shearers Road,"Ashburton Forks,Lauriston","Ashburton,Lauriston"
 1780774,7700,Shearer Street,Tinwald,Ashburton
@@ -2045,7 +2045,7 @@ road_id,postcode,name,locality,city
 1780434,7671,Shipleys Road,Greendale,Darfield
 1783122,8051,Shipleys Road,Harewood,Christchurch
 1841172,5024,Ships Cove,Whitby,Porirua
-1842759,9371,Shipton Court,Lower Shotover,Queenstown
+1842759,9304,Shipton Court,Lower Shotover,Queenstown
 1831497,0600,Shipton Place,Blockhouse Bay,Auckland
 3081597,0505,Shipwreck Way,Mangawhai Heads,Mangawhai
 1838202,1010,Shipwright Lane,Parnell,Auckland
@@ -2322,7 +2322,7 @@ road_id,postcode,name,locality,city
 1814458,3216,Silverdale Road,"Hillcrest,Silverdale",Hamilton
 1821131,0932,Silverdale Street,Silverdale,
 1820429,0420,Silver Egg Road,Mangonui,
-3085169,9371,Silvereye Lane,Lower Shotover,Queenstown
+3085169,9304,Silvereye Lane,Lower Shotover,Queenstown
 1834066,3283,Silver Eye Lane,Tamahere,Hamilton
 3077523,0616,Silvereye Road,Hobsonville,Auckland
 3082614,8025,Silvereye Street,Halswell,Christchurch
@@ -2360,7 +2360,7 @@ road_id,postcode,name,locality,city
 1773258,9085,Silverstream Road,Upper Waitati,Waitati
 1773261,9092,Silverstream Valley Road,North Taieri,Mosgiel
 1830079,2679,Silverstream Way,Patumahoe,Pukekohe
-3077552,9371,Silver Street,Lower Shotover,Queenstown
+3077552,9304,Silver Street,Lower Shotover,Queenstown
 3020177,1072,Silverton Avenue,Wai o Taiki Bay,Auckland
 1800495,6037,Silverton Place,Churton Park,Wellington
 1781536,7992,Silverton Road,"Arundel,Rangitata",Geraldine
@@ -2549,7 +2549,7 @@ road_id,postcode,name,locality,city
 1836658,7022,Sixpenny Lane,Brightwater,
 1837852,8025,Six Silvers Avenue,Halswell,Christchurch
 1809208,3112,Sixteenth Avenue,Tauranga South,Tauranga
-3080437,9371,Sixth Avenue,Lake Hayes,Queenstown
+3080437,9304,Sixth Avenue,Lake Hayes,Queenstown
 1825690,1081,Sixth Avenue,Onetangi,Waiheke Island
 1809220,3110,Sixth Avenue,Tauranga,
 1816406,4377,Sixth Avenue,Urenui,
@@ -3474,7 +3474,7 @@ road_id,postcode,name,locality,city
 1770530,9492,Springfield Road,"Awamoa,Reidston,Totara",Oamaru
 1779327,8014,Springfield Road,"Christchurch Central,St Albans",Christchurch
 1803579,4102,Springfield Road,Haumoana,
-3077551,9371,Springfield Road,Lower Shotover,Queenstown
+3077551,9304,Springfield Road,Lower Shotover,Queenstown
 1779326,,Springfield Road,"Milford,Temuka",Temuka
 1773629,,Springfield Road,Milton,
 1823782,1022,Springfield Road,Morningside,Auckland
@@ -3719,7 +3719,7 @@ road_id,postcode,name,locality,city
 1823113,0604,Staley Road,Parau,Auckland
 1790273,7805,Stalker Lane,Greymouth,
 1781611,7991,Stalker Road,Kakahu,Geraldine
-1837986,9371,Stalker Road,"Lake Hayes,Lower Shotover",Queenstown
+1837986,9304,Stalker Road,"Lake Hayes,Lower Shotover",Queenstown
 1776882,9893,Stalker Settlement Road,Seaward Downs,Wyndham
 1785352,7691,Stalkers Road,Woodend Beach,Woodend
 1822789,0602,Stallard Place,Glen Eden,Auckland
@@ -4771,7 +4771,7 @@ road_id,postcode,name,locality,city
 1835066,8022,Stonewall Place,Huntsbury,Christchurch
 1837907,0179,Stone Wall Rise,Maungatapere,Whangarei
 1770424,9492,Stonewall Road,Awamoa,Oamaru
-1842756,9371,Stone Walls Terrace,Lower Shotover,Queenstown
+1842756,9304,Stone Walls Terrace,Lower Shotover,Queenstown
 1773997,9591,Stonewall Street,Beaumont,Lawrence
 1809305,3112,Stonewall Way,Hairini,Tauranga
 1829405,2025,Stonex Road,Papatoetoe,Auckland
@@ -4898,7 +4898,7 @@ road_id,postcode,name,locality,city
 1799756,4412,Strachan Way,Highbury,Palmerston North
 1784259,8051,Strack Place,Redwood,Christchurch
 3079772,9793,Stradbroke Way,Kingston,
-1774863,9371,Strains Road,Lake Hayes,Queenstown
+1774863,9304,Strains Road,Lake Hayes,Queenstown
 1793165,5011,Strand Crescent,Naenae,Lower Hutt
 1782467,8011,Strand Lane,Christchurch Central,Christchurch
 1816597,4312,Strandon Place,Strandon,New Plymouth

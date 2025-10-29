@@ -520,7 +520,7 @@ road_id,postcode,name,locality,city
 1793355,5012,Campbell Terrace,Petone,Lower Hutt
 1773946,9532,Campbelton Street,Lawrence,
 1789039,7096,Camp Creek Road,Golden Downs,Wakefield
-1842336,9371,Campden Court,Lower Shotover,Queenstown
+1842336,9304,Campden Court,Lower Shotover,Queenstown
 1794656,6022,Camperdown Road,"Karaka Bays,Miramar",Wellington
 1774868,9382,Camp Hill Road,"Albert Town,Hawea Flat","Lake Hawea,Wanaka"
 1776948,9892,Camp Hill Road,Mimihau,Wyndham
@@ -1675,7 +1675,7 @@ road_id,postcode,name,locality,city
 1798392,5510,Central Lane,Levin,
 1797775,4993,Central Mangaone Road,Eketahuna,
 1836015,5032,Central Park,Paraparaumu Beach,Paraparaumu
-3078254,9371,Central Park Avenue,Lake Hayes,Queenstown
+3078254,9304,Central Park Avenue,Lake Hayes,Queenstown
 1823546,,Central Park Drive,"Henderson,Te Atatu South",Auckland
 3084746,0505,Central Park Drive,Mangawhai,Mangawhai
 3081318,7081,Central Park Lane,Appleby,Richmond
@@ -1753,7 +1753,7 @@ road_id,postcode,name,locality,city
 1839303,8061,Chaddesden Lane,Avonside,Christchurch
 1832596,0612,Chadlington Avenue,Henderson,Auckland
 1784791,8083,Chadlington Street,Parklands,Christchurch
-1983872,9371,Chadlington Way,Lower Shotover,Queenstown
+1983872,9304,Chadlington Way,Lower Shotover,Queenstown
 1812591,3330,Chad Street,Rainbow Point,Taupo
 1828942,2024,Chadwick Crescent,Mangere East,Auckland
 1799223,4412,Chadwick Place,Highbury,Palmerston North
@@ -2223,7 +2223,7 @@ road_id,postcode,name,locality,city
 1840189,4412,Cheltenham Lane,Awapuni,Palmerston North
 1841385,7400,Cheltenham Lane,Rangiora,
 1821799,0624,Cheltenham Road,Devonport,Auckland
-1860170,9371,Cheltenham Road,Lower Shotover,Queenstown
+1860170,9304,Cheltenham Road,Lower Shotover,Queenstown
 1779683,7334,Cheltenham Street,Hanmer Springs,
 1783621,8014,Cheltenham Street,Merivale,Christchurch
 1794753,6037,Cheltenham Terrace,Newlands,Wellington
@@ -2306,7 +2306,7 @@ road_id,postcode,name,locality,city
 1823557,0618,Cherub Place,West Harbour,Auckland
 1780342,7632,Chervier Street,Leeston,
 1818387,5032,Cherwell Court,Paraparaumu,
-1983875,9371,Cherwell Lane,Lower Shotover,Queenstown
+1983875,9304,Cherwell Lane,Lower Shotover,Queenstown
 1770223,9400,Cherwell Street,Oamaru North,Oamaru
 1831190,0627,Cheryl Place,Hillcrest,Auckland
 1815221,3330,Chesham Avenue,"Richmond Heights,Waipahihi",Taupo
@@ -4667,7 +4667,7 @@ road_id,postcode,name,locality,city
 1832988,1010,Cotesmore Way,Parnell,Auckland
 1779196,7572,Cotons Road,Hororata,
 1787486,8053,Cotswold Avenue,Bishopdale,Christchurch
-1842334,9371,Cotswold Court,Lower Shotover,Queenstown
+1842334,9304,Cotswold Court,Lower Shotover,Queenstown
 1793779,6037,Cotswold Crescent,Newlands,Wellington
 1836642,3210,Cotswold Lane,Huntington,Hamilton
 1831802,1060,Cotswold Lane,Mount Wellington,Auckland
@@ -4871,7 +4871,7 @@ road_id,postcode,name,locality,city
 1771191,7201,Covent Gardens,Springlands,Blenheim
 1804034,4112,Coventry Avenue,"Pirimai,Tamatea",Napier
 1792340,5024,Coventry Close,Ascot Park,Porirua
-1842757,9371,Coventry Crescent,Lower Shotover,Queenstown
+1842757,9304,Coventry Crescent,Lower Shotover,Queenstown
 3069962,1023,Coventry Lane,Newmarket,Auckland
 1807076,3206,Coventry Road,Melville,Hamilton
 3054642,4172,Coventry Road,Tomoana,Hastings
@@ -5631,7 +5631,7 @@ road_id,postcode,name,locality,city
 1801309,4414,Cumberland Place,Kelvin Grove,Palmerston North
 1773982,9522,Cumberland Place,Tapanui,
 1802952,4112,Cumberland Rise,Taradale,Napier
-3077512,9371,Cumberland Road,Lower Shotover,Queenstown
+3077512,9304,Cumberland Road,Lower Shotover,Queenstown
 3056477,9016,Cumberland Street,"Dunedin Central,North Dunedin",Dunedin
 1821249,0985,Cumberland Street,Leigh,
 3056474,,Cumberland Street,"Merrilands,Welbourn",New Plymouth

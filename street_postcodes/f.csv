@@ -883,7 +883,7 @@ road_id,postcode,name,locality,city
 3054215,3112,Fifteenth Avenue,"Judea,Tauranga South",Tauranga
 1825967,0110,Fifth Avenue,Avenues,Whangarei
 3072141,3214,Fifth Avenue,"Claudelands,Enderley",Hamilton
-3080436,9371,Fifth Avenue,Lake Hayes,Queenstown
+3080436,9304,Fifth Avenue,Lake Hayes,Queenstown
 1824001,1025,Fifth Avenue,Mount Albert,Auckland
 1809276,3110,Fifth Avenue,Tauranga,
 1816476,4377,Fifth Avenue,Urenui,
@@ -1010,7 +1010,7 @@ road_id,postcode,name,locality,city
 1819082,0310,First Avenue,Dargaville,
 1827098,2681,First Avenue,Glenbrook,
 1831614,1021,First Avenue,Kingsland,Auckland
-3080432,7271,First Avenue,Lake Hayes,Queenstown
+3080432,9304,First Avenue,Lake Hayes,Queenstown
 1825639,1081,First Avenue,"Onetangi,Waiheke Island",Waiheke Island
 1829027,2585,First Avenue,Orere Point,
 3083690,3015,First Avenue,Pukehangi,Rotorua
@@ -1790,7 +1790,7 @@ road_id,postcode,name,locality,city
 1809277,3112,Fourteenth Avenue,Tauranga South,Tauranga
 1791661,7201,Fourteenth Lane,Blenheim,
 1818800,1021,Fourth Avenue,"Kingsland,Morningside",Auckland
-3080435,9371,Fourth Avenue,Lake Hayes,Queenstown
+3080435,9304,Fourth Avenue,Lake Hayes,Queenstown
 1831744,1081,Fourth Avenue,Onetangi,Waiheke Island
 3083692,3015,Fourth Avenue,Pukehangi,Rotorua
 1814703,3110,Fourth Avenue,Tauranga,
@@ -1883,7 +1883,7 @@ road_id,postcode,name,locality,city
 1841961,7630,Foxton Drive,Kaiapoi,
 3021527,4893,Foxton Shannon Road,"Foxton,Moutoa,Shannon","Foxton,Shannon"
 1781963,7987,Fox View Road,Fairlie,
-1983871,9371,Foxwell Way,Lower Shotover,Queenstown
+1983871,9304,Foxwell Way,Lower Shotover,Queenstown
 1823169,0602,Foyle Place,Glendene,Auckland
 1776239,9814,Foyle Street,Bluff,
 1794122,6023,Foyle Street,Island Bay,Wellington

@@ -1180,7 +1180,7 @@ road_id,postcode,name,locality,city
 3060537,6012,Ninian Street,Highbury,Wellington
 3034107,4373,Ninia Road,"Paraite,Sentry Hill",New Plymouth
 3023197,0473,Ninihi Road,"Otaua,Taheke",Kaikohe
-3080440,9371,Ninth Avenue,Lake Hayes,Queenstown
+3080440,9304,Ninth Avenue,Lake Hayes,Queenstown
 1809011,3110,Ninth Avenue,Tauranga,
 1791489,7201,Ninth Lane,Blenheim,
 1941598,2018,Ninth View Avenue,Beachlands,Auckland
@@ -1274,7 +1274,7 @@ road_id,postcode,name,locality,city
 1805876,3216,Nobleman Place,Hamilton East,Hamilton
 1783938,8025,Noble Place,Halswell,Christchurch
 1776181,9772,Noble Road,Charlton,Gore
-1948392,9371,Nobles Lane,Lower Shotover,Queenstown
+1948392,9304,Nobles Lane,Lower Shotover,Queenstown
 1812429,3330,Noble Street,Nukuhau,Taupo
 1773679,9585,Noble Street,Owaka,
 1827588,2123,Noble Street,Waiuku,
@@ -1511,7 +1511,7 @@ road_id,postcode,name,locality,city
 1822724,0632,Northbrook Close,Greenhithe,Auckland
 1814623,4414,Northbrook Court,Roslyn,Palmerston North
 1842532,3210,Northbrook Glen,Flagstaff,Hamilton
-1860175,9371,Northbrook Place,Lower Shotover,Queenstown
+1860175,9304,Northbrook Place,Lower Shotover,Queenstown
 1787518,7400,Northbrook Road,Rangiora,
 1842618,9305,Northburn Road,Wanaka,
 1771293,9383,Northburn Station Road,Northburn,Cromwell
