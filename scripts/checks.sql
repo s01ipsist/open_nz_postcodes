@@ -17,7 +17,7 @@ FROM postcode_boundaries;
 SELECT postcode, count_matching_address_points, count_non_matching_address_points,
 ROUND((
 cast(count_non_matching_address_points AS double precision) / cast(count_matching_address_points AS double precision)
-)::numeric, 4) precision
+)::numeric, 4) AS precision
 FROM postcode_boundaries
 ORDER BY precision DESC
 LIMIT 20;
