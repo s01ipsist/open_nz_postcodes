@@ -7,6 +7,7 @@ road_id,postcode,name,locality,city
 3065976,5794,Fabians Road,"Morison Bush,Papawai",Greytown
 1811980,4332,Fabian Street,Stratford,
 1791155,7275,Fabians Valley Road,Onamalutu,Wairau Valley
+3085636,3432,Fable Way,Leamington,Cambridge
 1798583,4815,Fabrin Street,Foxton Beach,Foxton
 1774804,9330,Fache Street,Clyde,
 1787195,3330,Facilita Avenue,Wharewaka,Taupo
@@ -528,10 +529,12 @@ road_id,postcode,name,locality,city
 1831711,1061,Felix Street,Onehunga,Auckland
 1841869,7025,Fellbridge Rise,Wakefield,
 1832342,2102,Fellbrook Street,Manurewa,Auckland
+3085674,3420,Fellingham Terrace,Tokoroa,Tokoroa
 1774714,9495,Felling Street,Maheno,Oamaru
 1978663,0932,Felling Street,"Silverdale,Wainui",
 1789307,7011,Fell Place,Stoke,Nelson
 1791249,7202,Fell Street,Grovetown,Blenheim
+3085659,5018,Fell Street,Maymorn,Upper Hutt
 1791250,7210,Fell Street,Seddon,
 1773002,9510,Fell Street,Waikouaiti,
 1772266,9011,Fels Street,Kenmure,Dunedin
@@ -686,6 +689,7 @@ road_id,postcode,name,locality,city
 1954746,0294,Fernbird Grove,Kerikeri,
 1823654,0614,Fernbird Place,Massey,Auckland
 3003593,0505,Fern Bird Place,Mangawhai Heads,Mangawhai
+3085323,7615,Fernbird Road,Rolleston,Rolleston
 1829977,2013,Fernbrook Close,Burswood,Auckland
 1797288,7805,Fernbrook Close,Greymouth,
 3005260,4310,Fernbrook Drive,"Hurworth,Upper Vogeltown",New Plymouth
@@ -709,6 +713,7 @@ road_id,postcode,name,locality,city
 1809282,3110,Ferndown Close,Brookfield,Tauranga
 1785812,8062,Ferndown Lane,Bromley,Christchurch
 1783977,8025,Fern Drive,Halswell,Christchurch
+3085318,2113,Fern Drive,Rosehill,Papakura
 1799846,4077,Ferneaux Street,Tolaga Bay,
 1824948,1025,Ferner Avenue,Mount Albert,Auckland
 1782727,8061,Ferner Street,Dallington,Christchurch
@@ -1095,6 +1100,7 @@ road_id,postcode,name,locality,city
 1817341,4679,Fitzgerald Avenue,Kaponga,Hawera
 1815089,3400,Fitzgerald Avenue,Matamata,
 1817614,4673,Fitzgerald Lane,Hawera,
+3085280,7608,Fitzgerald Lane,Lincoln,Lincoln
 1794108,6012,Fitzgerald Place,Karori,Wellington
 1804119,4110,Fitzgerald Place,Maraenui,Napier
 1787260,7992,Fitzgerald Road,"Belfield,Orton","Geraldine,Temuka"
@@ -1165,8 +1171,10 @@ road_id,postcode,name,locality,city
 3079220,2113,Fjord Way,Karaka,Papakura
 3078150,3173,Flack Street,Pyes Pa,Tauranga
 3078200,3800,Fladgate Drive,Te Awamutu,
+3085566,7281,Flagg Bay Close,Port Underwood,Picton
 1780540,7673,Flagpole Road,Whitecliffs,Glentunnel
 1803538,4179,Flag Range Road,Sherenden,Hastings
+3085500,9010,Flagstaff Drive,Helensburgh,Dunedin
 1821445,0900,Flagstaffe Road,Wellsford,
 1794121,6011,Flagstaff Hill,Te Aro,Wellington
 1794117,6011,Flagstaff Lane,Te Aro,Wellington
@@ -1222,6 +1230,7 @@ road_id,postcode,name,locality,city
 1821670,0626,Flaxdale Street,Birkdale,Auckland
 1838934,3377,Flaxen Way,Kinloch,Taupo
 3077956,2571,Flaxfield Lane,Beachlands,Auckland
+3085598,4814,Flax Grove,Foxton,Foxton
 3082312,0293,Flax Grove,Kerikeri,
 1785592,8083,Flaxgrove Place,Parklands,Christchurch
 3085232,7614,Flax Lane,Rolleston,Rolleston
@@ -1713,6 +1722,7 @@ road_id,postcode,name,locality,city
 1800437,6021,Fortunatus Street,Brooklyn,Wellington
 3015918,9371,Fortune Lane,Jacks Point,Queenstown
 1792735,5018,Fortune Lane,Trentham,Upper Hutt
+3085513,9384,Fortune Place,Cromwell,Cromwell
 1809602,3191,Fortune Road,"Awakeri,Coastlands",Whakatane
 1776814,9777,Fortune Road,Mandeville,Gore
 1829042,2012,Fortunes Road,Half Moon Bay,Auckland
@@ -1883,6 +1893,7 @@ road_id,postcode,name,locality,city
 1841961,7630,Foxton Drive,Kaiapoi,
 3021527,4893,Foxton Shannon Road,"Foxton,Moutoa,Shannon","Foxton,Shannon"
 1781963,7987,Fox View Road,Fairlie,
+3085611,7630,Fox Way,Kaiapoi,Kaiapoi
 1983871,9304,Foxwell Way,Lower Shotover,Queenstown
 1823169,0602,Foyle Place,Glendene,Auckland
 1776239,9814,Foyle Street,Bluff,
@@ -2154,6 +2165,7 @@ road_id,postcode,name,locality,city
 1838500,9382,Frederick Street,Wanaka,
 3078262,4122,Frederick Street East,Mayfair,Hastings
 3059002,4120,Frederick Street West,"Frimley,Mahora,Mayfair",Hastings
+3085543,9011,Fred Fox Close,Bradford,Dunedin
 3081529,3591,Fred Harsant Drive,Cooks Beach,Whitianga
 3077410,9010,Fred Hollows Way,Glenleith,Dunedin
 1809600,3120,Fred Judd Crescent,Whakatane,
@@ -2278,6 +2290,7 @@ road_id,postcode,name,locality,city
 1790231,7805,Frickleton Street,Greymouth,
 1804194,4112,Frickleton Street,Taradale,Napier
 3079092,0612,Frieda Henare Lane,Henderson,Auckland
+3085320,8051,Friedeburg Place,Marshland,Christchurch
 1811205,3287,Friedlander Road,Eureka,Hamilton
 1826914,2694,Friedlander Road,Tuakau,
 1828851,2102,Friedlanders Road,"Manurewa,Wattle Downs",Auckland

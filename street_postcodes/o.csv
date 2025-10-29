@@ -202,6 +202,7 @@ road_id,postcode,name,locality,city
 1776623,9810,O'Byrne Place,Waikiwi,Invercargill
 1776622,9810,O'Byrne Street,Waikiwi,Invercargill
 1818171,4610,O'Callaghan Drive,Hawera,
+3085276,7608,O'Callaghan Drive,Lincoln,Lincoln
 1817151,4388,O'Callaghan Road,Everett Park,Inglewood
 3078330,9371,O'Callaghan Street,Arthurs Point,Queenstown
 1831927,0178,O'Carroll Road,Maungakaramea,
@@ -767,6 +768,7 @@ road_id,postcode,name,locality,city
 1823092,,Old Titirangi Road,"New Lynn,Titirangi",Auckland
 3000843,0193,Old Tokatoka Road,Waiotira,
 3000844,0193,Old Tokatoka Road,Waiotira,
+3085312,9371,Old Tom Lane,Jacks Point,Queenstown
 1819953,0475,Old Valley Road,Okaihau,
 1796526,4691,Old Vegetable Road,Raetihi,
 3079410,2110,Old Villa Way,Papakura,
@@ -792,9 +794,11 @@ road_id,postcode,name,locality,city
 1816578,4312,Oleander Place,Bell Block,New Plymouth
 1828087,2012,Oleander Point,Farm Cove,Auckland
 3081888,8025,Olearia Lane,Halswell,Christchurch
+3085688,9382,Olearia Lane,Wanaka,Wanaka
 3084014,7610,Olearia Lane,Woodend,
 3082219,2019,Olearia Street,Totara Park,Auckland
 1825521,1061,Olea Road,Onehunga,Auckland
+3085673,3420,O'Leary Avenue,Tokoroa,Tokoroa
 1814981,3700,O'Leary Place,Huntly,
 1840621,7886,O'Leary Place,Jackson Bay,Haast
 1797067,4577,O'Leary Road,Fordell,
@@ -1207,6 +1211,7 @@ road_id,postcode,name,locality,city
 1837272,3582,Opera Place,Whangapoua,Coromandel
 1810493,3010,Operiana Street,Ngongotaha,Rotorua
 3081926,2110,Ope Taua Street,Papakura,
+3085392,9822,Ophelia Court,Riverton/Aparima,Riverton/Aparima
 3007345,9393,Ophir Bridge Road,"Omakau,Ophir",Omakau
 1785967,8081,Ophir Lane,Redcliffs,Christchurch
 3071056,1010,Ophir Street,"Auckland Central,Grey Lynn",Auckland
@@ -1696,6 +1701,7 @@ road_id,postcode,name,locality,city
 1804423,3420,O'Sullivan Drive,Tokoroa,
 1840601,2123,O'Sullivan Place,Waiuku,
 1838395,2016,Oswald Close,Flat Bush,Auckland
+3085347,9230,Oswald Court,Balclutha,Balclutha
 1793844,6037,Oswald Crescent,Paparangi,Wellington
 1813812,4332,Oswald Place,Stratford,
 1776867,9793,Oswald Road,Acton,

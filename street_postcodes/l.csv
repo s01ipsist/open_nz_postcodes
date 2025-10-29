@@ -269,6 +269,7 @@ road_id,postcode,name,locality,city
 1814402,3206,Lambert Court,Glenview,Hamilton
 3056077,0176,Lambert Road,Purua,Whangarei
 1809759,3192,Lambert Road,Putauaki,Kawerau
+3085422,0932,Lambert Road,Wainui,Wainui
 3056076,3198,Lambert Road,Waiotahe,Opotiki
 1791305,7273,Lamberts Road,Kaituna,Renwick
 1772710,9018,Lambert Street,Abbotsford,Dunedin
@@ -322,6 +323,7 @@ road_id,postcode,name,locality,city
 1840954,5036,Lamont Place,Waikanae,
 1784876,7985,Lamont Road,Temuka,
 1807352,3210,Lamont Street,Chartwell,Hamilton
+3085421,0992,Lamont Street,Wainui,Wainui
 1777768,9630,Lamont Terrace,Nightcaps,
 1784446,8083,Lamorna Road,Parklands,Christchurch
 1780851,7730,Lampard Street,Methven,
@@ -718,7 +720,9 @@ road_id,postcode,name,locality,city
 1805038,3510,Laura Place,Whitianga,
 1823409,0602,Laura Street,Kelston,Auckland
 1777461,9730,Laura Street,Lumsden,
+3085266,9371,Laurel Bank Place,Lower Shotover,Queenstown
 3082287,2113,Laurel Drive,Rosehill,Papakura
+3085443,3210,Laurel Drive,Rototuna North,Hamilton
 1808551,3176,Laurel Drive,Whakamarama,
 1793230,5010,Laurel Grove,Maungaraki,Lower Hutt
 1828265,2104,Laurelia Place,Wiri,Auckland
@@ -1055,6 +1059,7 @@ road_id,postcode,name,locality,city
 1800057,5024,Leeward Drive,Whitby,Porirua
 1840178,3510,Leeward Drive,Whitianga,
 3080958,0110,Leeward Terrace,Port Whangarei,Whangarei
+3085618,7882,Lee Way Rise,Kumara Junction,Greymouth
 1828267,2010,Leewood Place,Pakuranga Heights,Auckland
 1786227,7510,Le Fleming Street,Darfield,
 1801724,6011,Left Bank,Te Aro,Wellington
@@ -1094,6 +1099,7 @@ road_id,postcode,name,locality,city
 1787498,8051,Leighton Place,Redwood,Christchurch
 1806261,3620,Leighton Road,Whangamata,
 1818866,1021,Leighton Street,Grey Lynn,Auckland
+3085425,4174,Leihuanani Lane,Pakipaki,Hastings
 3083357,1072,Leiite Setefano Way,Point England,Auckland
 1827848,2110,Leilani Place,Red Hill,Papakura
 1828262,2019,Leila Place,Clover Park,Auckland
@@ -1163,6 +1169,7 @@ road_id,postcode,name,locality,city
 1788531,7110,Lemon Tree Lane,Takaka,
 3077427,7615,Lemonwood Drive,Rolleston,
 1791744,5010,Lemonwood Grove,Maungaraki,Lower Hutt
+3085431,8022,Lemonwood Lane,Cracroft,Christchurch
 3082531,3377,Lemonwood Lane,Kinloch,Taupo
 1828290,2105,Lemonwood Place,The Gardens,Auckland
 3082641,0178,Lemonwood Rise,Puwera,Whangarei
@@ -1289,6 +1296,7 @@ road_id,postcode,name,locality,city
 1832202,2023,Lester Lane,Otara,Auckland
 1836595,7201,Lester Place,Witherlea,Blenheim
 1841554,0616,Lester Street,Hobsonville,Auckland
+3085462,7632,Lester Way,Leeston,Leeston
 3003616,7173,Les Wakefield Road,Mapua,
 3084497,7676,Letelle Street,West Melton,
 3077666,3210,Letford Road,Chartwell,Hamilton
@@ -1423,6 +1431,7 @@ road_id,postcode,name,locality,city
 1805546,4110,Leyland Street,Onekawa,Napier
 1781588,7982,Ley Road,Kakahu,Geraldine
 1823677,1050,Leys Crescent,Remuera,Auckland
+3085510,9384,Leyser Lane,Cromwell,Cromwell
 1784841,7982,Leys Estate Road,Totara Valley,Pleasant Point
 1807374,3200,Leyton Place,Nawton,Hamilton
 1828277,2104,Leyton Way,Manukau,Auckland
@@ -1440,6 +1449,7 @@ road_id,postcode,name,locality,city
 3033230,3210,Libeau Road,Chartwell,Hamilton
 1948492,2110,Liberation Road,Papakura,
 3079683,0931,Libertia Lane,Orewa,
+3085445,3210,Libertia Lane,Rototuna North,Hamilton
 1812258,3420,Liberton Place,Tokoroa,
 1839242,2018,Liberty Crescent,Beachlands,Auckland
 1838411,4414,Liberty Grove,Kelvin Grove,Palmerston North
@@ -1558,6 +1568,7 @@ road_id,postcode,name,locality,city
 1793439,5026,Lily Close,Camborne,Porirua
 3082294,0932,Lily Place,Silverdale,
 1838362,0204,Lily Pond Lane,Haruru,
+3085486,3178,Lily Pond Lane,Katikati,Katikati
 1811001,3225,Lily Street,Raglan,
 3079700,7011,Lilyvale Crescent,Stoke,Nelson
 3079562,3112,Lily Way,Pyes Pa,Tauranga
@@ -1747,6 +1758,7 @@ road_id,postcode,name,locality,city
 3083953,9391,Lines Drive,Clyde,
 3055279,,Lineside Road,"Flaxton,Kaiapoi,Rangiora","Kaiapoi,Rangiora"
 1799668,6021,Lingard Grove,Brooklyn,Wellington
+3085482,3300,Lingard Street,Morrinsville,Morrinsville
 1780673,8052,Lingard Street,St Albans,Christchurch
 1823685,1050,Lingarth Street,Remuera,Auckland
 1789301,7020,Lingfield Place,Richmond,
@@ -1792,6 +1804,7 @@ road_id,postcode,name,locality,city
 1799086,4720,Linnet Street,Taihape,
 1782264,7978,Linnfield Road,Hunter,Waimate
 1770982,9310,Linrosa Place,Cromwell,
+3085609,7630,Lin Street,Kaiapoi,Kaiapoi
 1823688,1072,Lintaine Place,Glen Innes,Auckland
 1823687,1072,Linthorpe Crescent,Glen Innes,Auckland
 1814406,3216,Linthorpe Place,Hillcrest,Hamilton
@@ -1850,6 +1863,7 @@ road_id,postcode,name,locality,city
 1823683,1071,Lisburn Avenue,Glendowie,Auckland
 1773402,9220,Lisburn Street,Milton,
 1778923,9884,Lisburn Street,Waikawa,Tokanui
+3085503,9010,Liscannor Lane,Helensburgh,Dunedin
 1837796,2019,Liscooly Place,Flat Bush,Auckland
 1836633,3377,Lisland Drive,Kinloch,Taupo
 2008588,2120,Lisle Farm Drive,Pukekohe,
@@ -2012,6 +2026,7 @@ road_id,postcode,name,locality,city
 1833010,0632,Living Stream Road,Albany Heights,Auckland
 1772625,9011,Lixmont Street,Bradford,Dunedin
 3082955,8051,Lizard Lane,Casebrook,Christchurch
+3085268,7810,Liz Cameron Lane,Hokitika,Hokitika
 1830320,2019,Lizzie Lane,Clover Park,Auckland
 1840655,3283,Llennoc Lane,Matangi,Hamilton
 3084308,8051,Llew Summers Street,Belfast,Christchurch
@@ -2047,6 +2062,7 @@ road_id,postcode,name,locality,city
 1816386,7020,Lobank Place,Richmond,
 3083498,9300,Lobb Lane,Queenstown Hill,Queenstown
 1816974,4310,Lobb Lane,Westown,New Plymouth
+3085696,9382,Lobelia Lane,Wanaka,Wanaka
 1829785,2105,Lobelia Rise,Goodwood Heights,Auckland
 1808926,3112,Lobelia Terrace,Hairini,Tauranga
 1785022,7472,Loburn Kowai Road,Loburn,
@@ -2168,6 +2184,7 @@ road_id,postcode,name,locality,city
 1776034,9712,Lodge Street,Mataura,
 1827385,2120,Lodge Street,Pukekohe,
 1819574,0475,Lodore Road,Okaihau,
+3085354,0475,Lodore Road East,Okaihau,Okaihau
 1842706,7614,Loeb Place,Rolleston,
 1939329,7410,Loe Place,Amberley,
 1780586,7571,Loes Road,Darfield,
@@ -2749,6 +2766,7 @@ road_id,postcode,name,locality,city
 1823100,0612,Luanda Drive,Ranui,Auckland
 1771165,9396,Lua Street,Naseby,
 1815875,3330,Luberon Way,Nukuhau,Taupo
+3085331,7615,Luberon Way,Rolleston,Rolleston
 1772615,9010,Lucan Street,North East Valley,Dunedin
 3078700,0632,Lucas Creek View Way,"Albany,Schnapper Rock",Auckland
 1787035,7481,Lucas Drive,Leithfield,
@@ -2778,6 +2796,7 @@ road_id,postcode,name,locality,city
 1815049,3792,Lucien Place,Whitikahu,Taupiri
 3083014,4376,Lucina Rise,Peacocke,Hamilton
 1822755,0602,Lucinda Place,Glen Eden,Auckland
+3085561,7614,Lucius Way,Rolleston,Rolleston
 1812831,3494,Luck At Last Road,Maungatautari,Cambridge
 1825159,1042,Luck Crescent,Hillsborough,Auckland
 1823103,0618,Luckens Road,West Harbour,Auckland

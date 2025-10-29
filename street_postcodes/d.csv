@@ -34,6 +34,7 @@ road_id,postcode,name,locality,city
 3038682,,Dairy Flat Highway,"Albany,Albany Heights,Dairy Flat,Lucas Heights,Silverdale","Auckland,Dairy Flat,Silverdale"
 1771338,9391,Dairy Gully Road,Waikerikeri,Alexandra
 1832912,2016,Dairyland Drive,East Tamaki Heights,Auckland
+3085604,3800,Dairy Lane,Te Awamutu,Te Awamutu
 1828485,2023,Dairy Road,Otara,Auckland
 1821242,0794,Dairy Stream Road,Dairy Flat,
 3083321,9871,Dairy Way,Seaward Bush,Invercargill
@@ -246,6 +247,7 @@ road_id,postcode,name,locality,city
 1810130,3073,Daniel Street,Kaingaroa Forest,Murupara
 1795682,5711,Daniel Street,Martinborough,
 1818318,4310,Daniels Way,Whalers Gate,New Plymouth
+3085502,9010,Daniel Terrace,Helensburgh,Dunedin
 3056030,0374,Danks Road,Hoanga,Dargaville
 1830070,2016,Dannemora Drive,Dannemora,Auckland
 1798951,3112,Danny Place,Pyes Pa,Tauranga
@@ -355,6 +357,7 @@ road_id,postcode,name,locality,city
 1793903,6012,Dasent Street,Karori,Wellington
 3077653,0981,Dashper Drive,Warkworth,
 1782156,7924,Dash Street,Waimate,
+3085329,7615,Dashwood Close,Rolleston,Rolleston
 1790949,7201,Dashwood Street,Blenheim,
 1838869,0632,Data Way,Albany,Auckland
 1834743,8025,Date Crescent,Aidanfield,Christchurch
@@ -383,6 +386,7 @@ road_id,postcode,name,locality,city
 1838720,0281,Daveys Road,Moerewa,
 1832211,2102,David Avenue,Hillpark,Auckland
 1821741,0626,David Beattie Place,Chatswood,Auckland
+3085463,7632,David Bell Street,Leeston,Leeston
 1859641,8025,David Buist Crescent,Halswell,Christchurch
 3078657,0616,David Carnegie Road,Hobsonville,Auckland
 3082869,2102,David Condon Williams Avenue,Manurewa,Auckland
@@ -726,6 +730,7 @@ road_id,postcode,name,locality,city
 3049149,1081,Delamore Drive,Oneroa,Waiheke Island
 1815373,3800,Delaney Court,Te Awamutu,
 1793142,5019,Delaney Drive,Stokes Valley,Lower Hutt
+3085527,9300,Delaney Loop,Frankton,Queenstown
 1784021,8042,De Lange Street,Wigram,Christchurch
 1812557,3378,Delany Drive,Tauhara,Taupo
 3081230,9371,De La Perrelle Lane,Arrowtown,
@@ -1262,6 +1267,7 @@ road_id,postcode,name,locality,city
 1780911,7776,Dip Road,"Ashburton Forks,Lauriston,Methven","Ashburton,Lauriston,Methven"
 3050757,7986,Dip Road,"Coldstream,Rangitata Island","Ashburton,Temuka"
 1780431,7671,Dip Road,Greendale,Darfield
+3085311,9371,Dip Road,Jacks Point,Queenstown
 1820640,0479,Dip Road,Kaeo,
 3050758,7683,Dip Road,"Leeston,Southbridge",
 1830534,,Dip Road,"Ngararatunua,Te Kamo",Whangarei
@@ -1405,6 +1411,7 @@ road_id,postcode,name,locality,city
 1782164,7979,Dog Kennel Road,"Ikawai,Morven",Waimate
 1791633,7272,Dog Point Road,"Fairhall,Hawkesbury","Fairhall,Renwick"
 3063645,7495,Dog Trial Road,"Burnt Hill,Eyrewell","Oxford,West Eyreton"
+3085377,7676,Dogwood Place,Prebbleton,Prebbleton
 1836847,4414,Dogwood Way,Milson,Palmerston North
 1775315,9587,Doherty Road,Park Hill,Tapanui
 1785163,7430,Dohrmans Road,Oxford,
@@ -1585,6 +1592,7 @@ road_id,postcode,name,locality,city
 1786885,8042,Doncaster Street,Sockburn,Christchurch
 1786480,7910,Doncaster Street,Washdyke,Timaru
 1791801,5024,Doncaster Terrace,Ascot Park,Porirua
+3085301,7730,Don Church Lane,Methven,Methven
 1824921,,Don Croot Street,Morningside,Auckland
 1805348,4112,Donegal Crescent,Tamatea,Napier
 1792800,5018,Donegal Grove,Birchville,Upper Hutt
@@ -1681,6 +1689,7 @@ road_id,postcode,name,locality,city
 1785754,8971,Doris Faigan Lane,Charteris Bay,Governors Bay
 1800453,6035,Doris Gordon Crescent,Crofton Downs,Wellington
 3084544,0230,Doris Lane,Kerikeri,
+3085626,8051,Doris Lusk Street,Belfast,Christchurch
 1819425,0505,Doris Street,Mangawhai Heads,Mangawhai
 1788796,7020,Doris Street,Richmond,
 1778240,9600,Dorizac Place,Te Anau,
@@ -2098,6 +2107,7 @@ road_id,postcode,name,locality,city
 3007797,5781,Dry River Road,"Dyerville,Ruakokoputuna","Dyerville,Martinborough"
 1788504,7073,Dry Road,"Kahurangi National Park,Mangarakau,Pakawau,Rakopi","Collingwood,Kahurangi National Park"
 1842826,7020,Drysdale Close,Richmond,
+3085467,4472,Drysdale Drive,Turitea,Palmerston North
 1828526,2014,Drysdale Place,Somerville,Auckland
 1777278,9893,Drysdale Road,"Ashers,Seaward Downs","Invercargill,Wyndham"
 3081454,9371,Drysdale Road,Jacks Point,Queenstown
@@ -2378,6 +2388,7 @@ road_id,postcode,name,locality,city
 1838230,0116,Dune Lake Place,Ruakaka,
 3081459,0473,Dune Rise,Opononi,
 1839358,0505,Dune View Drive,Mangawhai,
+3085506,9013,Dunford Lane,Andersons Bay,Dunedin
 1826572,0176,Dunford Road,Ruatangata West,Whangarei
 1786366,7710,Dunford Street,Rakaia,
 1771121,9332,Dungannon Street,Ranfurly,
