@@ -8,22 +8,17 @@ set -eof
 # NZGD2000 https://epsg.io/4167
 # NZGD2000/NZTM https://epsg.io/2193
 
-# Data sources:
-# https://data.linz.govt.nz/layer/105689-nz-addresses/
-# https://data.linz.govt.nz/layer/53382-nz-roads-addressing/
-# https://data.linz.govt.nz/layer/113764-nz-suburbs-and-localities/
-# https://datafinder.stats.govt.nz/layer/115225-meshblock-2024/
+# Data sources: refer scripts/koordinates/setup_downloads.py
 # These must be downloaded and extracted into the data folder
 
 # ensure clean data folder structure
 mkdir -p data/tmp
 rm -f data/tmp/*.sql
 
-path_addresses_1=data/nz-addresses/nz-addresses.shp
-path_addresses_2=data/nz-addresses/nz-addresses.2.shp
-path_roads=data/nz-roads-addressing/nz-roads-addressing.shp
+path_addresses_1=data/nz-addresses-pilot/nz-addresses-pilot.shp
+path_roads=data/nz-addresses-roads-pilot/nz-addresses-roads-pilot.shp
 path_suburbs=data/nz-suburbs-and-localities/nz-suburbs-and-localities.shp
-path_meshblocks=data/meshblock-2024.shp
+path_meshblocks=data/meshblock-2025.shp
 
 # check that data assets are in place
 for x in ${!path_@}; do
@@ -36,15 +31,11 @@ dropdb --if-exists open_nz_postcodes
 createdb open_nz_postcodes
 psql -d open_nz_postcodes -c "CREATE EXTENSION postgis;"
 
-echo "-- Transforming shapefile: nz-addresses part 1/2"
-shp2pgsql -d -s 4167:4326 "${path_addresses_1}" nz_addresses > data/tmp/nz_addresses.1.sql
-echo "-- Importing nz-addresses part 1/2"
-psql -d open_nz_postcodes -q -f data/tmp/nz_addresses.1.sql
+echo "-- Transforming shapefile: nz-addresses-pilot"
+shp2pgsql -d -s 4167:4326 "${path_addresses_1}" nz_addresses > data/tmp/nz_addresses.sql
+echo "-- Importing nz-addresses"
+psql -d open_nz_postcodes -q -f data/tmp/nz_addresses.sql
 
-echo "-- Transforming shapefile: nz_address_points part 2/2"
-shp2pgsql -a -s 4167:4326 "${path_addresses_2}" nz_addresses > data/tmp/nz_addresses.2.sql
-echo "-- Importing nz-addresses part 2/2"
-psql -d open_nz_postcodes -q -f data/tmp/nz_addresses.2.sql
 echo "--  wrangle Chatham Islands"
 psql -d open_nz_postcodes -c "UPDATE nz_addresses SET geom = ST_WrapX(geom, 180, -360) WHERE ST_x(ST_Centroid(geom)) >180;"
 psql -d open_nz_postcodes -c "CREATE INDEX nz_addresses_geom_idx ON nz_addresses USING gist (geom);"
@@ -77,3 +68,6 @@ psql -d open_nz_postcodes -c "ALTER TABLE nz_addresses ADD COLUMN road_id intege
 psql -d open_nz_postcodes -c "ALTER TABLE nz_roads ADD COLUMN postcode text;"
 psql -d open_nz_postcodes -c "ALTER TABLE nz_addresses ADD COLUMN postcode text;"
 psql -d open_nz_postcodes -c "ALTER TABLE nz_meshblocks ADD COLUMN postcode text;"
+
+# Remove unnamed access lanes
+psql -d open_nz_postcodes -c "DELETE FROM nz_roads WHERE full_road_ IN ('Roadway', 'Accessway', 'Service Lane');"

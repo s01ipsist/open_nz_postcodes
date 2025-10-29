@@ -12,27 +12,27 @@ STATSNZ_API_TOKEN = os.environ['STATSNZ_DATA_API_TOKEN']
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Define configurations for different data sources
-# https://data.linz.govt.nz/layer/105689-nz-addresses/
-# https://data.linz.govt.nz/layer/53382-nz-roads-addressing/
+# https://data.linz.govt.nz/layer/123113-nz-addresses-pilot/
+# https://data.linz.govt.nz/layer/123110-nz-addresses-roads-pilot/
 # https://data.linz.govt.nz/layer/113764-nz-suburbs-and-localities/
-# https://datafinder.stats.govt.nz/layer/115225-meshblock-2024/
+# https://datafinder.stats.govt.nz/layer/120980-meshblock-2025/
 
 DATA_SOURCES = {
     'linz': {
-        'name': 'linz-koord',
+        'name': 'linz-koord-2026',
         'host': 'data.linz.govt.nz',
         'token': LINZ_API_TOKEN,
         'crs': 'EPSG:4167',
         'format': 'application/x-zipped-shp',
-        'layers': [105689, 53382, 113764]
+        'layers': [123113, 123110, 113764]
     },
     'statsnz': {
-        'name': 'statsnz-koord',
+        'name': 'statsnz-koord-2026',
         'host': 'datafinder.stats.govt.nz',
         'token': STATSNZ_API_TOKEN,
         'crs': 'EPSG:2193',
         'format': 'application/x-zipped-shp',
-        'layers': [115225]
+        'layers': [120980]
     }
 }
 
