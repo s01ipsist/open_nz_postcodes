@@ -2217,7 +2217,7 @@ road_id,postcode,name,locality,city
 1774947,9010,Tensing Street,Liberton,Dunedin
 1825076,1024,Tenterden Avenue,Mount Eden,Auckland
 1786122,7385,Tenterden Street,Hawarden,
-3080441,7271,Tenth Avenue,Lake Hayes,Queenstown
+3080441,9304,Tenth Avenue,Lake Hayes,Queenstown
 1814669,3110,Tenth Avenue,Tauranga,
 1791660,7201,Tenth Lane,Blenheim,
 1821066,0931,Tenzing Lane,Orewa,
@@ -3084,7 +3084,7 @@ road_id,postcode,name,locality,city
 1826286,0110,Third Avenue,Avenues,Whangarei
 1819067,0310,Third Avenue,Dargaville,
 1825003,1021,Third Avenue,"Kingsland,Morningside",Auckland
-3080433,9371,Third Avenue,Lake Hayes,Queenstown
+3080433,9304,Third Avenue,Lake Hayes,Queenstown
 3058311,1081,Third Avenue,"Onetangi,Waiheke Island",Waiheke Island
 1829253,2585,Third Avenue,Orere Point,
 3083693,3015,Third Avenue,Pukehangi,Rotorua
@@ -4136,7 +4136,7 @@ road_id,postcode,name,locality,city
 1775611,9272,Tongue Road,Hillend,Balclutha
 1789866,7096,Tongue Spur Road,Golden Downs,Wakefield
 1789824,7096,Tonia Road,Golden Downs,Wakefield
-1838035,9371,Toni's Terrace,Lower Shotover,Queenstown
+1838035,9304,Toni's Terrace,Lower Shotover,Queenstown
 1822229,0620,Tonkin Drive,Sunnynook,Auckland
 1831958,2677,Tonkin Place,Buckland,Pukekohe
 1834914,6011,Tonks Grove,Te Aro,Wellington
@@ -5031,7 +5031,7 @@ road_id,postcode,name,locality,city
 1807731,3210,Tudor Crescent,Chedworth,Hamilton
 1791764,4702,Tudor Grove,Feilding,
 1813929,3510,Tudor Grove,Whitianga,
-1856714,9371,Tudor Lane,Lower Shotover,Queenstown
+1856714,9304,Tudor Lane,Lower Shotover,Queenstown
 1772774,9024,Tudor Lane,Mosgiel,
 3060351,2571,Tudor Park Drive,Whitford,
 1814949,3010,Tudor Place,Koutu,Rotorua

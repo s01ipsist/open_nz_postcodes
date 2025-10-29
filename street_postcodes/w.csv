@@ -1507,7 +1507,7 @@ road_id,postcode,name,locality,city
 1783388,8023,Walton Street,Sydenham,Christchurch
 1812937,3800,Walton Street,Te Awamutu,
 1803299,4120,Walton Way,Flaxmere,Hastings
-3077513,9371,Walton Way,Lower Shotover,Queenstown
+3077513,9304,Walton Way,Lower Shotover,Queenstown
 1839011,0173,Walu Lane,Matapouri,Whangarei
 1829309,2010,Walworth Avenue,Pakuranga Heights,Auckland
 1777599,9630,Wamphray Street,Nightcaps,
@@ -2286,7 +2286,7 @@ road_id,postcode,name,locality,city
 1822200,0629,Weldene Avenue,Glenfield,Auckland
 3083284,7410,Weld Lane,Amberley,
 1790690,7810,Weld Lane,Hokitika,
-1983877,9371,Weldon Lane,Lower Shotover,Queenstown
+1983877,9304,Weldon Lane,Lower Shotover,Queenstown
 1791587,7285,Weld Road,Lake Grassmere,Seddon
 1818205,4374,Weld Road Lower,Tataraimaka,New Plymouth
 1817831,4374,Weld Road Upper,Tataraimaka,New Plymouth
@@ -4749,7 +4749,7 @@ road_id,postcode,name,locality,city
 3036606,9872,Woodstock Road,"Dacre,Mabel Bush",Invercargill
 1807794,3214,Woodstock Road,Fairfield,Hamilton
 1822220,0620,Woodstock Road,Forrest Hill,Auckland
-1842332,9371,Woodstock Road,Lower Shotover,Queenstown
+1842332,9304,Woodstock Road,Lower Shotover,Queenstown
 3036609,7196,Woodstock Road,"Motueka Valley,Woodstock",Motueka
 1812978,3879,Woodstock Road,Te Awamutu,
 1793587,5028,Woodstock Terrace,Tawa,Wellington

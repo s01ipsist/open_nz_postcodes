@@ -1250,7 +1250,7 @@ road_id,postcode,name,locality,city
 1787276,8081,Redcliffs View Lane,Redcliffs,Christchurch
 1816911,4310,Redcoat Lane,New Plymouth,
 1832152,2014,Redcoat Place,Cockle Bay,Auckland
-2012845,9371,Red Cottage Drive,Lake Hayes,Queenstown
+2012845,9304,Red Cottage Drive,Lake Hayes,Queenstown
 3029279,2110,Redcrest Avenue,"Papakura,Red Hill",Papakura
 1780719,7700,Reddecliffe Crescent,Hampstead,Ashburton
 1842644,9600,Red Deer Place,Te Anau,
@@ -1452,7 +1452,7 @@ road_id,postcode,name,locality,city
 1782060,7925,Regent Street,Fairlie,
 1817553,4610,Regent Street,Hawera,
 3015780,9812,Regent Street,"Heidelberg,Newfield",Invercargill
-1948390,9371,Regent Street,Lower Shotover,Queenstown
+1948390,9304,Regent Street,Lower Shotover,Queenstown
 1800667,5711,Regent Street,Martinborough,
 1794360,6021,Regent Street,Newtown,Wellington
 1810922,3720,Regent Street,Ngaruawahia,
@@ -2441,7 +2441,7 @@ road_id,postcode,name,locality,city
 1821489,0932,Rishworth Avenue,Stanmore Bay,Whangaparaoa
 1826201,0112,Rishworth Place,Tikipunga,Whangarei
 1793315,5010,Rishworth Street,Waiwhetu,Lower Hutt
-1842964,9371,Risinghurst Terrace,Lower Shotover,Queenstown
+1842964,9304,Risinghurst Terrace,Lower Shotover,Queenstown
 1832827,0632,Rising Parade,"Fairview Heights,Oteha",Auckland
 1824554,1050,Risk Road,Remuera,Auckland
 1838573,0612,Rissington Avenue,Henderson,Auckland
