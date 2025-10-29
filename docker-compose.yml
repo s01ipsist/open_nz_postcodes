@@ -7,7 +7,7 @@ services:
     # https://hub.docker.com/r/postgis/postgis
     # arm64 image required for MacOS development
     # image: postgis/postgis # not arm64 friendly https://github.com/postgis/docker-postgis/issues/216
-    image: imresamu/postgis # arm64 # https://hub.docker.com/r/imresamu/postgis/tags
+    image: imresamu/postgis:18-3.6 # arm64 # https://hub.docker.com/r/imresamu/postgis/tags
     restart: always
     shm_size: 1gb
     environment:
@@ -16,7 +16,7 @@ services:
     ports:
         - 5432:5432
     volumes:
-      - postgres-data:/var/lib/postgresql/data:cached
+      - postgres-data:/var/lib/postgresql/18/docker:cached
       - .:/app:delegated
 
   app:
