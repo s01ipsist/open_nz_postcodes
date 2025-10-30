@@ -28,6 +28,9 @@ services:
       PGHOST: postgres
       PGUSER: postgres
       PGPASSWORD: example
+    env_file:
+      - path: ./koordinates.env
+        required: false
 
     volumes:
       # Mounts the app code (".") into the container's "/app" folder:

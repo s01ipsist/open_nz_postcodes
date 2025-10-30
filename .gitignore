@@ -5,3 +5,5 @@ snapshots/*.pgw
 snapshots/qgis_screenshots.sh
 release
 *.zip
+koordinates.env
+scripts/koordinates/onzp/

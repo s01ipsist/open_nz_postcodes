@@ -65,18 +65,38 @@ Where a road is identified as crossing postcode boundaries, the postcode is set 
 - Assign a postcode to each meshblock polygon, based on most popular postcode of all address points in the meshblock
 - Take the union of all meshblocks for each postcode to form a digital boundary
 
-## Prerequisites
+## Tools
 
-1. Download open datasets from URLs identified in import-geodata.sh and unzip into data folder
-2. Install Docker
-3. For snapshots: [QGIS](https://www.qgis.org/), timeout (found on MacOS in `brew install coreutils`)
+1. Docker
+
+Optional for snapshot generation:
+
+2. [QGIS](https://www.qgis.org/) (found on MacOS in `brew install qgis`)
+3. `timeout` (found on MacOS in `brew install coreutils`)
+
+## Koordinates
+
+[Koordinates](https://koordinates.com/) provides the data service used by LINZ and Stats NZ.
+
+Koordinates API keys must be setup to enabled automated exports.
+
+https://koordinates.com/my/api/
+https://data.linz.govt.nz/my/api/
+https://datafinder.stats.govt.nz/my/api/
+
+Set API keys into a file `koordinates.env` in the root folder. Env vars will be set by Docker Compose.
+
+```
+LINZ_DATA_API_TOKEN=your_key
+STATSNZ_DATA_API_TOKEN=your_key
+```
 
 ## Build
 
-Generate zipped shapefile boundary in release folder
+Generate zipped shapefile boundary in release folder. This script includes a pause where we must wait for the Koordinates exports to complete.
 
 ```
-docker compose run --rm app scripts/run.sh
+docker compose run --rm app scripts/run_local.sh
 ```
 
 Generate png snapshots per postcode boundary using QGIS.
@@ -94,7 +114,9 @@ The included QGIS project open_nz_post.qgz presents the road network on top of t
 color_rgb(rand(50, 255, to_int(  attribute( 'postcode') )), rand(100, 255, to_int(  attribute( 'postcode') )), rand(200, 255, to_int(   attribute( 'postcode') )))
 ```
 
-Export new roads to street_postcodes data set
+## Maintain
+
+New roads are added to LINZ data regularly. Add these into the street_postcodes data set
 ```
 docker compose run --rm app /bin/bash
 psql -d open_nz_postcodes -f scripts/add-new-roads.sql
