@@ -2873,6 +2873,7 @@ road_id,postcode,name,locality,city
 3082103,0814,Whakanoho Road,Westgate,Auckland
 3081728,2019,Whakaora Lane,Flat Bush,Auckland
 3082577,2120,Whakaora Place,Pukekohe,
+3085701,3371,Whakapai Lane,Morrinsville,Morrinsville
 1796477,3992,Whakapaki Street,Manunui,Taumarunui
 1816392,4375,Whakapaki Street,Urenui,
 1800819,3989,Whakapapa Intake Road,Tongariro Forest Park,
@@ -3175,6 +3176,7 @@ road_id,postcode,name,locality,city
 3019918,3206,Whatukooruru Drive,Peacocke,Hamilton
 3078605,0616,Whatu Lane,Hobsonville,Auckland
 3081757,3010,Whatumairangi Way,Owhata,Rotorua
+3085722,4281,Whatumanawa Drive,Waipukurau,Waipukurau
 1820369,0483,Whatuwhiwhi Road,Karikari Peninsula,
 3082402,2578,Whau Court,Karaka,Papakura
 1948862,1026,Whau Crescent,Avondale,Auckland
@@ -3714,6 +3716,7 @@ road_id,postcode,name,locality,city
 1828312,2102,William Avenue,Manurewa,Auckland
 1796194,5032,William Avenue,Raumati South,Paraparaumu
 1820947,0932,William Bayes Place,Red Beach,
+3085728,7400,William Bell Street,Rangiora,Rangiora
 1795484,5710,William Benton Street,Featherston,
 3078190,0820,William Blake Way,Riverhead,
 1825342,1041,William Blofield Avenue,Wesley,Auckland
@@ -4325,6 +4328,7 @@ road_id,postcode,name,locality,city
 3057410,3110,Winemakers Drive,Bethlehem,Tauranga
 1785854,7582,Winery Road,French Farm,
 1833288,0612,Winery Way,Henderson,Auckland
+3085749,7173,Winesap Way,Mapua,Mapua
 1842767,8042,Winfield Drive,Wigram,Christchurch
 3078115,0810,Winfield Road,Kumeu,
 1787992,7895,Winford Street,Cronadun,Reefton

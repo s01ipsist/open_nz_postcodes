@@ -71,10 +71,12 @@ road_id,postcode,name,locality,city
 1817270,4682,MacAulay Terrace,Opunake,
 3081219,9371,Macauley Lane,Arrowtown,
 1804608,4293,MacAuley Lane,Porangahau,
+3085753,3178,MacAulich Drive,Tahawai,Tahawai
 3080776,0620,Macbeth Court,Milford,Auckland
 1775037,9012,Macbeth Street,Caversham,Dunedin
 3081528,4332,Macbeth Street,Stratford,
 1816054,3210,MacCallum Court,Rototuna,Hamilton
+3085716,4130,MacCallum Terrace,Havelock North,Havelock North
 1816251,3980,MacClure Road,Ohura,
 1842585,5010,MacDiarmid Place,Waiwhetu,Lower Hutt
 1807396,3200,MacDiarmid Road,Beerescourt,Hamilton
@@ -363,6 +365,7 @@ road_id,postcode,name,locality,city
 1827577,2123,Magnolia Drive,Waiuku,
 1816969,4310,Magnolia Drive,Westown,New Plymouth
 1793098,5010,Magnolia Grove,Maungaraki,Lower Hutt
+3085724,3178,Magnolia Lane,Katikati,Katikati
 1973520,0875,Magnolia Lane,Kaukapakapa,
 3080744,4376,Magnolia Lane,"Kelvin Grove,Whakarongo",Palmerston North
 3083755,9024,Magnolia Lane,Mosgiel,
@@ -4722,6 +4725,7 @@ road_id,postcode,name,locality,city
 1786991,8051,Mendip Place,Casebrook,Christchurch
 1779714,7384,Mendip Road,Ferniehurst,Cheviot
 1779527,7332,Mendip Street,Waiau,
+3085754,3178,Mendlesham Way,Tahawai,Tahawai
 1808428,3186,Mends Lane,Paengaroa,
 1822433,0627,Menear Lane,Hillcrest,Auckland
 1832522,2105,Menen Place,Manurewa,Auckland
@@ -5150,6 +5154,7 @@ road_id,postcode,name,locality,city
 1772488,9012,Milburn Street,Corstorphine,Dunedin
 1831289,0610,Mildmay Road,Henderson,Auckland
 1820876,0782,Mildon Road,Waitakere,Auckland
+3085708,8083,Mildred Place,North New Brighton,Christchurch
 1810436,3015,Mildred Place,Springfield,Rotorua
 1802115,4010,Mildura Place,Kaiti,Gisborne
 1808200,2696,Mile Bush Road,Pukekawa,
@@ -7134,6 +7139,7 @@ road_id,postcode,name,locality,city
 3022372,8972,Mt Herbert Peak Road,"Diamond Harbour,Purau",Diamond Harbour
 1805374,,Mt Herbert Road,Waipukurau,
 3053783,5791,Mt Holdsworth Road,"Mount Holdsworth,Tararua Forest Park","Carterton,Tararua Forest Park"
+3085747,7173,Mt Hope Drive,Mapua,Mapua
 1838904,9571,Mt Hope Road,"Coal Creek Flat,Lake Roxburgh Village",Roxburgh
 1781474,7972,Mt Horrible Road,Taiko,Cave
 1778941,7782,Mt Hutt Skifield Road,Mount Hutt,Methven

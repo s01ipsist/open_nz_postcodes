@@ -2003,6 +2003,7 @@ road_id,postcode,name,locality,city
 1811017,3297,Te Kopua Road,Raglan,
 1812499,3330,Te Kopua Street,Acacia Bay,Taupo
 3064876,8083,Te Korari Street,"Bottle Lake,Marshland",Christchurch
+3085746,8024,Te Koroī Lane,Somerfield,Christchurch
 3081478,0600,Te Kotuitanga Lane,Blockhouse Bay,Auckland
 3021763,5773,Te Kouka Lane,Western Lake,Featherston
 1806550,3581,Te Kouma Road,"Manaia,Te Kouma",Coromandel
@@ -2095,6 +2096,7 @@ road_id,postcode,name,locality,city
 1795780,5512,Te Manuao Road,Otaki,
 1805668,4271,Te Manuiri Road,Omakere,
 1810664,3072,Te Manu Road,Ngongotaha Valley,Rotorua
+3085745,8024,Te Māpara Lane,Somerfield,Christchurch
 1842091,5890,Te Mapi Road,Ngaumu,Wainuioru
 3080606,3495,Te Mara Drive,Leamington,Cambridge
 1824881,1051,Te Marama Road,Ellerslie,Auckland
@@ -2687,6 +2689,7 @@ road_id,postcode,name,locality,city
 3079801,9300,Tewa Street,Frankton,Queenstown
 1809057,3112,Te Wati Street,Maungatapu,Tauranga
 1802645,4079,Te Wehi Road,Tokomaru Bay,
+3085698,4294,Te Weka Road,Tuki Tuki,Havelock North
 1787392,7910,Te Weka Street,Maori Hill,Timaru
 1795254,5886,Te Weraiti Road,Te Ore Ore,Masterton
 3085468,1072,Te Wera Nopera Way,Glen Innes,Auckland

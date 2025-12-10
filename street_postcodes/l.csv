@@ -90,6 +90,7 @@ road_id,postcode,name,locality,city
 1787684,8052,Laguna Gardens,Shirley,Christchurch
 1813581,3118,Laguna Key,Papamoa Beach,Papamoa
 3017979,0930,Laguna Place,Matakatia,Whangaparaoa
+3085715,4172,Laheen Lane,Havelock North,Havelock North
 1803080,4108,Lahore Street,Wairoa,
 1832765,2019,Laidlaw Way,East Tamaki,Auckland
 1794578,6012,Laidlaw Way,Karori,Wellington
@@ -1617,6 +1618,7 @@ road_id,postcode,name,locality,city
 3009121,9812,Lime Street,"Heidelberg,Newfield",Invercargill
 1770498,9492,Lime Street,Reidston,Oamaru
 1785813,8051,Lime Tree Lane,Harewood,Christchurch
+3085725,3178,Lime Tuff Lane,Katikati,Katikati
 3027811,3285,Limeworks Loop Road,"Karamu,Te Pahu",
 3034435,9782,Limeworks Road,"Browns,Thomsons Crossing",Winton
 3034436,9291,Limeworks Road,"Circle Hill,Milburn",Milton
@@ -1722,6 +1724,7 @@ road_id,postcode,name,locality,city
 1839604,9683,Lindsay Calcium Road,Isla Bank,Otautau
 1807377,3200,Lindsay Crescent,Nawton,Hamilton
 1838247,7604,Lindsay Drive,Prebbleton,
+3085700,3112,Lindsay Lane,Tauranga South,Tauranga
 1825303,1042,Lindsay Place,Hillsborough,Auckland
 1778213,9679,Lindsay Place,Manapouri,
 1774850,9305,Lindsay Place,Wanaka,
@@ -2254,6 +2257,7 @@ road_id,postcode,name,locality,city
 1787469,8042,Lomax Place,Islington,Christchurch
 3078166,3119,Lomay Place,Te Puke,
 1836227,2113,Lombardia Way,Karaka,Papakura
+3085705,7615,Lombardi Lane,Rolleston,Rolleston
 1784780,8042,Lombard Place,Avonhead,Christchurch
 1790279,7805,Lombard Street,Greymouth,
 1817939,4394,Lombard Street,Midhirst,Stratford

@@ -957,6 +957,7 @@ road_id,postcode,name,locality,city
 1800105,5019,Harold Grove,Stokes Valley,Lower Hutt
 3009012,,Harold Holt Avenue,"Onekawa,Pirimai",Napier
 3039535,3204,Harold Lane,Dinsdale,Hamilton
+3085760,7020,Harold Nelson Way,Stoke,Nelson
 1836722,7011,Harold Place,Stoke,Nelson
 1795809,4472,Harold Street,Linton,Palmerston North
 1825142,1024,Harold Street,Mount Eden,Auckland
@@ -1431,6 +1432,7 @@ road_id,postcode,name,locality,city
 3080059,0573,Haumako Lane,Mangawhai Heads,Mangawhai
 3078895,1062,Haumako Place,Otahuhu,Auckland
 1819998,0481,Haumanga Road,Broadwood,Kohukohu
+3085721,0294,Haumaru Lane,Waipapa,Waipapa
 1814726,3079,Haumea Road,Galatea,Murupara
 3067745,3375,Haumia Road,"Mangateparu,Morrinsville",Morrinsville
 1793653,6037,Haumia Street,Johnsonville,Wellington
@@ -1540,6 +1542,7 @@ road_id,postcode,name,locality,city
 1839343,7882,Havill Drive,Awatuna,Hokitika
 1799328,4410,Havill Street,"Palmerston North,Takaro",Palmerston North
 1830161,0932,Hawaiian Parade,Arkles Bay,Whangaparaoa
+3085758,7071,Hawaiki Lane,Hira,Hira
 1823998,1071,Hawaiki Street,Orakei,Auckland
 1812486,3330,Hawai Street,"Richmond Heights,Two Mile Bay",Taupo
 3034854,7385,Hawarden Hurunui Road,"Hawarden,Waikari",
@@ -4311,6 +4314,7 @@ road_id,postcode,name,locality,city
 1806197,3506,Huaroa Street,"Coromandel,Hauraki Gulf / Tikapa Moana",Coromandel
 1816747,4312,Hua Street,Bell Block,New Plymouth
 1796590,4696,Hua Street,Horopito,Raetihi
+3085720,0204,Huatakaroa Quay,Haruru,Haruru
 3080573,2578,Huataki Parade,Karaka,Papakura
 3082204,0627,Huataki Road,Northcote,Auckland
 1799467,4412,Huata Place,West End,Palmerston North
@@ -4579,6 +4583,7 @@ road_id,postcode,name,locality,city
 1802520,4193,Humphries Street,Frasertown,Wairoa
 1793461,,Humphries Street,"Greytown,Woodside",Greytown
 1816501,4330,Humphries Street,Inglewood,
+3085719,4130,Humphries Way,Havelock North,Havelock North
 1800730,3381,Humu Street,Tokaanu,Turangi
 1809450,3191,Huna Road,Coastlands,Whakatane
 3079554,0614,Hundalee Lane,Massey,Auckland

@@ -1929,11 +1929,13 @@ road_id,postcode,name,locality,city
 3083342,2579,Shepherds Bush Road,"Drury,Ramarama",Drury
 1780996,7775,Shepherds Bush Road,Ruapuna,Ashburton
 3082654,9304,Shepherds Creek Lane,Lake Hayes,Queenstown
+3085739,9304,Shepherds Creek Lane,Lake Hayes,Queenstown
 3070341,9386,Shepherds Flat Road,Cambrians,Omakau
 3079603,9371,Shepherds Hut Way,Mount Creighton,Queenstown
 1832612,2019,Shepherds Lane,Flat Bush,Auckland
 1780998,7774,Shepherds Road,Ashton,Ashburton
 1827877,2110,Shepherds Road,Papakura,
+3085713,4130,Shepherd Street,Havelock North,Havelock North
 1806514,3579,Sheppard Avenue,Pauanui,
 1825295,1025,Sheppard Avenue,Wesley,Auckland
 1819353,0594,Sheppard Oaks Road,Matakohe,
@@ -3156,6 +3158,7 @@ road_id,postcode,name,locality,city
 1816059,3876,South Butler Road,Pirongia,
 1779815,7481,South Crescent,Amberley,
 1771935,9077,Southdale Road,Ocean Grove,Dunedin
+3085718,4130,Southdown Crescent,Havelock North,Havelock North
 1785469,5781,Southdown Drive,Martinborough,
 1825567,1061,Southdown Lane,Penrose,Auckland
 3083381,7571,Southdown Place,Kirwee,
@@ -3214,6 +3217,7 @@ road_id,postcode,name,locality,city
 3065019,0410,South Road,Kaitaia,
 1814148,,South Road,"Kinleith,Mamaku","Mamaku,Tokoroa"
 3065013,,South Road,"Kuripuni,Solway",Masterton
+3085711,5510,South Road,Levin,Levin
 3065015,5510,South Road,Levin,
 1814282,3576,South Road,Mangatarata,Ngatea
 1795234,5882,South Road,Mauriceville,
@@ -4751,6 +4755,7 @@ road_id,postcode,name,locality,city
 1835333,1072,Stonefields Avenue,"Saint Johns,Stonefields",Auckland
 1839357,3330,Stonefly Place,Nukuhau,Taupo
 1833039,0614,Stonegate Close,Westgate,Auckland
+3085735,7604,Stonegreen Close,Prebbleton,Prebbleton
 1797215,4412,Stonehaven Crescent,West End,Palmerston North
 1829640,0178,Stonehaven Drive,Maungakaramea,
 1805509,4120,Stonehaven Street,Flaxmere,Hastings
@@ -5128,6 +5133,7 @@ road_id,postcode,name,locality,city
 1782476,8024,Studholme Street,Somerfield,Christchurch
 1781657,7920,Studholme Street,Temuka,
 1783529,7924,Studholme Street,Waimate,
+3085706,7614,Studio Lane,Rolleston,Rolleston
 3078230,8042,Stud Road,Yaldhurst,Christchurch
 1840570,1060,Stud Way,Mount Wellington,Auckland
 1791495,7273,Stump Creek Road,Rapaura,Blenheim
@@ -5254,6 +5260,7 @@ road_id,postcode,name,locality,city
 1830135,0632,Summerfield Lane,Albany,Auckland
 1813439,3283,Summerfield Lane,Tamahere,Hamilton
 3058529,9371,Summerfield Place,Drift Bay,Queenstown
+3085702,3393,Summerfield Place,Waihou,Te Aroha
 1984758,0112,Summerfield Way,Parahaki,Whangarei
 1813917,3112,Summerhaven Place,Ohauiti,Tauranga
 1797263,4410,Summerhays Street,Terrace End,Palmerston North
@@ -5356,6 +5363,7 @@ road_id,postcode,name,locality,city
 3079376,3432,Sunline Drive,"Cambridge,Leamington",Cambridge
 1810630,3010,Sunline Place,Ngongotaha,Rotorua
 2017961,0483,Sunlover Way,Karikari Peninsula,
+3085703,3393,Sunmount Lane,Waihou,Te Aroha
 1810631,3096,Sunnex Road,Hamurana,
 1801959,7011,Sunningdale Drive,Stoke,Nelson
 1791777,6037,Sunningdale Lane,Woodridge,Wellington
