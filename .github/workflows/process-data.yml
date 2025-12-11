@@ -98,7 +98,7 @@ jobs:
         run: echo "artifact=open_nz_postcode_boundaries_shp_`date +%Y-%m-%d`" >> $GITHUB_OUTPUT
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: ${{ steps.generate-name.outputs.artifact }}
           path: release/open_nz_postcode_boundaries_shp.zip
