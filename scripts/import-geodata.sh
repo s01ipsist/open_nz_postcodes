@@ -38,7 +38,7 @@ psql -d open_nz_postcodes -q -f data/tmp/nz_addresses.sql
 
 echo "--  wrangle Chatham Islands"
 psql -d open_nz_postcodes -c "UPDATE nz_addresses SET geom = ST_WrapX(geom, 180, -360) WHERE ST_x(ST_Centroid(geom)) >180;"
-psql -d open_nz_postcodes -c "CREATE INDEX nz_addresses_geom_idx ON nz_addresses USING gist (geom);"
+psql -d open_nz_postcodes -c "CREATE INDEX IF NOT EXISTS nz_addresses_geom_idx ON nz_addresses USING gist (geom);"
 
 
 echo "-- Transforming shapefile: nz_roads"
@@ -46,22 +46,22 @@ shp2pgsql -d -s 4167:4326 "${path_roads}" nz_roads > data/tmp/nz_roads.sql
 echo "-- Importing nz_roads"
 psql -d open_nz_postcodes -q -f data/tmp/nz_roads.sql
 psql -d open_nz_postcodes -c "UPDATE nz_roads SET geom = ST_WrapX(geom, 180, -360) WHERE ST_x(ST_Centroid(geom)) >180;"
-psql -d open_nz_postcodes -c "CREATE INDEX nz_roads_geom_idx ON nz_roads USING gist (geom);"
-psql -d open_nz_postcodes -c "CREATE INDEX nz_roads_full_road_idx ON nz_roads USING btree (full_road_);"
+psql -d open_nz_postcodes -c "CREATE INDEX IF NOT EXISTS nz_roads_geom_idx ON nz_roads USING gist (geom);"
+psql -d open_nz_postcodes -c "CREATE INDEX IF NOT EXISTS nz_roads_full_road_idx ON nz_roads USING btree (full_road_);"
 
 
 echo "-- Transforming shapefile: nz_localities"
 shp2pgsql -d -s 4167:4326 "${path_suburbs}" nz_localities > data/tmp/nz_localities.sql
 echo "-- Importing nz_localities"
 psql -d open_nz_postcodes -q -f data/tmp/nz_localities.sql
-psql -d open_nz_postcodes -c "CREATE INDEX nz_localities_geom_idx ON nz_localities USING gist (geom);"
+psql -d open_nz_postcodes -c "CREATE INDEX IF NOT EXISTS nz_localities_geom_idx ON nz_localities USING gist (geom);"
 
 
 echo "-- Transforming shapefile: nz_meshblocks"
 shp2pgsql -d -s 2193:4326 "${path_meshblocks}" nz_meshblocks > data/tmp/nz_meshblocks.sql
 echo "-- Importing nz_meshblocks"
 psql -d open_nz_postcodes -q -f data/tmp/nz_meshblocks.sql
-psql -d open_nz_postcodes -c "CREATE INDEX nz_meshblocks_geom_idx ON nz_meshblocks USING gist (geom);"
+psql -d open_nz_postcodes -c "CREATE INDEX IF NOT EXISTS nz_meshblocks_geom_idx ON nz_meshblocks USING gist (geom);"
 
 # Alter tables for processing to add fields for completion
 psql -d open_nz_postcodes -c "ALTER TABLE nz_addresses ADD COLUMN road_id integer;"
