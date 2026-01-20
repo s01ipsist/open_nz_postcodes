@@ -64,7 +64,8 @@ psql -d open_nz_postcodes -q -f data/tmp/nz_meshblocks.sql
 psql -d open_nz_postcodes -c "CREATE INDEX IF NOT EXISTS nz_meshblocks_geom_idx ON nz_meshblocks USING gist (geom);"
 
 # Alter tables for processing to add fields for completion
-psql -d open_nz_postcodes -c "ALTER TABLE nz_addresses ADD COLUMN road_id integer;"
+# road_id is now included in the upstream nz-addresses-pilot data, so only add if missing
+psql -d open_nz_postcodes -c "ALTER TABLE nz_addresses ADD COLUMN IF NOT EXISTS road_id integer;"
 psql -d open_nz_postcodes -c "ALTER TABLE nz_roads ADD COLUMN postcode text;"
 psql -d open_nz_postcodes -c "ALTER TABLE nz_addresses ADD COLUMN postcode text;"
 psql -d open_nz_postcodes -c "ALTER TABLE nz_meshblocks ADD COLUMN postcode text;"
