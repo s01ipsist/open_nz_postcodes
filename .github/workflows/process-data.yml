@@ -69,9 +69,6 @@ jobs:
             scripts/koordinates/data
           key: ${{ steps.cache-nz-koordinates.outputs.cache-primary-key }}
 
-      - name: Create processing data folder
-        run: mkdir -p data
-
       - name: Extract data
         run: bash scripts/extract-export-data.sh
 

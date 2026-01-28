@@ -18,7 +18,7 @@ rm -f data/tmp/*.sql
 path_addresses_1=data/nz-addresses-pilot/nz-addresses-pilot.shp
 path_roads=data/nz-addresses-roads-pilot/nz-addresses-roads-pilot.shp
 path_suburbs=data/nz-suburbs-and-localities/nz-suburbs-and-localities.shp
-path_meshblocks=data/meshblock-2025.shp
+path_meshblocks=data/meshblock-2026.shp
 
 # check that data assets are in place
 for x in ${!path_@}; do

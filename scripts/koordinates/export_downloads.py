@@ -14,7 +14,7 @@ DATA_SOURCES = {
         'token': LINZ_API_TOKEN
     },
     'statsnz': {
-        'name': 'statsnz-koord-2026',
+        'name': 'statsnz-koord-2026a',
         'host': 'datafinder.stats.govt.nz',
         'token': STATSNZ_API_TOKEN
     }

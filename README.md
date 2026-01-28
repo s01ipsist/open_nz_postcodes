@@ -48,7 +48,7 @@ Land Information New Zealand (LINZ) and Statistics NZ provide many high fidelity
 - [Address points](https://data.linz.govt.nz/layer/105689-nz-addresses/). Each address point could be assigned a single postcode.
 - [Roads](https://data.linz.govt.nz/layer/53382-nz-roads-addressing/). Most address points on the same road share the same postcode. Very long roads may have address points in multiple postcodes
 - [Localities](https://data.linz.govt.nz/layer/113764-nz-suburbs-and-localities/). Most address points in the same locality share the same postcode
-- [Meshblocks](https://datafinder.stats.govt.nz/layer/115225-meshblock-2024/). A meshblock is the smallest geographic unit for which statistical data is collected and processed by Stats NZ.
+- [Meshblocks](https://datafinder.stats.govt.nz/layer/123521-meshblock-2026/). A meshblock is the smallest geographic unit for which statistical data is collected and processed by Stats NZ.
 - [Regions](https://datafinder.stats.govt.nz/layer/111182-regional-council-2023-generalised/). Regional councils / [ISO-3166-2](https://en.wikipedia.org/wiki/ISO_3166-2:NZ))
 
 Note that [postal area digital boundaries](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/digital-boundary-files) are freely available in Australia from Australian Bureau of Statistics. 🤔
