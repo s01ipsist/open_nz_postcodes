@@ -29,7 +29,7 @@ SELECT 'Find postcodes with disparate area vs bounding box. A low ratio (below 0
 
 SELECT postcode, ROUND((St_area(geom) / St_area(Box2D(geom)))::numeric, 3) AS ratio
 FROM postcode_boundaries
-WHERE postcode NOT IN ('3506', '1010', '7886', '3121', '5373', '4984', '4102')
+WHERE postcode NOT IN ('3506', '1010', '7886', '3121', '5373', '4984', '4102', '3120')
 AND St_area(geom) / St_area(Box2D(geom)) < 0.15
 ORDER by ratio
 LIMIT 10;
@@ -41,3 +41,4 @@ LIMIT 10;
 -- 5373 : large unpopulated area in Remutakas
 -- 4984 : weird disconnected
 -- 4102 : coastal stretch at Haumoana
+-- 3120 : Edgecumbe and Whakatane towns disconnected
