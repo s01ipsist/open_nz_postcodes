@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 # https://data.linz.govt.nz/layer/123113-nz-addresses-pilot/
 # https://data.linz.govt.nz/layer/123110-nz-addresses-roads-pilot/
 # https://data.linz.govt.nz/layer/113764-nz-suburbs-and-localities/
-# https://datafinder.stats.govt.nz/layer/120980-meshblock-2025/
+# https://datafinder.stats.govt.nz/layer/123521-meshblock-2026/
 
 DATA_SOURCES = {
     'linz': {
@@ -27,12 +27,12 @@ DATA_SOURCES = {
         'layers': [123113, 123110, 113764]
     },
     'statsnz': {
-        'name': 'statsnz-koord-2026',
+        'name': 'statsnz-koord-2026a',
         'host': 'datafinder.stats.govt.nz',
         'token': STATSNZ_API_TOKEN,
         'crs': 'EPSG:2193',
         'format': 'application/x-zipped-shp',
-        'layers': [120980]
+        'layers': [123521]
     }
 }
 
