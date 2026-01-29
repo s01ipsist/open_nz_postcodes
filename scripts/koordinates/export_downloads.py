@@ -1,25 +1,9 @@
 import koordinates
 import os
 import logging
-
-LINZ_API_TOKEN = os.environ['LINZ_DATA_API_TOKEN']
-STATSNZ_API_TOKEN = os.environ['STATSNZ_DATA_API_TOKEN']
+from config import DATA_SOURCES, DATA_FOLDER
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-
-DATA_SOURCES = {
-    'linz': {
-        'name': 'linz-koord-2026',
-        'host': 'data.linz.govt.nz',
-        'token': LINZ_API_TOKEN
-    },
-    'statsnz': {
-        'name': 'statsnz-koord-2026a',
-        'host': 'datafinder.stats.govt.nz',
-        'token': STATSNZ_API_TOKEN
-    }
-}
-DATA_FOLDER='./data/'
 
 def get_client(host, token):
     return koordinates.Client(host=host, token=token)
