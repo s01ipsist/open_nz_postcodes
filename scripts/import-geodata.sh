@@ -15,8 +15,8 @@ set -eof
 mkdir -p data/tmp
 rm -f data/tmp/*.sql
 
-path_addresses_1=data/nz-addresses-pilot/nz-addresses-pilot.shp
-path_roads=data/nz-addresses-roads-pilot/nz-addresses-roads-pilot.shp
+path_addresses_1=data/nz-addresses/nz-addresses.shp
+path_roads=data/nz-addresses-roads/nz-addresses-roads.shp
 path_suburbs=data/nz-suburbs-and-localities/nz-suburbs-and-localities.shp
 path_meshblocks=data/meshblock-2026.shp
 
@@ -31,7 +31,7 @@ dropdb --if-exists open_nz_postcodes
 createdb open_nz_postcodes
 psql -d open_nz_postcodes -c "CREATE EXTENSION postgis;"
 
-echo "-- Transforming shapefile: nz-addresses-pilot"
+echo "-- Transforming shapefile: nz-addresses"
 shp2pgsql -d -s 4167:4326 "${path_addresses_1}" nz_addresses > data/tmp/nz_addresses.sql
 echo "-- Importing nz-addresses"
 psql -d open_nz_postcodes -q -f data/tmp/nz_addresses.sql
@@ -64,7 +64,7 @@ psql -d open_nz_postcodes -q -f data/tmp/nz_meshblocks.sql
 psql -d open_nz_postcodes -c "CREATE INDEX IF NOT EXISTS nz_meshblocks_geom_idx ON nz_meshblocks USING gist (geom);"
 
 # Alter tables for processing to add fields for completion
-# road_id is now included in the upstream nz-addresses-pilot data, so only add if missing
+# road_id is now included in the upstream nz-addresses data, so only add if missing
 psql -d open_nz_postcodes -c "ALTER TABLE nz_addresses ADD COLUMN IF NOT EXISTS road_id integer;"
 psql -d open_nz_postcodes -c "ALTER TABLE nz_roads ADD COLUMN postcode text;"
 psql -d open_nz_postcodes -c "ALTER TABLE nz_addresses ADD COLUMN postcode text;"

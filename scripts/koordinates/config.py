@@ -4,8 +4,8 @@ LINZ_API_TOKEN = os.environ['LINZ_DATA_API_TOKEN']
 STATSNZ_API_TOKEN = os.environ['STATSNZ_DATA_API_TOKEN']
 
 # Define configurations for different data sources
-# https://data.linz.govt.nz/layer/123113-nz-addresses-pilot/
-# https://data.linz.govt.nz/layer/123110-nz-addresses-roads-pilot/
+# https://data.linz.govt.nz/layer/123113-nz-addresses/
+# https://data.linz.govt.nz/layer/123110-nz-addresses-roads/
 # https://data.linz.govt.nz/layer/113764-nz-suburbs-and-localities/
 # https://datafinder.stats.govt.nz/layer/123521-meshblock-2026/
 
