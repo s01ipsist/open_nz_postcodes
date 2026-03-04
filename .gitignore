@@ -7,3 +7,4 @@ release
 *.zip
 koordinates.env
 scripts/koordinates/onzp/
+scripts/koordinates/__pycache__/

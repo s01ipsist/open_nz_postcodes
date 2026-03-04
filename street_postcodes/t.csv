@@ -206,6 +206,8 @@ road_id,postcode,name,locality,city
 1982809,0932,Taikura Avenue,Red Beach,
 3082764,5024,Tai Lane,Whitby,Porirua
 1776174,9775,Tailings Street,Waikaka,Gore
+3085784,7201,Taille Way,Springlands,Blenheim
+3085802,9371,Tailrace Rise,Arthurs Point,Queenstown
 1841027,8971,Taimana Lane,Diamond Harbour,
 3080503,0632,Taimana Place,Greenhithe,Auckland
 3057113,0781,Taimana Stream Road,Te Henga / Bethells Beach,
@@ -505,6 +507,7 @@ road_id,postcode,name,locality,city
 1820083,0496,Tamaho Road,Pawarenga,
 1839988,0985,Tamahunga Drive,Matakana,
 3077562,0573,Tamahunga Road,Kaiwaka,
+3085866,7608,Tamairaki Road,Lincoln,Lincoln
 1818184,4598,Tamaiti Road,Patea,
 1803158,4198,Tamakahu Street,Nuhaka,
 1825831,1062,Tamaki Avenue,Otahuhu,Auckland
@@ -579,6 +582,7 @@ road_id,postcode,name,locality,city
 3080652,0930,Ta Moko Drive,Gulf Harbour,Whangaparaoa
 3080864,1026,Tamora Lane,Avondale,Auckland
 1829354,2102,Tampin Road,Hillpark,Auckland
+3085853,7282,Tamuakawawe Bay,"North West Bay,Tamuakawawe Bay",Marlborough Sounds
 1805495,4271,Tamumu Church Road,Otane,
 1804397,4210,Tamumu Road,Waipawa,
 1804468,4271,Tamumu Station Road,Omakere,
@@ -606,6 +610,7 @@ road_id,postcode,name,locality,city
 1782485,,Tancred Street,Linwood,Christchurch
 1786369,7710,Tancred Street,Rakaia,
 3026798,3191,Taneatua Road,"Taneatua,Whakatane",
+3085804,3010,Tānekaha Avenue,Owhata,Rotorua
 1826131,0112,Tanekaha Drive,Parahaki,Whangarei
 1819678,0294,Tanekaha Lane,Kerikeri,
 1807695,3200,Tanekaha Place,Pukete,Hamilton
@@ -1635,6 +1640,7 @@ road_id,postcode,name,locality,city
 3079640,4410,Te Ara Lane,Hokowhitu,Palmerston North
 1840733,0272,Te Aramako Drive,Russell,
 3078289,2110,Te Aramanu Crescent,Papakura,
+3085773,7201,Te Ara Mataora,Witherlea,Blenheim
 3082688,4120,Te Ara Matipou,Frimley,Hastings
 3082729,4120,Te Ara Moeke,Flaxmere,Hastings
 1840989,3118,Te Aranga Drive,Papamoa Beach,Papamoa
@@ -1736,6 +1742,7 @@ road_id,postcode,name,locality,city
 3084598,2025,Te Aroha Street,Middlemore Hospital,Auckland
 3080221,5032,Te Aroha Way,Paraparaumu,
 1840028,7081,Te Aro Lane,Redwood Valley,Richmond
+3085777,7201,Te Aropipi Way,Witherlea,Blenheim
 1841118,3384,Te Aro Road,Wairakei,Taupo
 1815304,3800,Teasdale Street,Te Awamutu,
 3084153,2580,Te Atairehia Road,Karaka,Papakura
@@ -1760,6 +1767,7 @@ road_id,postcode,name,locality,city
 3077873,2113,Te Aute Road,Karaka,Papakura
 3012306,4178,Te Aute Trust Road,"Poukawa,Te Hauke","Otane,Poukawa"
 3008298,3210,Teaview Court,Huntington,Hamilton
+3085779,7201,Te Awa a Te Umu,Witherlea,Blenheim
 1802988,4110,Te Awa Avenue,"Awatoto,Napier South,Te Awa",Napier
 1840694,5884,Te Awa Awa Road,Te Whiti,Gladstone
 3081400,5510,Te Awa Close,Levin,
@@ -1782,6 +1790,7 @@ road_id,postcode,name,locality,city
 1797698,4777,Te Awa Road,Pohangina,Ashhurst
 1811156,3283,Te Awa Road,Tamahere,Hamilton
 1781387,7985,Te Awa Road,Temuka,
+3085778,7201,Te Awa Roiti,Witherlea,Blenheim
 1798557,4815,Te Awa Street,Foxton Beach,Foxton
 3085247,7220,Te Awa Waipuna,Waikawa,Picton
 1799407,4410,Te Awe Awe Court,Hokowhitu,Palmerston North
@@ -1853,6 +1862,7 @@ road_id,postcode,name,locality,city
 3079559,2022,Te Hiko Way,Mangere,Auckland
 3085046,5810,Te Hina Street,Lansdowne,Masterton
 3082945,4470,Te Hirawanui Drive,Kelvin Grove,Palmerston North
+3085836,3494,Te Hiwi Drive,Maungatautari,Cambridge
 1829869,0632,Te Hoe Grove,Pinehill,Auckland
 1811157,3792,Te Hoe Road,"Orini,Te Hoe","Orini,Tahuna"
 1802558,,Te Hoe Road,Putere,Raupunga
@@ -2316,6 +2326,7 @@ road_id,postcode,name,locality,city
 3013106,5890,Te Parae Road,"Tauweru,Wainuioru","Masterton,Wainuioru"
 3085175,3216,Te Parapara Drive,Hamilton East,Hamilton
 1836343,4774,Te Para Para Road,Rangiwahia,Kimbolton
+3085776,7201,Te Parinui o Whiti Way,Witherlea,Blenheim
 1792397,5026,Te Pari Pari Road,Pukerua Bay,Porirua
 1805056,4188,Te Pari Road,Kotemaori,
 1788849,7077,Te Peita Valley Road,Tutaki,Murchison
@@ -2335,6 +2346,7 @@ road_id,postcode,name,locality,city
 1803643,4181,Te Pohue-Tutira Road,Tutira,Napier
 1811583,3473,Te Poi Road,Te Poi,Matamata
 3067411,3473,Te Poi South Road,Te Poi,Matamata
+3085774,7201,Te Pokohiwi Place,Witherlea,Blenheim
 3038018,3382,Te Ponanga Saddle Road,"Otukou,Tokaanu,Tongariro National Park","Tongariro National Park,Turangi"
 3005272,7691,Te Pouapatuki Road,"Tuahiwi,Woodend","Kaiapoi,Woodend"
 1799923,4815,Teppett Place,Foxton Beach,Foxton
@@ -2462,6 +2474,7 @@ road_id,postcode,name,locality,city
 1820138,0496,Te Riha Roadway,Pawarenga,
 1816908,4312,Te Rima Place,Bell Block,New Plymouth
 1797075,4573,Te Rimu Road,Mangamahu,Whanganui
+3085794,3172,Te Rina Boulevard,Omokoroa,Omokoroa
 1840734,0272,Te Riponui Drive,Russell,
 3082234,3495,Te Ripo Rise,Cambridge,
 3084242,4674,Te Rito Place,Hawera,
@@ -2608,6 +2621,7 @@ road_id,postcode,name,locality,city
 1791260,7210,Tetley Street,Seddon,
 1804571,4291,Te Tohe Road,Mangaorapa,Porangahau
 1826553,0173,Te Toiroa Road,"Matapouri,Ngunguru",Whangarei
+3085894,1024,Te Toka A Whenua Avenue,Three Kings,Auckland
 3084240,2022,Te Toka Ika Lane,Mangere,Auckland
 3050884,3083,Te Toke Road,"Ohaaki,Tahorakuri Forest",Reporoa
 1831740,1081,Te Toki Road,"Ostend,Palm Beach",Waiheke Island
@@ -2701,6 +2715,7 @@ road_id,postcode,name,locality,city
 3073029,3288,Te Wetini Drive,"Avalon,Burbush",Hamilton
 1838110,3889,Te Wetini Roore Place,Kawhia,
 3085345,3771,Te Whaa Lane,Ngaruawahia,Ngaruawahia
+3085807,7676,Te Whaiawa Crescent,West Melton,West Melton
 1825728,0505,Te Whai Street,Mangawhai Heads,Mangawhai
 1841604,5772,Te Whaiti Lane,Cape Palliser,Pirinoa
 1839750,3079,Te Whaiti Road,"Galatea,Minginui,Te Urewera","Minginui,Murupara,Te Urewera"
@@ -3128,6 +3143,7 @@ road_id,postcode,name,locality,city
 1819067,0310,Third Avenue,Dargaville,
 1825003,1021,Third Avenue,"Kingsland,Morningside",Auckland
 3080433,9304,Third Avenue,Lake Hayes,Queenstown
+3085879,7674,Third Avenue,Lincoln,Lincoln
 3058311,1081,Third Avenue,"Onetangi,Waiheke Island",Waiheke Island
 1829253,2585,Third Avenue,Orere Point,
 3083693,3015,Third Avenue,Pukehangi,Rotorua
@@ -3723,6 +3739,7 @@ road_id,postcode,name,locality,city
 1814985,4395,Tirangi Road,"Matau,Pohokura",Stratford
 1792961,5010,Tirangi Road,Moera,Lower Hutt
 1784029,8042,Tirangi Street,Hei Hei,Christchurch
+3085854,7282,Tiraora Bay,"North West Bay,Tiraora Bay",Marlborough Sounds
 1819093,0310,Tirarau Street,Dargaville,
 3084149,5024,Tiratu Rise,Whitby,Porirua
 1804644,4976,Tiratu Road,Dannevirke,
@@ -3859,6 +3876,7 @@ road_id,postcode,name,locality,city
 3082354,0985,Titoki Close,Matakana,
 1803878,4112,Titoki Crescent,Pirimai,Napier
 1792011,7371,Titoki Drive,Kaikoura Flat,Kaikoura
+3085828,0573,Titoki Drive,Mangawhai,Mangawhai
 1834683,3283,Titoki Drive,Tamahere,Hamilton
 1795452,5710,Titoki Grove,Featherston,
 3077483,3691,Titoki Lane,Whangamata,

@@ -272,6 +272,7 @@ road_id,postcode,name,locality,city
 1780970,7010,Cambria Street,The Wood,Nelson
 1827598,2010,Cambric Place,Botany Downs,Auckland
 1796337,4810,Cambridge Avenue,Ashhurst,
+3085769,7201,Cambridge Close,Thomsons Ford,Blenheim
 1799935,5032,Cambridge Crescent,Paraparaumu,
 3082123,0505,Cambridge Lane,Mangawhai,
 1840009,5510,Cambridge Park,Levin,
@@ -616,6 +617,7 @@ road_id,postcode,name,locality,city
 1815678,3119,Cannell Farm Drive,Te Puke,
 3014656,9271,Cannibal Bay Road,"Ahuriri Flat,Katea,New Haven","Kaka Point,Owaka"
 1828470,2022,Canning Crescent,Mangere,Auckland
+3085771,9304,Canning Place,Lower Shotover,Queenstown
 1815580,3120,Canning Place,Whakatane,
 3031897,4120,Canning Road,"Camberley,Frimley",Hastings
 1775937,9710,Canning Street,Gore,
@@ -661,6 +663,7 @@ road_id,postcode,name,locality,city
 1780275,7683,Cants Road,Leeston,
 3043223,2105,Cantua Close,Totara Heights,Auckland
 1814721,0632,Canyon Drive,Oteha,Auckland
+3085861,9371,Canyon Rise,Arthurs Point,Queenstown
 1808601,3177,Capamagian Drive,Athenree,Waihi Beach
 3009263,0991,Cape Barrier Road,Great Barrier Island (Aotea Island),
 3080730,0478,Cape Brett Way,Matauri Bay,Kaeo
@@ -751,6 +754,7 @@ road_id,postcode,name,locality,city
 1794635,6037,Cara Crescent,Paparangi,Wellington
 1832978,2016,Caragh Place,East Tamaki,Auckland
 1831040,0626,Caram Place,Birkenhead,Auckland
+3085797,9371,Carat Lane,Arthurs Point,Queenstown
 1828475,2022,Caravelle Close,Mangere,Auckland
 1808696,3119,Carberry Crescent,Te Puke,
 3079217,0632,Carberry Lane,Pinehill,Auckland
@@ -1477,6 +1481,7 @@ road_id,postcode,name,locality,city
 3018182,7984,Cave-Albury Road,"Albury,Cave",
 3000166,9571,Cave Creek Road,Knobby Range,Roxburgh
 1795282,5884,Caveland Road,Te Whiti,Gladstone
+3085799,9371,Cavell Close,Arthurs Point,Queenstown
 1796990,4501,Cavell Place,Gonville,Whanganui
 3061604,9013,Cavell Street,"Musselburgh,Tainui",Dunedin
 1788066,7830,Cavell Street,Reefton,
@@ -1565,6 +1570,7 @@ road_id,postcode,name,locality,city
 1801519,5010,Cedar Street,Maungaraki,Lower Hutt
 1821094,0932,Cedar Terrace,Stanmore Bay,Whangaparaoa
 1815918,3300,Cedar Way,Morrinsville,
+3085817,7676,Cedarwood Road,Prebbleton,Prebbleton
 1837456,6037,Cedarwood Street,Woodridge,Wellington
 1792646,5018,Cederholm Grove,Brown Owl,Upper Hutt
 1789317,7197,Cederman Drive,Kaiteriteri,Motueka
@@ -1784,6 +1790,7 @@ road_id,postcode,name,locality,city
 1786995,8083,Chalford Street,Brooklands,Christchurch
 1789037,7007,Chalgrave Street,Murchison,
 1836284,3210,Chalgrove Road,Huntington,Hamilton
+3085848,4414,Chalk Way,"Milson,Roslyn",Palmerston North
 3085496,2113,Chalky Road,Opaheke,Papakura
 1796189,9600,Chalky Way,Te Anau,
 1828947,2112,Challen Close,"Conifer Grove,Takanini","Auckland,Takanini"
@@ -3068,6 +3075,7 @@ road_id,postcode,name,locality,city
 1778609,9877,Clearwater Road,Awarua Wetlands,Invercargill
 3084928,0185,Clearwater Road,Te Kamo,Whangarei
 1772522,9014,Clearwater Street,Broad Bay,Dunedin
+3085887,3288,Clearwater Street,Horotiu,Hamilton
 1791761,5018,Clearwater Terrace,Brown Owl,Upper Hutt
 3082240,3282,Clearway Rise,Rukuhia,Hamilton
 1814780,3120,Cleary Avenue,Whakatane,
@@ -3291,6 +3299,7 @@ road_id,postcode,name,locality,city
 1782827,8014,Clissold Street,Merivale,Christchurch
 1828820,2104,Clist Crescent,Manukau,Auckland
 1777962,9610,Clitheroe Street,Otautau,
+3085867,7608,Clive Cooke Lane,Lincoln,Lincoln
 1805211,4102,Clive Crescent,Clive,
 1809139,3110,Clivedene Street,Matua,Tauranga
 1784298,8051,Clivedon Place,Redwood,Christchurch
@@ -3464,6 +3473,7 @@ road_id,postcode,name,locality,city
 1770977,9310,Coach Court,Cromwell,
 3047639,3110,Coach Drive,"Otumoetai,Waikareao Estuary",Tauranga
 3082164,3800,Coach Drive,Te Awamutu,
+3085850,5570,Coach House Lane,Ohau,Ohau
 1801589,5010,Coach Lane,Belmont,Lower Hutt
 1837789,2016,Coachman Drive,Flat Bush,Auckland
 1782829,8023,Coachman Lane,Opawa,Christchurch
@@ -3938,6 +3948,7 @@ road_id,postcode,name,locality,city
 1793708,6021,Colorado Grove,Brooklyn,Wellington
 1824721,1026,Colorado Place,Avondale,Auckland
 3083233,5372,Colorado Road,"Craigs Flat,Totara Park",Upper Hutt
+3085907,7678,Colorado Street,Rolleston,Rolleston
 3078791,3118,Colpoma Close,Papamoa Beach,Papamoa
 1807060,3204,Colquhoun Place,Dinsdale,Hamilton
 1779542,7392,Colquhoun Road,Balmoral,
@@ -4438,6 +4449,7 @@ road_id,postcode,name,locality,city
 1811818,4332,Cordelia Street,Stratford,
 1810994,3771,Cordenville Road,Rotowaro,Huntly
 1828493,2023,Cordoba Court,Otara,Auckland
+3085786,7201,Cordon Court,Springlands,Blenheim
 3085693,9382,Cordyline Close,Wanaka,Wanaka
 1813764,3592,Cordyline Crescent,Matarangi,Whitianga
 1834126,4625,Cordyline Place,Ohakune,
