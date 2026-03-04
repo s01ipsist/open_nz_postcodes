@@ -50,6 +50,7 @@ road_id,postcode,name,locality,city
 1797891,4989,Waewaepa Parade,Makuri,Pahiatua
 1797890,4982,Waewaepa Road,Pahiatua,
 1814604,3189,Waewaetutuki Road,Paengaroa,
+3085916,7674,Waganer Place,Rolleston,Rolleston
 3078619,0484,Wagener Grove,Pukenui,
 1825014,1025,Wagener Place,Mount Albert,Auckland
 1804260,4110,Waghorne Street,Ahuriri,Napier
@@ -898,6 +899,7 @@ road_id,postcode,name,locality,city
 3025854,9584,Wairuna Siding Road,"Popotunoa,Wairuna",Clinton
 3077554,2120,Wai Shing Place,Pukekohe,
 1803176,4198,Wai Station Road,Nuhaka,
+3085841,4702,Wai Street,Maewa,Feilding
 1803175,4198,Wai Street,Nuhaka,
 3050307,3980,Waitaanga North Road,Waitaanga,Ohura
 1817780,,Waitaanga Road,"Ahititi,Ohura,Waitaanga","Ohura,Urenui"
@@ -1895,6 +1897,7 @@ road_id,postcode,name,locality,city
 1791589,7201,Waters Avenue,Burleigh,Blenheim
 1832642,2019,Watersfield Place,Flat Bush,Auckland
 1792056,4470,Watershed Road,Bunnythorpe,Palmerston North
+3085886,3288,Watershed Road,Horotiu,Hamilton
 3061884,,Watershed Road,"Hunterville,Taihape",
 3061883,,Watershed Road,"Paparangi,Taunoka",Whanganui
 1800969,4774,Watershed Road,Rangiwahia,Kimbolton
@@ -2115,6 +2118,7 @@ road_id,postcode,name,locality,city
 1825151,1041,Wayne Place,Mount Roskill,Auckland
 1816485,2120,Waynes Place,Pukekohe,
 1770337,9483,Waynestown Road,Waynes,Palmerston
+3085762,0110,Waypoint Drive,Port Whangarei,Whangarei
 1794914,6022,Wayside,Miramar,Wellington
 1784821,8053,Wayside Avenue,Burnside,Christchurch
 1811335,3782,Wayside Road,"Rangiriri,Te Kauwhata",Te Kauwhata
@@ -2322,6 +2326,7 @@ road_id,postcode,name,locality,city
 1794910,6023,Welland Place,Island Bay,Wellington
 3079774,0110,Wellbeing Close,Woodhill,Whangarei
 3084281,7571,Wellbourne Road,Darfield,
+3085764,9320,Weller Drive,Alexandra,Alexandra
 1772084,9077,Weller Street,The Cove,Dunedin
 1799285,4410,Wellesbourne Street,Palmerston North,
 1778434,9810,Wellesley Avenue,Avenal,Invercargill
@@ -2507,6 +2512,7 @@ road_id,postcode,name,locality,city
 3047428,3193,West Bank Road,"Edgecumbe,Thornton","Edgecumbe,Whakatane"
 1787991,7895,West Bank Road,"Maruia,Springs Junction","Maruia,Reefton"
 1788719,7096,West Bank Road,Tapawera,Wakefield
+3085875,7282,West Bay,"Lochmara Bay,West Bay",Marlborough Sounds
 1842388,3110,Westbay Lane,Tauranga,
 1851009,7774,West Bay Place,Huntingdon,Ashburton
 1817205,4320,West Beach,Waitara,
@@ -4317,6 +4323,7 @@ road_id,postcode,name,locality,city
 1770024,9272,Windy Ridge Road,Benhar,Balclutha
 1822537,0629,Windy Ridge Road,Glenfield,Auckland
 3001561,7410,Wineberry Avenue,Amberley,
+3085859,9018,Wineberry Drive,Corstorphine,Dunedin
 1809232,3112,Wineberry Lane,Hairini,Tauranga
 1839699,4625,Wineberry Lane,Ohakune,
 1934867,9305,Wineberry Lane,Wanaka,
@@ -5100,6 +5107,7 @@ road_id,postcode,name,locality,city
 1812952,3800,Wynyard Street,Te Awamutu,
 1821886,0630,Wyoming Avenue,Murrays Bay,Auckland
 1792544,5018,Wyoming Grove,Totara Park,Upper Hutt
+3085908,7674,Wyoming Street,Rolleston,Rolleston
 1829281,2023,Wyona Place,Otara,Auckland
 1783744,8062,Wyon Street,Linwood,Christchurch
 3077736,2016,Wyon Way,Flat Bush,Auckland

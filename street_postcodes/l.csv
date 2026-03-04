@@ -610,6 +610,7 @@ road_id,postcode,name,locality,city
 1839408,4120,Lardon Place,Frimley,Hastings
 1792822,5018,Laredo Grove,Totara Park,Upper Hutt
 1788210,7010,Larges Lane,The Brook,Nelson
+3085868,7608,Largesse Road,Lincoln,Lincoln
 1772036,9012,Largo Avenue,South Dunedin,Dunedin
 1832197,2023,Largo Lane,Otara,Auckland
 1774617,9400,Largo Street,Oamaru North,Oamaru
@@ -1651,6 +1652,7 @@ road_id,postcode,name,locality,city
 1823569,0614,Lincoln Park Avenue,Massey,Auckland
 1798526,5510,Lincoln Place,Levin,
 1826324,0112,Lincoln Place,Te Kamo,Whangarei
+3085876,7674,Lincoln Plains Avenue,Lincoln,Lincoln
 3050211,,Lincoln Road,"Addington,Hillmorton",Christchurch
 1805650,4110,Lincoln Road,Bluff Hill,Napier
 1800642,5713,Lincoln Road,Carterton,
@@ -1924,6 +1926,7 @@ road_id,postcode,name,locality,city
 3041056,1010,Little George Street,"Newmarket,Parnell",Auckland
 1794761,6011,Little George Street,Thorndon,Wellington
 3049038,0991,Little Goat Road,Great Barrier Island (Aotea Island),
+3085816,7676,Littlehampton Crescent,Prebbleton,Prebbleton
 1813319,3110,Little John Drive,Bellevue,Tauranga
 1815417,3674,Littlejohn Lane,Karangahake,
 1825156,1042,Littlejohn Street,Hillsborough,Auckland
@@ -3099,6 +3102,7 @@ road_id,postcode,name,locality,city
 1786171,7608,Lyttelton Street,Lincoln,
 1788085,7825,Lyttelton Street,Westport,
 1830273,0910,Lyttle Lane,Warkworth,
+3085884,5710,Lyttle Way,Featherston,Featherston
 3032575,4010,Lytton Road,"Awapuni,Elgin,Riverdale,Te Hapara",Gisborne
 1831055,0624,Lytton Street,Devonport,Auckland
 1797220,4702,Lytton Street,Feilding,

@@ -42,3 +42,11 @@ LIMIT 10;
 -- 4984 : weird disconnected
 -- 4102 : coastal stretch at Haumoana
 -- 3120 : Edgecumbe and Whakatane towns disconnected
+
+SELECT 'COUNT new roads - see add-new-roads.sql' AS description;
+
+SELECT COUNT(*)
+FROM "nz_roads" LEFT OUTER JOIN "nz_street_postcodes"
+ON ("nz_street_postcodes"."road_id" = "nz_roads"."road_id")
+WHERE ("nz_street_postcodes"."road_id" IS NULL)
+AND full_road_ IS NOT NULL;

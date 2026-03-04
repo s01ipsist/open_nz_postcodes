@@ -1249,6 +1249,7 @@ road_id,postcode,name,locality,city
 1977263,9371,Harvest Lane,Arrowtown,
 3084170,8051,Harvest Lane,Belfast,Christchurch
 3080755,4775,Harvest Lane,Newbury,Feilding
+3085785,7201,Harvest Lane,Springlands,Blenheim
 1841593,5781,Harvest Rise Road,Dyerville,
 1972638,9310,Harvest Road,Cromwell,
 3080818,3710,Harvest Road,Te Kauwhata,
@@ -2975,6 +2976,7 @@ road_id,postcode,name,locality,city
 3002066,,Hillsborough Road,"Hillsborough,Mount Roskill,Royal Oak",Auckland
 3010451,3204,Hillsborough Terrace,Hamilton Central,Hamilton
 3010450,8022,Hillsborough Terrace,Hillsborough,Christchurch
+3085827,0573,Hills Boulevard,Mangawhai,Mangawhai
 1803509,4130,Hillsbrook Place,Havelock North,
 1771087,9386,Hills Creek Road,"Hills Creek,Oturehua","Oturehua,Saint Bathans"
 1831666,1042,Hillsdale Road,Hillsborough,Auckland
@@ -3966,6 +3968,7 @@ road_id,postcode,name,locality,city
 1804298,3210,Horizon Place,Flagstaff,Hamilton
 3079798,0505,Horizon View Place,Mangawhai Heads,Mangawhai
 1841552,0632,Horizon View Road,Oteha,Auckland
+3085901,3620,Horizon Views Way,Whangamata,Whangamata
 2007610,7198,Horizon Way,Riwaka,Motueka
 1823384,0618,Horizon Way,West Harbour,Auckland
 1818489,2105,Horlicks Place,Randwick Park,Auckland
@@ -4796,6 +4799,7 @@ road_id,postcode,name,locality,city
 1796593,4696,Hururua Road,Horopito,Raetihi
 1796592,4696,Huru Street,Horopito,Raetihi
 2010950,8025,Hurutini Way,Halswell,Christchurch
+3085863,0812,Huruwhenua Lane,Waimauku,Waimauku
 3023771,5036,Hurworth Grove,Waikanae,
 3025868,4500,Hurworth Place,"College Estate,Whanganui",Whanganui
 1817104,4371,Hurworth Road,Hurworth,New Plymouth

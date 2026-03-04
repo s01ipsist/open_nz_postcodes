@@ -1,6 +1,7 @@
 road_id,postcode,name,locality,city
 1800784,5512,Babbacombe Avenue,Otaki Beach,Otaki
 3049482,4500,Babbage Place,"Otamatea,Saint Johns Hill",Whanganui
+3085913,7678,Babbit Crescent,Rolleston,Rolleston
 1835334,1072,Baber Drive,Stonefields,Auckland
 1806998,3610,Baber Street,Waihi,
 1812156,3420,Baberton Street,Tokoroa,
@@ -588,6 +589,7 @@ road_id,postcode,name,locality,city
 1803312,4122,Barden Street,Mayfair,Hastings
 1825842,1072,Bardia Road,Panmure,Auckland
 1822340,0622,Bardia Street,Belmont,Auckland
+3085837,3493,Bardowie Drive,"Cambridge,Pukemoremore","Cambridge,Hamilton"
 1829966,2013,Bard Place,Golflands,Auckland
 1775166,9092,Bardsey Street,Allanton,Mosgiel
 1824690,1071,Bardsey Street,Glendowie,Auckland
@@ -1745,6 +1747,7 @@ road_id,postcode,name,locality,city
 1772896,9012,Bellona Street,Saint Kilda,Dunedin
 1813125,3802,Bellot Street,Pirongia,
 3081513,8025,Bellows Close,Halswell,Christchurch
+3085814,7676,Bellport Road,Prebbleton,Prebbleton
 1793804,6037,Bellringer Crescent,Newlands,Wellington
 1831267,0614,Bellringer Road,Massey,Auckland
 1829188,2018,Bell Road,Beachlands,Auckland
@@ -2033,6 +2036,7 @@ road_id,postcode,name,locality,city
 1823808,0600,Bentleigh Avenue,New Windsor,Auckland
 1822697,0629,Bentley Avenue,Glenfield,Auckland
 1822708,0629,Bentley Court,Glenfield,Auckland
+3085768,7272,Bentley Drive,Thomsons Ford,Blenheim
 3082236,3432,Bentley Lane,Leamington,Cambridge
 1816681,3210,Bentley Rise,Flagstaff,Hamilton
 1829202,2023,Bentley Road,Otara,Auckland
@@ -2124,6 +2128,7 @@ road_id,postcode,name,locality,city
 1818531,2010,Bernie Edwards Place,Botany Downs,Auckland
 1840873,4791,Bernies Drive,Tangiwai,Ohakune
 1955490,3112,Bernies Way,Ohauiti,Tauranga
+3085812,4702,Bernie Way,Maewa,Feilding
 3077946,8025,Bernina Lane,Wigram,Christchurch
 1830473,2103,Bernina Place,Weymouth,Auckland
 1838139,7614,Bernini Lane,Rolleston,
@@ -2773,6 +2778,7 @@ road_id,postcode,name,locality,city
 1775282,9273,Blairvale Road,Te Houka,Balclutha
 1822403,0620,Blakeborough Drive,Forrest Hill,Auckland
 1813733,3118,Blake Boulevard,Papamoa Beach,Papamoa
+3085869,7608,Blake Day Place,Lincoln,Lincoln
 1841879,0932,Blake Greens,Silverdale,
 1782504,8024,Blakehall Place,Spreydon,Christchurch
 1832679,0794,Blake Lane,Dairy Flat,
@@ -2910,6 +2916,7 @@ road_id,postcode,name,locality,city
 1777284,9877,Blondell Road,"Kennington,Waimatua",Invercargill
 3081630,9310,Blondie Drive,Cromwell,
 1830651,0592,Blong Road,Ruawai,
+3085820,7676,Bloomberg Road,Prebbleton,Prebbleton
 3080424,0612,Bloom Crescent,Sunnyvale,Auckland
 1824320,1023,Bloomfield Place,Epsom,Auckland
 1826103,0110,Bloomfield Place,Onerahi,Whangarei
@@ -2996,6 +3003,7 @@ road_id,postcode,name,locality,city
 3067569,5781,Blue Rock Road,Ruakokoputuna,Martinborough
 3010739,4571,Blueskin Road,"Brunswick,Westmere","Brunswick,Whanganui"
 3010738,9081,Blueskin Road,"Careys Bay,Mihiwaka,Mount Cargill,Port Chalmers","Dunedin,Port Chalmers,Waitati"
+3085815,7676,Blue Skye Lane,Prebbleton,Prebbleton
 3048561,7882,Blue Spur Road,"Arahura Valley,Blue Spur",Hokitika
 1774109,9593,Blue Spur Road,"Gabriels Gully,Lawrence",Lawrence
 1831295,0602,Blue Spur Way,Glendene,Auckland
@@ -4071,6 +4079,7 @@ road_id,postcode,name,locality,city
 1813532,3210,Briarwood Drive,Flagstaff,Hamilton
 1840392,9383,Briar Wood Lane,Queensberry,Cromwell
 1802829,4470,Briarwood Road,Kelvin Grove,Palmerston North
+3085813,7676,Briarwood Road,Prebbleton,Prebbleton
 1804169,4110,Briasco Street,Awatoto,Napier
 1810085,3971,Brice Road,Piopio,
 1812423,3330,Brice Street,Tauhara,Taupo
@@ -4310,6 +4319,7 @@ road_id,postcode,name,locality,city
 3030126,0272,Bristow Road,Kawakawa,
 1800883,4501,Bristow Street,Saint Johns Hill,Whanganui
 1806657,3579,Britannia Dell,Pauanui,
+3085766,7272,Britannia Drive,Thomsons Ford,Blenheim
 3053258,7010,Britannia Heights,"Britannia Heights,Stepneyville",Nelson
 1828368,2012,Britannia Place,Half Moon Bay,Auckland
 3057589,8083,Britannia Street,North New Brighton,Christchurch
@@ -4348,6 +4358,7 @@ road_id,postcode,name,locality,city
 3019381,,Broadlands Road,"Broadlands,Reporoa,Rotokawa,Tauhara,Tauhara Forest","Broadlands,Reporoa,Taupo"
 3015482,8081,Broadleaf Lane,"Heathcote Valley,Lyttelton","Christchurch,Lyttelton"
 3082527,3377,Broadleaf Way,Kinloch,Taupo
+3085857,3112,Broadleaf Way,Parkvale,Tauranga
 1799595,3281,Broadley Downs,Gordonton,Hamilton
 1839126,7510,Broadmeadows Drive,Darfield,
 3034958,3493,Broadmeadows Road,Pukemoremore,Hamilton
