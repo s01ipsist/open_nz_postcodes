@@ -179,9 +179,11 @@ road_id,postcode,name,locality,city
 1791200,7202,Gane Street,Spring Creek,
 1828875,2024,Ganges Avenue,Mangere East,Auckland
 1794949,6035,Ganges Road,Khandallah,Wellington
+3086074,2121,Ganges Road,Tuakau,Tuakau
 1830853,0479,Gangway Road,Totara North,Kaeo
 1835392,1072,Ganley Terrace,"Saint Johns,Stonefields",Auckland
 1789221,7197,Gannet Heights,Kaiteriteri,Motueka
+3086026,0505,Gannet Lane,Mangawhai,Mangawhai
 1771974,9022,Gannet Lane,Saint Leonards,Dunedin
 3072992,0118,Gannet Place,One Tree Point,Whangarei
 3003360,0630,Gannet Point,"Browns Bay,Murrays Bay,Rothesay Bay",Auckland
@@ -1313,6 +1315,7 @@ road_id,postcode,name,locality,city
 1823146,0772,Glenesk Road,Piha,
 3078365,5011,Glen Evans Crescent,Fairfield,Lower Hutt
 1774354,9584,Glenfalloch Road,"Lochindorb,Waiwera South,Warepa","Balclutha,Clinton"
+3085979,7604,Glenfalloch Way,Prebbleton,Prebbleton
 1818809,1023,Glenfell Place,Epsom,Auckland
 1815862,3581,Glenfern Drive,Wyuna Bay,Coromandel
 3072409,0991,Glenfern Road,Great Barrier Island (Aotea Island),

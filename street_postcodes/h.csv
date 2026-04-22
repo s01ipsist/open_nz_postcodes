@@ -149,6 +149,7 @@ road_id,postcode,name,locality,city
 1816827,4310,Hakirau Street,Port Taranaki,New Plymouth
 1803686,4175,Hakiwai Road,Fernhill,Napier
 1834913,0602,Haki Wihongi Place,Glen Eden,Auckland
+3086045,3119,Hakoko Street,Te Puke,Te Puke
 1810229,3010,Hakopa Road,Ngapuna,Rotorua
 1805061,4198,Haku Crescent,Mahia,
 3077738,2019,Haku Road,Flat Bush,Auckland
@@ -1253,6 +1254,7 @@ road_id,postcode,name,locality,city
 1841593,5781,Harvest Rise Road,Dyerville,
 1972638,9310,Harvest Road,Cromwell,
 3080818,3710,Harvest Road,Te Kauwhata,
+3086077,2121,Harvest Road,Tuakau,Tuakau
 1806172,3500,Harvey Crescent,Thames,
 1791590,7204,Harvey Place,Renwick,
 1824747,1071,Harvey Place,Saint Heliers,Auckland
@@ -1496,6 +1498,7 @@ road_id,postcode,name,locality,city
 1795888,3382,Hautu Road,Waiotaka Valley,Turangi
 3028344,,Hauturu Road,"Hauturu,Te Anga,Waitomo","Oparau,Te Kuiti"
 1806175,3620,Hauturu Street,Whangamata,
+3086078,2121,Hauwhenua Road,Tuakau,Tuakau
 1797331,4774,Hau Whiti Place,Kimbolton,
 1837265,8052,Havana Gardens,Shirley,Christchurch
 1815569,3118,Havana Key,Papamoa Beach,Papamoa
@@ -1750,6 +1753,7 @@ road_id,postcode,name,locality,city
 1817013,4310,Hayton Lane,New Plymouth,
 3011282,8042,Hayton Road,"Hornby,Wigram",Christchurch
 1808682,3119,Hayward Court,Te Puke,
+3085941,7674,Hayward Drive,Lincoln,Lincoln
 3079204,3112,Hayward Place,Ohauiti,Tauranga
 1816022,3010,Hayward Rise,Owhata,Rotorua
 3010544,0178,Hayward Road,"Mangapai,Maungakaramea","Maungakaramea,Whangarei"
@@ -3510,6 +3514,7 @@ road_id,postcode,name,locality,city
 1828727,2024,Hokianga Street,"Mangere East,Papatoetoe",Auckland
 3082715,3300,Hoki Avenue,Morrinsville,
 3068903,0920,Hokimai Bay,"Bon Accord Harbour,Kawau Island",Kawau Island
+3085970,2577,Hokinga Hioi Lane,Drury,Drury
 3042893,,Hokio Beach Road,"Hokio Beach,Levin",Levin
 3081890,5022,Hokioi Drive,Kenepuru,Porirua
 3078970,2113,Hokioi Street,Karaka,Papakura
@@ -3518,6 +3523,7 @@ road_id,postcode,name,locality,city
 1800998,4822,Hoki Street,Tangimoana,
 1790447,7811,Hokitika-Kaniere Tramway,"Hokitika,Kaniere",Hokitika
 3084706,3282,Hoki Whenua Road,Peacocke,Hamilton
+3086007,7671,Hokohoko Place,Kirwee,Kirwee
 3056352,9710,Hokonui Drive,"Croydon,Gore",Gore
 1834654,3288,Hokonui Lane,Whatawhata,Hamilton
 1808138,9872,Hokonui Road,"Dunsdale,Hokonui","Invercargill,Winton"
@@ -4477,6 +4483,7 @@ road_id,postcode,name,locality,city
 3079242,0616,Hui Lane,Hobsonville,Auckland
 1812483,4392,Huinga Road,Huinga,Stratford
 1807912,3900,Huiputea Drive,Otorohanga,
+3086064,3720,Huirama Place,Ngaruawahia,Ngaruawahia
 1781558,7920,Huirapa Street,Temuka,
 1814279,3574,Huirau Road,Turua,Ngatea
 1813891,3877,Huirimu Road,Wharepapa South,Te Awamutu

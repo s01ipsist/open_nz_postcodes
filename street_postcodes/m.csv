@@ -466,6 +466,7 @@ road_id,postcode,name,locality,city
 3083813,0622,Mahinga Kai Way,Belmont,Auckland
 3078733,0614,Mahinga Lane,Massey,Auckland
 3078236,0614,Mahinga Place,Massey,Auckland
+3086047,3119,Mahinga Way,Te Puke,Te Puke
 1797225,4702,Mahinui Street,Feilding,
 3084381,3506,Mahi Place,Coromandel,
 3078510,0875,Mahi Road,Helensville,
@@ -815,6 +816,7 @@ road_id,postcode,name,locality,city
 1804284,4279,Makaroro Road,Tikokino,
 1792865,5013,Makaro Street,Eastbourne,Lower Hutt
 1833434,5022,Makaro Street,Elsdon,Porirua
+3086009,7671,Makatea Way,Kirwee,Kirwee
 3004136,0931,Maka Terrace,Orewa,
 1990564,2120,Makatiti Street,Pukekohe,
 1793884,6037,Makatote Grove,Churton Park,Wellington
@@ -1122,6 +1124,7 @@ road_id,postcode,name,locality,city
 1784957,0173,Manawa Drive,Ngunguru,Whangarei
 1815823,,Manawahe Road,"Lake Rotoma,Manawahe,Matata,Rotoma","Matata,Rotorua,Whakatane"
 1840915,3910,Manawaiti Street,Te Kuiti,
+3086023,0505,Manawa Lane,Mangawhai,Mangawhai
 3085793,3114,Manawanui Place,Omokoroa,Omokoroa
 1949157,0931,Manawanui Way,Orewa,
 3081845,4310,Manawa Ora Lane,Marfell,New Plymouth
@@ -1481,6 +1484,7 @@ road_id,postcode,name,locality,city
 1811812,3374,Manhire Road,Te Puninga,Morrinsville
 1783250,8024,Manhire Street,Spreydon,Christchurch
 1810503,3987,Maniaiti Road,Maniaiti / Benneydale,Te Kuiti
+3085984,4310,Mānia Lane,Ferndale,New Plymouth
 3084551,3710,Maniapare Road,Te Kauwhata,
 1812412,3330,Maniapoto Grove,Waipahihi,Taupo
 1812413,3382,Maniapoto Street,Motuoapa,
@@ -1535,6 +1539,7 @@ road_id,postcode,name,locality,city
 1797142,4500,Mannington Road,Otamatea,Whanganui
 1806289,3581,Mannion Road,Wyuna Bay,Coromandel
 1815600,3400,Mannix Place,Matamata,
+3086069,7495,Mann Lane,Oxford,Oxford
 3057380,9073,Mann Road,Woodside,Outram
 1796076,5032,Mannson Lane,Paraparaumu Beach,Paraparaumu
 1787965,7891,Manns Road,Birchfield,Westport
@@ -1610,6 +1615,7 @@ road_id,postcode,name,locality,city
 1770931,9310,Mansor Court,Cromwell,
 1828966,2022,Manston Road,Mangere,Auckland
 1774849,9300,Man Street,Queenstown,
+3086022,0505,Manta Drive,Mangawhai,Mangawhai
 1790472,7881,Mantell Street,Kokatahi,
 1794302,6022,Mantell Street,Seatoun,Wellington
 1804319,4273,Mantell Street,Tikokino,
@@ -1900,6 +1906,7 @@ road_id,postcode,name,locality,city
 1808805,,Maranui Street,"Mount Maunganui,Papamoa Beach","Mount Maunganui,Papamoa"
 1818079,4310,Maranui Street,Welbourn,New Plymouth
 1791342,7220,Mara Place,Waikawa,Picton
+3085983,4616,Māra Place,Opunake,Opunake
 3079478,0810,Marara Road,Kumeu,
 1777570,9679,Mararoa Drive,Manapouri,
 1778128,9672,Mararoa Road,The Key,Manapouri
@@ -2453,6 +2460,7 @@ road_id,postcode,name,locality,city
 1794937,6035,Martha Place,Crofton Downs,Wellington
 1806299,3500,Martha Street,Thames,
 1807012,3610,Martha Street,Waihi,
+3086031,2113,Marthas Whare Lane,Karaka,Papakura
 3080685,5019,Martha Turnell Crescent,Manor Park,Lower Hutt
 1820844,0981,Martin Access Road,Makarau,Warkworth
 1783332,8023,Martin Avenue,Beckenham,Christchurch
@@ -4569,6 +4577,7 @@ road_id,postcode,name,locality,city
 1781442,7991,Mees Road,Woodbury,Geraldine
 1830798,0482,Meffin Road,Kaitaia,
 1832265,2010,Megan Avenue,Pakuranga Heights,Auckland
+3085934,7614,Megan Way,Rolleston,Rolleston
 1940075,4374,Megaw Close,Whalers Gate,New Plymouth
 3083596,0602,Meg Lane,Glen Eden,Auckland
 3022775,7483,Megowans Road,Scargill,Waikari
@@ -4584,6 +4593,7 @@ road_id,postcode,name,locality,city
 1841832,7608,Meijer Drive,Lincoln,
 1830982,0986,Meiklejohn Way,Omaha,
 1830979,0974,Meikle Road,Tomarata,Wellsford
+3085932,4702,Meikura Street,Maewa,Feilding
 1822752,0602,Meilland Place,Glen Eden,Auckland
 1794082,6021,Mein Street,Newtown,Wellington
 1795629,5794,Mein Street,Woodside,Greytown
@@ -5143,6 +5153,7 @@ road_id,postcode,name,locality,city
 1830728,0281,Mihirata Road,Motatau,Kawakawa
 1820024,0492,Mihirau Road,Panguru,
 1819889,0476,Mihi Road,Okaihau,
+3085922,0632,Mihi Te Rina Grove,Schnapper Rock,Auckland
 1773022,9081,Mihiwaka Road,"Long Beach,Purakaunui",Port Chalmers
 1773021,9081,Mihiwaka Station Road,Mihiwaka,Port Chalmers
 1800619,4073,Mihiwhetu Road,Waimata,
@@ -5566,6 +5577,7 @@ road_id,postcode,name,locality,city
 1842696,9300,Miners Lane,Queenstown,
 1840751,0112,Miners Lane,Te Kamo,Whangarei
 1815962,3610,Miners Place,Waihi,
+3085954,2577,Miners Rise,Drury,Drury
 3058542,7676,Miners Road,"McLeans Island,Templeton",Christchurch
 1775473,9384,Miners Terrace,Bannockburn,Cromwell
 3081869,3700,Miners Way,Huntly,
@@ -5999,6 +6011,7 @@ road_id,postcode,name,locality,city
 3084119,5010,Mohua Way,Kelson,Lower Hutt
 1792267,5022,Mohuia Crescent,Elsdon,Porirua
 3007860,0991,Mohunga Bay,Great Barrier Island (Aotea Island),
+3086054,4200,Moifaa Street,Waipukurau,Waipukurau
 1795570,5794,Moiki Road,Martinborough,
 2013009,3175,Moira Close,Welcome Bay,Tauranga
 1832063,2121,Moira Drive,Tuakau,
@@ -6142,6 +6155,7 @@ road_id,postcode,name,locality,city
 3078694,3432,Monarch Park Lane,Leamington,Cambridge
 1836668,5032,Monarch Place,Paraparaumu Beach,Paraparaumu
 1812401,3492,Monarch Road,Mangakino,
+3086030,2113,Monarco Road,Karaka,Papakura
 1975231,3283,Monaro Grove,Tamahere,Hamilton
 3077436,3187,Monaro Place,Papamoa,
 1838510,2016,Monash Place,Flat Bush,Auckland
