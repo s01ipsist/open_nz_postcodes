@@ -326,6 +326,7 @@ road_id,postcode,name,locality,city
 1806739,3671,Rakino Drive,Kerepehi,Paeroa
 1799160,4412,Rakino Place,Awapuni,Palmerston North
 1825834,1060,Rakino Way,Mount Wellington,Auckland
+3085925,0632,Raki O Rua Crescent,Schnapper Rock,Auckland
 3078578,2019,Rakiraki Place,Flat Bush,Auckland
 3077354,3171,Rakiraki Way,Tauriko,Tauranga
 3084511,0992,Raki Road,Wainui,
@@ -744,6 +745,7 @@ road_id,postcode,name,locality,city
 1838242,7020,Ranzau Road,Hope,Richmond
 1789120,7081,Ranzau Road West,Hope,Richmond
 1829339,2013,Ra Ora Drive,East Tamaki,Auckland
+3085995,2578,Raorao Road,Karaka,Papakura
 1797148,4571,Raorikia Road,Brunswick,
 3079393,2120,Raoriki Road,Pukekohe,
 1839957,9010,Raoulia Close,Halfway Bush,Dunedin
@@ -1209,6 +1211,7 @@ road_id,postcode,name,locality,city
 1786926,8041,Reading Street,Upper Riccarton,Christchurch
 1793443,5014,Reading Street,Wainuiomata,Lower Hutt
 1770338,9483,Reading Street,Waynes,Palmerston
+3086086,3288,Readman Street,Te Kowhai,Hamilton
 1807576,3210,Read Place,Chartwell,Hamilton
 3060667,4787,Read Road,"Bulls,Marton",
 1774102,9591,Read Road,Kononi,Lawrence
@@ -1317,9 +1320,11 @@ road_id,postcode,name,locality,city
 1818951,,Redoubt Road,"Flat Bush,Goodwood Heights,Manukau,Totara Park",Auckland
 1812468,3330,Redoubt Street,Taupo,
 1812933,3800,Redoubt Street,Te Awamutu,
+3085956,2577,Redpath Road,Drury,Drury
 1778074,9881,Redpath Road,Orepuki,Riverton/Aparima
 1797223,3197,Redpath Road,Waioeka,Opotiki
 1797825,4994,Redpaths Road,Eketahuna,
+3085973,8025,Red Poppy Lane,Halswell,Christchurch
 1837185,8081,Red Rock Lane,Moncks Bay,Christchurch
 1782403,8024,Redruth Avenue,"Addington,Spreydon",Christchurch
 1781759,7910,Redruth Street,Redruth,Timaru
@@ -1414,6 +1419,7 @@ road_id,postcode,name,locality,city
 1794366,6022,Rees Way,Lyall Bay,Wellington
 1975229,2121,Rees Way,Tuakau,
 1803477,4130,Reeve Drive,Havelock North,
+3086066,7495,Reevehill Road,Oxford,Oxford
 1814927,3010,Reeve Road,Owhata,Rotorua
 1829465,2025,Reeves Avenue,Papatoetoe,Auckland
 1807578,3214,Reeves Close,Fairview Downs,Hamilton
@@ -1709,6 +1715,7 @@ road_id,postcode,name,locality,city
 1796484,3992,Reremai Street,Manunui,Taumarunui
 1830258,2103,Reremanu Place,Weymouth,Auckland
 1840561,4610,Reremoana Close,Hawera,
+3085969,2577,Rerenga Hioi Lane,Drury,Drury
 3080986,1041,Rerenga Lane,Mount Roskill,Auckland
 1810020,4376,Rerenga Street,Mokau,
 3077882,0830,Rere Place,Parakai,Helensville
@@ -2254,6 +2261,7 @@ road_id,postcode,name,locality,city
 3085509,9384,Riggir Crescent,Cromwell,Cromwell
 1842567,3210,Rigg Place,Flagstaff,Hamilton
 1790268,7805,Rigg Street,Blaketown,Greymouth
+3085935,7614,Rig Lane,Rolleston,Rolleston
 1813288,3214,Rigter Place,Enderley,Hamilton
 1795882,3382,Rihia Road,Turangi,
 3083396,0173,Rihi Paea Rise,Ngunguru,Whangarei
@@ -2668,6 +2676,7 @@ road_id,postcode,name,locality,city
 1835819,7410,Riverside Way,Amberley,
 3080798,2585,Riverside Way,Clevedon,
 1840268,3771,Riverside Way,Ngaruawahia,
+3085929,0793,Rivers Landing Close,Coatesville,Coatesville
 1778681,9679,Riverslea Road,Manapouri,
 3080530,9305,Riverslea Road,Wanaka,
 1805112,4122,Riverslea Road North,"Mayfair,Parkvale",Hastings
@@ -2794,6 +2803,7 @@ road_id,postcode,name,locality,city
 1832657,0931,Roberta Crescent,Orewa,
 3019786,8024,Roberta Drive,Somerfield,Christchurch
 3085288,3193,Roberta Lane,Awakeri,Whakatane
+3085939,7608,Robert Alexander Drive,Lincoln,Lincoln
 1828119,2010,Robert Allan Way,Pakuranga Heights,Auckland
 1811040,3771,Robert Avenue,Pukemiro,Ngaruawahia
 3085183,0510,Robert Bruce Place,Waipu,Waipu
@@ -2818,6 +2828,7 @@ road_id,postcode,name,locality,city
 1805421,4930,Robertshawe Crescent,Dannevirke,
 1803141,4108,Robert Shortt Street,Wairoa,
 1828130,2103,Robert Skelton Place,Clendon Park,Auckland
+3086029,2113,Robert Slack Road,Karaka,Papakura
 3025683,,Roberts Line,"Bunnythorpe,Kelvin Grove,Milson",Palmerston North
 3083384,5583,Robertson Close,Manakau,
 1838383,9310,Robertson Court,Cromwell,
@@ -3609,6 +3620,7 @@ road_id,postcode,name,locality,city
 3080583,2676,Rosslands Avenue,Karaka,Papakura
 1791058,7202,Ross Lane,Grovetown,Blenheim
 1820784,0891,Ross Lane,Kumeu,
+3085938,7608,Ross Lane,Lincoln,Lincoln
 1828125,2112,Ross Martin Court,Conifer Grove,Takanini
 1825021,1024,Rossmay Terrace,Mount Eden,Auckland
 1783841,8022,Rossmore Terrace,Cashmere,Christchurch
@@ -4214,6 +4226,7 @@ road_id,postcode,name,locality,city
 1798076,5036,Runanga Grove,Waikanae,
 1812681,3330,Runanga Street,Taupo,
 1825911,1062,Runa Place,Mount Wellington,Auckland
+3086081,2113,Runa Road,Karaka,Papakura
 3073252,0492,Runaruna Road,"Broadwood,Panguru","Kohukohu,Panguru"
 1781636,7903,Runa Terrace,Pleasant Point,
 1817655,5032,Runaway Lane,Paraparaumu,

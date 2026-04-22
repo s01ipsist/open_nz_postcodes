@@ -1395,6 +1395,7 @@ road_id,postcode,name,locality,city
 3049316,7383,Cathedral Road,"Domett,Gore Bay","Cheviot,Domett"
 1783617,8011,Cathedral Square,Christchurch Central,Christchurch
 3083088,0932,Catherine Close,Wainui,
+3085931,7193,Catherine Cove,"Catherine Cove,Cherry Tree Bay,Rangitoto ki te Tonga / D'Urville Island",Marlborough Sounds
 1816735,4310,Catherine Crescent,Moturoa,New Plymouth
 1794749,6037,Catherine Crescent,Paparangi,Wellington
 1811926,3320,Catherine Crescent,Te Aroha,
@@ -2069,6 +2070,7 @@ road_id,postcode,name,locality,city
 1829689,0932,Charlotte Street,Stanmore Bay,Whangaparaoa
 1805367,4203,Charlotte Street,Takapau,
 1789650,7010,Charlotte Street,The Brook,Nelson
+3086049,7700,Charlottes Way,Elgin,Ashburton
 1801758,5032,Charlotte Way,Raumati South,Paraparaumu
 1774204,9024,Charlton Avenue,Mosgiel,
 1825057,1024,Charlton Avenue,Mount Eden,Auckland
@@ -3034,6 +3036,7 @@ road_id,postcode,name,locality,city
 1828794,2102,Claymore Street,Manurewa,Auckland
 1787428,8062,Claymore Street,Woolston,Christchurch
 1822872,0600,Claypit Lane,New Lynn,Auckland
+3085964,2577,Claypit Road,Drury,Drury
 3062954,7095,Clay Road,"Golden Downs,Kikiwa","St. Arnaud,Wakefield"
 1798207,5572,Clay Road,Levin,
 1786393,7972,Clay Road,Pareora West,Timaru
@@ -3509,6 +3512,7 @@ road_id,postcode,name,locality,city
 1775689,9396,Coal Pit Road,Naseby,
 1834986,7977,Coal Pit Road,Waimate,
 3084486,7891,Coal Reserve Road,Millerton,Westport
+3085955,2577,Coalseam Crescent,Drury,Drury
 3046473,9076,Coalstage Road,"Kinmont Park,Saddle Hill","Dunedin,Mosgiel"
 1780476,7673,Coal Street,Coalgate,
 1788031,7830,Coal Street,Reefton,

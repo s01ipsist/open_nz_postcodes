@@ -7,6 +7,7 @@ road_id,postcode,name,locality,city
 1789410,7096,Aaron Road,Golden Downs,Wakefield
 1832934,2016,Aaronville Way,East Tamaki,Auckland
 1828235,2102,Aarts Avenue,Manurewa,Auckland
+3086072,2121,Aarts Avenue,Tuakau,Tuakau
 3050847,0118,Aarts Place,One Tree Point,Whangarei
 3083293,7005,Aata Lane,Mapua,
 3059530,1060,Abattoir Lane,"Mount Wellington,Otahuhu",Auckland
@@ -44,6 +45,7 @@ road_id,postcode,name,locality,city
 1814301,3682,Abbott Road,Waikino,Waihi
 1770135,9018,Abbotts Hill Road,Abbotsford,Dunedin
 1784680,8042,Abbotts Place,Avonhead,Christchurch
+3086050,7700,Abbott Street,Elgin,Ashburton
 1800488,6035,Abbott Street,Ngaio,Wellington
 3053940,7912,Abbott Street,Pareora,
 1802213,4010,Abbott Street,Te Hapara,Gisborne
@@ -539,6 +541,7 @@ road_id,postcode,name,locality,city
 3005301,7071,Airlie Street,Glenduan,Nelson
 3078122,0616,Airmens Lane,Hobsonville,Auckland
 1837793,2022,Airpark Drive,Mangere,Auckland
+3086082,3288,Airpark Drive,Te Kowhai,Hamilton
 3083250,4414,Airport Access Road,Milson,Palmerston North
 1778449,9879,Airport Avenue,Invercargill Airport,Invercargill
 1817156,4373,Airport Drive,"Bell Block,New Plymouth Airport",New Plymouth
@@ -1561,6 +1564,7 @@ road_id,postcode,name,locality,city
 3082926,3118,Anawhata Lane,Papamoa,
 3059324,0772,Anawhata Road,"Anawhata,Piha","Auckland,Piha"
 3083247,0116,Anbrue Lane,Ruakaka,
+3085968,2577,Ancestral Alley,Drury,Drury
 1841682,0230,Anchorage Avenue,Kerikeri,
 1839477,2113,Anchorage Drive,Karaka,Papakura
 1809511,3120,Anchorage Grove,Coastlands,Whakatane
@@ -2161,6 +2165,7 @@ road_id,postcode,name,locality,city
 1837689,3210,Aquila Crescent,Rototuna North,Hamilton
 1800038,3510,Aquila Drive,Whitianga,
 1787075,7400,Aquila Street,Rangiora,
+3085923,0632,Araara Place,Schnapper Rock,Auckland
 3079914,8042,Arabella Crescent,Yaldhurst,Christchurch
 1833115,0920,Arabella Lane,Snells Beach,
 1819634,0200,Arabella Road,Opua,
@@ -2341,6 +2346,7 @@ road_id,postcode,name,locality,city
 1808421,3186,Arawa Road,Pongakawa,
 1814743,3120,Arawa Road,Whakatane,
 3082177,0992,Arawaru Avenue,Wainui,
+3086016,7671,Arawaru Place,Kirwee,Kirwee
 1774961,9013,Arawa Street,"Andersons Bay,Tainui",Dunedin
 1810138,3983,Arawa Street,Aria,
 1807182,3204,Arawa Street,Frankton,Hamilton
@@ -2710,6 +2716,7 @@ road_id,postcode,name,locality,city
 3029914,4410,Aroha Street,"Palmerston North,Takaro",Palmerston North
 1839835,7612,Aroha Street,Pegasus,
 1811908,3320,Aroha View Avenue,Te Aroha,
+3085974,7201,Aroha Way,Yelverton,Blenheim
 3079205,3112,Arohena Court,Ohauiti,Tauranga
 1821031,0920,Arohia Place,Snells Beach,
 3022194,0810,Aro Mato Place,Huapai,Kumeu
@@ -2870,6 +2877,7 @@ road_id,postcode,name,locality,city
 1797569,4822,Aru Street,Tangimoana,
 3085583,7614,Arvedi Way,Rolleston,Rolleston
 1829842,2120,Arvidson Way,Pukekohe,
+3085919,0602,Arvins Close,Glen Eden,Auckland
 3081804,0616,Arvo Lane,Hobsonville,Auckland
 1828222,2013,Arwen Place,East Tamaki,Auckland
 1822050,0630,Asbury Crescent,Campbells Bay,Auckland
@@ -3516,6 +3524,7 @@ road_id,postcode,name,locality,city
 1831297,0602,Avenger Place,Glendene,Auckland
 1825117,1024,Avenham Walk,Mount Eden,Auckland
 1839159,7201,Avening Close,Blenheim,
+3086083,3288,Avenue Approach,Te Kowhai,Hamilton
 1798134,5510,Avenue North Road,Levin,
 1792098,,Avenue Road,Foxton,
 1804068,4112,Avenue Road,Greenmeadows,Napier
@@ -3665,6 +3674,7 @@ road_id,postcode,name,locality,city
 1814124,3577,Awakite,Thames,
 3085058,2113,Awakoopiko Street,Drury,Drury
 3085220,0230,Awa Lane,Kerikeri,Kerikeri
+3086061,0505,Awa Lane,Mangawhai,Mangawhai
 1773581,9272,Awamangu Road,Pukeawa,Balclutha
 3078819,0614,Awamarino Way,Westgate,Auckland
 3057544,4193,Awamate Road,"Frasertown,Wairoa",Wairoa
