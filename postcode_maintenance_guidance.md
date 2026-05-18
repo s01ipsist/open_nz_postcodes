@@ -3,7 +3,7 @@
 Guidance and code snippets useful during review.
 
 - Postcode interpolation (assigning postcode to one road based on the postcode of a nearby road) can lead to small anomalies getting bigger
-- Use QGIS with the included `snapshots/open_nz_post.qgz` project to visually review GIS data.
+- Generate per-postcode PNG snapshots with `python snapshots/render_snapshots.py` (deps: `pip install -r snapshots/requirements.txt`).
 
 ## Review by meshblock
 
