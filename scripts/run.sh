@@ -10,6 +10,9 @@ psql -d open_nz_postcodes -f scripts/setup-postcode-boundaries.sql
 psql -d open_nz_postcodes -f scripts/setup-snapshots.sql
 psql -A -d open_nz_postcodes -f scripts/checks.sql
 
+NEW_ROADS_COUNT=$(psql -At -d open_nz_postcodes -c "SELECT COUNT(*) FROM nz_roads LEFT OUTER JOIN nz_street_postcodes ON (nz_street_postcodes.road_id = nz_roads.road_id) WHERE (nz_street_postcodes.road_id IS NULL) AND full_road_ IS NOT NULL;")
+echo "::notice::New roads to add (see add-new-roads.sql): ${NEW_ROADS_COUNT}"
+
 # optional: simplify topographies to reduce generated shapefile size from 90mb to 2mb
 # psql -d open_nz_postcodes -c "UPDATE postcode_boundaries SET geom = ST_Simplify(geom, 0.001);"
 
