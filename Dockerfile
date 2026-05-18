@@ -1,4 +1,4 @@
-FROM ruby:4.0
+FROM debian:bookworm-slim
 
 RUN apt-get update -qq && \
     apt-get install -y --no-install-recommends \
