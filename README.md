@@ -69,11 +69,6 @@ Where a road is identified as crossing postcode boundaries, the postcode is set 
 
 1. Docker
 
-Optional for snapshot generation:
-
-2. [QGIS](https://www.qgis.org/) (found on MacOS in `brew install qgis`)
-3. `timeout` (found on MacOS in `brew install coreutils`)
-
 ## Koordinates
 
 [Koordinates](https://koordinates.com/) provides the data service used by LINZ and Stats NZ.
@@ -99,20 +94,15 @@ Generate zipped shapefile boundary in release folder. This script includes a pau
 docker compose run --rm app scripts/run_local.sh
 ```
 
-Generate png snapshots per postcode boundary using QGIS.
-
-![Sample QGIS snapshot](images/1041.png)
+Generate png snapshots per postcode boundary. Postgres must be running with the processed data loaded (i.e. after `run_local.sh`).
 
 ```
-cd snapshots && bash qgis_screenshots.sh && cd ..
+pip install -r snapshots/requirements.txt
+python snapshots/render_snapshots.py
 zip -jr release/open_nz_postcode_boundaries_png.zip snapshots/*.png
 ```
 
-The included QGIS project open_nz_post.qgz presents the road network on top of the postcode boundaries filled with a random color seeded by the postcode value
-> Layer Properties - Symbology - Single Symbol - Simple Fill - Fill color
-```
-color_rgb(rand(50, 255, to_int(  attribute( 'postcode') )), rand(100, 255, to_int(  attribute( 'postcode') )), rand(200, 255, to_int(   attribute( 'postcode') )))
-```
+Each PNG shows the focal postcode and its neighbours filled with a seeded random colour from the postcode value, with the road network in black.
 
 ## Maintain
 

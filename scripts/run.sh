@@ -7,7 +7,6 @@ bash scripts/import-geodata.sh
 bash scripts/import-street-postcodes.sh
 psql -d open_nz_postcodes -f scripts/set-postcodes.sql
 psql -d open_nz_postcodes -f scripts/setup-postcode-boundaries.sql
-psql -d open_nz_postcodes -f scripts/setup-snapshots.sql
 psql -A -d open_nz_postcodes -f scripts/checks.sql
 
 NEW_ROADS_COUNT=$(psql -At -d open_nz_postcodes -c "SELECT COUNT(*) FROM nz_roads LEFT OUTER JOIN nz_street_postcodes ON (nz_street_postcodes.road_id = nz_roads.road_id) WHERE (nz_street_postcodes.road_id IS NULL) AND full_road_ IS NOT NULL;")
