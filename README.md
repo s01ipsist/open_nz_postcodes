@@ -96,6 +96,8 @@ docker compose run --rm app scripts/run_local.sh
 
 Generate png snapshots per postcode boundary. Postgres must be running with the processed data loaded (i.e. after `run_local.sh`).
 
+![Sample snapshot of postcode 1041](images/1041.png)
+
 ```
 pip install -r snapshots/requirements.txt
 python snapshots/render_snapshots.py
