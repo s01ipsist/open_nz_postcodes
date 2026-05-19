@@ -6,6 +6,7 @@ RUN apt-get update -qq && \
     ca-certificates \
     lsb-release \
     zip \
+    unzip \
     && \
     install -d /usr/share/postgresql-common/pgdg && \
     curl -o /usr/share/postgresql-common/pgdg/apt.postgresql.org.asc --fail https://www.postgresql.org/media/keys/ACCC4CF8.asc && \
