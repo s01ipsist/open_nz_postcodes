@@ -1,11 +1,8 @@
 import koordinates
-from datetime import datetime, timedelta
-import pytz
+from datetime import datetime, timedelta, timezone
 import sys
 import logging
 from config import DATA_SOURCES
-
-UTC = pytz.UTC
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -14,7 +11,7 @@ def get_client(host, token):
 
 def get_recent_active_exports(client, export_name):
     exports = client.exports.list()
-    now = datetime.now().replace(tzinfo=UTC)
+    now = datetime.now(timezone.utc)
     one_week_ago = now - timedelta(days=7)
 
     return [
