@@ -85,6 +85,12 @@ jobs:
           sudo apt-get update
           sudo apt-get -y install postgis
 
+      - name: Smoke test
+        env:
+          PGHOST: localhost
+          PGUSER: postgres
+        run: bash tests/run.sh
+
       - name: Run processing
         run: bash scripts/run.sh
         env:
