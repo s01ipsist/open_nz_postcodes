@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-echo "-- BEGIN $(date)"
+source "$(dirname "$0")/config.sh"
+
+log "-- BEGIN"
 
 bash scripts/import-geodata.sh
 bash scripts/import-street-postcodes.sh
@@ -31,4 +33,4 @@ mkdir -p release tmp
 pgsql2shp -f "tmp/open_nz_postcode_boundaries" open_nz_postcodes postcode_boundaries
 zip -jr release/open_nz_postcode_boundaries_shp.zip tmp/
 
-echo "-- END $(date)"
+log "-- END"

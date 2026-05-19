@@ -34,16 +34,16 @@ psql -d open_nz_postcodes -c "CREATE EXTENSION postgis;"
 # intermediate .sql file. set -euo pipefail makes the whole step fail if
 # shp2pgsql exits non-zero.
 
-echo "-- Importing nz-addresses"
+log "-- Importing nz-addresses"
 shp2pgsql -D -s 4167:4326 "${path_addresses_1}" nz_addresses \
   | psql -d open_nz_postcodes -q -v ON_ERROR_STOP=1
 
-echo "--  wrangle Chatham Islands"
+log "--  wrangle Chatham Islands"
 psql -d open_nz_postcodes -c "UPDATE nz_addresses SET geom = ST_WrapX(geom, 180, -360) WHERE ST_x(ST_Centroid(geom)) >180;"
 psql -d open_nz_postcodes -c "CREATE INDEX IF NOT EXISTS nz_addresses_geom_idx ON nz_addresses USING gist (geom);"
 
 
-echo "-- Importing nz_roads"
+log "-- Importing nz_roads"
 shp2pgsql -D -s 4167:4326 "${path_roads}" nz_roads \
   | psql -d open_nz_postcodes -q -v ON_ERROR_STOP=1
 psql -d open_nz_postcodes -c "UPDATE nz_roads SET geom = ST_WrapX(geom, 180, -360) WHERE ST_x(ST_Centroid(geom)) >180;"
@@ -51,13 +51,13 @@ psql -d open_nz_postcodes -c "CREATE INDEX IF NOT EXISTS nz_roads_geom_idx ON nz
 psql -d open_nz_postcodes -c "CREATE INDEX IF NOT EXISTS nz_roads_full_road_idx ON nz_roads USING btree (full_road_);"
 
 
-echo "-- Importing nz_localities"
+log "-- Importing nz_localities"
 shp2pgsql -D -s 4167:4326 "${path_suburbs}" nz_localities \
   | psql -d open_nz_postcodes -q -v ON_ERROR_STOP=1
 psql -d open_nz_postcodes -c "CREATE INDEX IF NOT EXISTS nz_localities_geom_idx ON nz_localities USING gist (geom);"
 
 
-echo "-- Importing nz_meshblocks"
+log "-- Importing nz_meshblocks"
 shp2pgsql -D -s 2193:4326 "${path_meshblocks}" nz_meshblocks \
   | psql -d open_nz_postcodes -q -v ON_ERROR_STOP=1
 psql -d open_nz_postcodes -c "CREATE INDEX IF NOT EXISTS nz_meshblocks_geom_idx ON nz_meshblocks USING gist (geom);"

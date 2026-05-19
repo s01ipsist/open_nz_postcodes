@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-echo "-- BEGIN $(date)"
+source "$(dirname "$0")/config.sh"
+
+log "-- BEGIN"
 
 cd /app/scripts/koordinates
 mkdir -p /app/scripts/koordinates/data
@@ -23,4 +25,4 @@ read -n 1 -p "After exports complete... press any key to continue..."
 
 python3 ./export_downloads.py
 
-echo "-- END $(date)"
+log "-- END"
