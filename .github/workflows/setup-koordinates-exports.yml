@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   schedule:
     # LINZ data appears to update weekly on Monday around 13:30 UTC, so set for 6 hrs later
-    - cron: "30 19 * * 1"   # Run weekly at 19:30 on Monday
+    - cron: "30 19 1 * *"   # 19:30 UTC on the 1st of each month
 jobs:
   init-data-export:
     runs-on: ubuntu-24.04

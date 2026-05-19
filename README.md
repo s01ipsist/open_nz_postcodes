@@ -2,9 +2,9 @@
 
 An openly licenced (unofficial) dataset of New Zealand postcodes with geospatial representation as digital boundaries.
 
-Latest boundary shapefiles can be downloaded from "Artifacts" in the latest/top [Workflow Run](https://github.com/s01ipsist/open_nz_postcodes/actions/workflows/process-data.yml).
+Latest boundary shapefile can be downloaded from the [Releases](https://github.com/s01ipsist/open_nz_postcodes/releases) page. Releases older than 36 months are pruned automatically.
 
-Boundary files are generated automatically using latest upstream data weekly via GitHub Actions.
+Boundary files are generated automatically using latest upstream data on the 1st of each month via GitHub Actions.
 
 [![process-data](https://github.com/s01ipsist/open_nz_postcodes/actions/workflows/process-data.yml/badge.svg?event=schedule)](https://github.com/s01ipsist/open_nz_postcodes/actions/workflows/process-data.yml)
 
