@@ -14,7 +14,7 @@ services:
       # POSTGRES_PASSWORD: example
       POSTGRES_HOST_AUTH_METHOD: trust
     volumes:
-      - postgres-data:/var/lib/postgresql/18/docker:cached
+      - postgres-data:/var/lib/postgresql:cached
       - .:/app:delegated
 
   app:
