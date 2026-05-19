@@ -106,6 +106,17 @@ zip -jr release/open_nz_postcode_boundaries_png.zip snapshots/*.png
 
 Each PNG shows the focal postcode and its neighbours filled with a seeded random colour from the postcode value, with the road network in black.
 
+## Test
+
+A smoke test runs the postcode-assignment SQL against a small committed fixture (Great Barrier Island) and checks the pipeline produces the expected boundaries.
+
+```
+docker compose up -d postgres
+bash tests/run.sh
+```
+
+See `tests/README.md` for details.
+
 ## Maintain
 
 New roads are added to LINZ data regularly. Add these into the street_postcodes data set
