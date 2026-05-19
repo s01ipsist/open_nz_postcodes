@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -eof
+set -euo pipefail
 
 # USAGE: docker compose run --rm app scripts/run_local.sh
 

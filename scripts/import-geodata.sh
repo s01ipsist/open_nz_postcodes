@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -eof
+set -euo pipefail
 
 # Datasets come in various coordinate systems
 # transform everything into WGS84 - World Geodetic System 1984

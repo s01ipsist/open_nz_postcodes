@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -eof
+set -euo pipefail
 
 # useful during development after LINZ/Stats data already imported
 # but postcode data or scripts changed
