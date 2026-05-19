@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -eof
+set -euo pipefail
 
 echo "-- Importing nz_street_postcodes"
 psql -d open_nz_postcodes -c "CREATE TABLE IF NOT EXISTS nz_street_postcodes (road_id integer, postcode text, name text, locality text, city text);"

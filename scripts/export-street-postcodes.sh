@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -eof
+set -euo pipefail
 
 # Export current street postcodes
 # https://www.postgresql.org/docs/current/sql-copy.html

@@ -1,5 +1,5 @@
 #!/bin/bash
-set -eof
+set -euo pipefail
 
 mkdir -p data
 

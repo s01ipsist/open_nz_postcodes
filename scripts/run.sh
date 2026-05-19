@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -eof
+set -euo pipefail
 
 echo "-- BEGIN $(date)"
 
