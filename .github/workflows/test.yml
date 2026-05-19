@@ -1,0 +1,35 @@
+name: test
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  smoke-test:
+    runs-on: ubuntu-24.04
+
+    services:
+      postgres:
+        image: postgis/postgis:18-3.6
+        env:
+          POSTGRES_HOST_AUTH_METHOD: trust
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+        ports:
+          - 5432:5432
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Install postgresql client
+        run: sudo apt-get update && sudo apt-get -y install postgresql-client
+
+      - name: Run smoke test
+        env:
+          PGHOST: localhost
+          PGUSER: postgres
+        run: bash tests/run.sh
