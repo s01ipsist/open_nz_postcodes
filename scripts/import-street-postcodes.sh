@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-echo "-- Importing nz_street_postcodes"
+source "$(dirname "$0")/config.sh"
+
+log "-- Importing nz_street_postcodes"
 psql -d open_nz_postcodes -c "CREATE TABLE IF NOT EXISTS nz_street_postcodes (road_id integer, postcode text, name text, locality text, city text);"
 psql -d open_nz_postcodes -c "TRUNCATE TABLE nz_street_postcodes;"
 for x in {0,{a..z}}

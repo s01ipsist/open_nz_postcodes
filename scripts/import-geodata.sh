@@ -13,10 +13,6 @@ source "$(dirname "$0")/config.sh"
 # Data sources: refer scripts/koordinates/setup_downloads.py
 # These must be downloaded and extracted into the data folder
 
-# ensure clean data folder structure
-mkdir -p data/tmp
-rm -f data/tmp/*.sql
-
 path_addresses_1=data/nz-addresses/nz-addresses.shp
 path_roads=data/nz-addresses-roads/nz-addresses-roads.shp
 path_suburbs=data/nz-suburbs-and-localities/nz-suburbs-and-localities.shp
@@ -33,36 +29,37 @@ dropdb --if-exists open_nz_postcodes
 createdb open_nz_postcodes
 psql -d open_nz_postcodes -c "CREATE EXTENSION postgis;"
 
-echo "-- Transforming shapefile: nz-addresses"
-shp2pgsql -d -s 4167:4326 "${path_addresses_1}" nz_addresses > data/tmp/nz_addresses.sql
-echo "-- Importing nz-addresses"
-psql -d open_nz_postcodes -q -f data/tmp/nz_addresses.sql
+# shp2pgsql -D pipes the COPY dump format directly into psql — much faster
+# than the default INSERT-per-row format, and avoids writing a multi-GB
+# intermediate .sql file. set -euo pipefail makes the whole step fail if
+# shp2pgsql exits non-zero.
 
-echo "--  wrangle Chatham Islands"
+log "-- Importing nz-addresses"
+shp2pgsql -D -s 4167:4326 "${path_addresses_1}" nz_addresses \
+  | psql -d open_nz_postcodes -q -v ON_ERROR_STOP=1
+
+log "--  wrangle Chatham Islands"
 psql -d open_nz_postcodes -c "UPDATE nz_addresses SET geom = ST_WrapX(geom, 180, -360) WHERE ST_x(ST_Centroid(geom)) >180;"
 psql -d open_nz_postcodes -c "CREATE INDEX IF NOT EXISTS nz_addresses_geom_idx ON nz_addresses USING gist (geom);"
 
 
-echo "-- Transforming shapefile: nz_roads"
-shp2pgsql -d -s 4167:4326 "${path_roads}" nz_roads > data/tmp/nz_roads.sql
-echo "-- Importing nz_roads"
-psql -d open_nz_postcodes -q -f data/tmp/nz_roads.sql
+log "-- Importing nz_roads"
+shp2pgsql -D -s 4167:4326 "${path_roads}" nz_roads \
+  | psql -d open_nz_postcodes -q -v ON_ERROR_STOP=1
 psql -d open_nz_postcodes -c "UPDATE nz_roads SET geom = ST_WrapX(geom, 180, -360) WHERE ST_x(ST_Centroid(geom)) >180;"
 psql -d open_nz_postcodes -c "CREATE INDEX IF NOT EXISTS nz_roads_geom_idx ON nz_roads USING gist (geom);"
 psql -d open_nz_postcodes -c "CREATE INDEX IF NOT EXISTS nz_roads_full_road_idx ON nz_roads USING btree (full_road_);"
 
 
-echo "-- Transforming shapefile: nz_localities"
-shp2pgsql -d -s 4167:4326 "${path_suburbs}" nz_localities > data/tmp/nz_localities.sql
-echo "-- Importing nz_localities"
-psql -d open_nz_postcodes -q -f data/tmp/nz_localities.sql
+log "-- Importing nz_localities"
+shp2pgsql -D -s 4167:4326 "${path_suburbs}" nz_localities \
+  | psql -d open_nz_postcodes -q -v ON_ERROR_STOP=1
 psql -d open_nz_postcodes -c "CREATE INDEX IF NOT EXISTS nz_localities_geom_idx ON nz_localities USING gist (geom);"
 
 
-echo "-- Transforming shapefile: nz_meshblocks"
-shp2pgsql -d -s 2193:4326 "${path_meshblocks}" nz_meshblocks > data/tmp/nz_meshblocks.sql
-echo "-- Importing nz_meshblocks"
-psql -d open_nz_postcodes -q -f data/tmp/nz_meshblocks.sql
+log "-- Importing nz_meshblocks"
+shp2pgsql -D -s 2193:4326 "${path_meshblocks}" nz_meshblocks \
+  | psql -d open_nz_postcodes -q -v ON_ERROR_STOP=1
 psql -d open_nz_postcodes -c "CREATE INDEX IF NOT EXISTS nz_meshblocks_geom_idx ON nz_meshblocks USING gist (geom);"
 
 # Alter tables for processing to add fields for completion
