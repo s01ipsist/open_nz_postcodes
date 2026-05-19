@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+source "$(dirname "$0")/config.sh"
+
 # Datasets come in various coordinate systems
 # transform everything into WGS84 - World Geodetic System 1984
 # Coordinate systems used:
@@ -18,7 +20,7 @@ rm -f data/tmp/*.sql
 path_addresses_1=data/nz-addresses/nz-addresses.shp
 path_roads=data/nz-addresses-roads/nz-addresses-roads.shp
 path_suburbs=data/nz-suburbs-and-localities/nz-suburbs-and-localities.shp
-path_meshblocks=data/meshblock-2026.shp
+path_meshblocks=data/meshblock-${YEAR}.shp
 
 # check that data assets are in place
 for x in ${!path_@}; do
