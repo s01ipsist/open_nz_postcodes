@@ -674,6 +674,7 @@ road_id,postcode,name,locality,city
 3083650,4999,Latha Grove,Woodville,
 1828272,2010,Latham Avenue,Pakuranga,Auckland
 1807362,3204,Latham Court,Frankton,Hamilton
+3086110,3187,Latham Drive,Papamoa,Papamoa
 1840124,9710,Latham Lane,East Gore,Gore
 1776120,9771,Latham Road,McNab,Gore
 1792880,5013,Latham Road,York Bay,Lower Hutt
@@ -1232,6 +1233,7 @@ road_id,postcode,name,locality,city
 1779648,7332,Leonard Street,Waiau,
 1782261,7924,Leonard Street,Waimate,
 1827576,2123,Leonard Street,Waiuku,
+3086130,3179,Leonard Way,Minden,Minden
 1794779,6037,Leona Way,Paparangi,Wellington
 1824993,1025,Leone Terrace,Mount Albert,Auckland
 1807370,3204,Leong Avenue,Dinsdale,Hamilton
@@ -2722,6 +2724,7 @@ road_id,postcode,name,locality,city
 1774323,9593,Lowery Road,Waitahuna West,Lawrence
 3057185,7775,Lowerys Road,"Tinwald,Winslow",Ashburton
 1773400,9291,Lowery Street,Milton,
+3086175,4810,Lowes Place,Ashhurst,Ashhurst
 1795130,5810,Lowes Place,Solway,Masterton
 1787885,7892,Lowes Road,Charleston,Cape Foulwind
 1786371,7778,Lowes Road,Maronan,Ashburton

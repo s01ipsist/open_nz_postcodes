@@ -84,6 +84,7 @@ road_id,postcode,name,locality,city
 1840214,3910,Saint Andrews Court,Te Kuiti,
 1832853,0600,Saintly Lane,Avondale,Auckland
 1836646,2105,Saint Maroun Rise,The Gardens,Auckland
+3086150,7282,Saint Omer Bay,"Kenepuru Sound,Saint Omer,Saint Omer Bay",Marlborough Sounds
 1839623,9779,Saint Patricks Road,St Patricks,Balfour
 1814252,3620,Saint Patricks Row,Whangamata,
 3001448,9893,Saint Ronans Road,"Edendale,Kamahi,Morton Mains","Edendale,Invercargill,Wyndham"
@@ -227,6 +228,7 @@ road_id,postcode,name,locality,city
 1811279,3781,Sampson Road,Waerenga,Te Kauwhata
 1810954,3720,Sampson Street,Ngaruawahia,
 3079781,0310,Sampsons Way,Dargaville,
+3086148,7282,Sams Bay,"Arapaoa Island,Queen Charlotte Sound / Totaranui",Marlborough Sounds
 1775060,9018,Samson Road,Concord,Dunedin
 1806812,3682,Samson Road,Waihi,
 1770890,9320,Samson Street,Alexandra,
@@ -2463,6 +2465,7 @@ road_id,postcode,name,locality,city
 1791282,7210,Simpson Street,Seddon,
 1814588,4397,Simpson Street,Tahora,Stratford
 1835088,4581,Simpson Street,Turakina,Marton
+3086139,3281,Simpson Way,Horsham Downs,Hamilton
 1776905,9877,Sim Road,"Awarua Wetlands,Mokotua",Invercargill
 1776906,9893,Sim Road,Edendale,
 3060581,9682,Sim Road,"Happy Valley,Pukemaori","Otautau,Tuatapere"
@@ -2872,6 +2875,7 @@ road_id,postcode,name,locality,city
 1951436,0932,Snake Gully,Red Beach,
 1799700,4474,Snake Gully,Shannon,
 1826485,0185,Snake Hill Road,Te Kamo,Whangarei
+3086152,7282,Snake Point,"Queen Charlotte Sound / Totaranui,Snake Point",Marlborough Sounds
 3080656,8025,Snapdragon Lane,Wigram,Christchurch
 3085174,3114,Snapper Crescent,Omokoroa,Omokoroa
 3085650,0505,Snapper Lane,Mangawhai Heads,Mangawhai
@@ -3153,6 +3157,7 @@ road_id,postcode,name,locality,city
 1839905,9600,South Arm Drive,Te Anau,
 1821125,0871,South Avenue,Kaukapakapa,
 1821117,0930,South Avenue,Manly,Whangaparaoa
+3086143,7193,South Bay East,South East Bay,Marlborough Sounds
 1791433,7300,South Bay Parade,"Kaikoura,South Bay",Kaikoura
 3019698,5022,South Beach Access Road,Titahi Bay,Porirua
 1792364,5026,South Beach Road,Plimmerton,Porirua
@@ -3400,6 +3405,7 @@ road_id,postcode,name,locality,city
 1812187,3420,Spence Street,Tokoroa,
 3081860,3288,Spence Way,Horotiu,Hamilton
 1794462,6037,Spenmoor Street,Newlands,Wellington
+3086153,7282,Spenser Bay,"Queen Charlotte Sound / Totaranui,Snake Point",Marlborough Sounds
 1807664,3214,Spenser Road,Enderley,Hamilton
 1775246,9220,Spenser Street,Milton,
 1838964,5512,Speranza Avenue,Otaki,
@@ -3642,6 +3648,7 @@ road_id,postcode,name,locality,city
 1813884,3112,Stableford Drive,Pyes Pa,Tauranga
 1803414,8053,Stableford Green,Burnside,Christchurch
 1840652,3283,Stableford Lane,Tamahere,Hamilton
+3086165,7400,Stableford Road,Rangiora,Rangiora
 1823757,1010,Stable Lane,Eden Terrace,Auckland
 1813500,3200,Stable Lane,Nawton,Hamilton
 1802590,4195,Stable Road,Tuai,Wairoa
@@ -3825,6 +3832,7 @@ road_id,postcode,name,locality,city
 1789632,7010,Stanley Crescent,"Beachville,Stepneyville",Nelson
 1776093,9777,Stanley Downs Road,Otama,Gore
 1813687,3010,Stanley Drive,Lynmore,Rotorua
+3086091,0582,Stanley Grove,Waipu,Waipu
 1779432,7520,Stanley Place,Akaroa,
 1797412,3122,Stanley Place,Opotiki,
 1821826,0624,Stanley Point Road,Stanley Point,Auckland
@@ -4246,6 +4254,7 @@ road_id,postcode,name,locality,city
 1811972,3410,Station Street,Tirau,
 1805472,4920,Station Street,Woodville,
 3012159,9372,Station Valley Road,Glenorchy,
+3086109,7676,Status Way,Hornby South,Christchurch
 1821824,0624,St Aubyn Street,Devonport,Auckland
 3036910,4310,St Aubyn Street,"Lynmouth,Moturoa,New Plymouth",New Plymouth
 1805104,4122,St Aubyn Street East,"Hastings,Parkvale",Hastings

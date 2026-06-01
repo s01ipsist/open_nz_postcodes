@@ -39,6 +39,7 @@ road_id,postcode,name,locality,city
 1776782,9876,MacAdam Road,Grove Bush,Invercargill
 3023052,9794,MacAle Road,Longridge North,Riversdale
 1778482,9892,MacAle Road,Mokoreta,Wyndham
+3086169,7282,Macalister Cove,"Blackwood Bay,Macalister Cove",Marlborough Sounds
 1799795,6022,MacAlister Place,Miramar,Wellington
 1833629,9014,Macandrew Bay School Road,Macandrew Bay,Dunedin
 1851175,9305,MacAndrew Lane,Wanaka,
@@ -848,6 +849,7 @@ road_id,postcode,name,locality,city
 3021678,4598,Makino Road,Hurleyville,Patea
 1799009,4793,Makino Road,Taoroa Junction,Taihape
 1833794,4674,Makino Valley Road,"Ararata,Maata","Eltham,Hawera"
+3086138,3771,Makirangi Drive,Ohinewai,Huntly
 1791962,4789,Makirikiri Road,"Crofton,Marton,Turakina",Marton
 1804697,4930,Makirikiri Road,Dannevirke,
 1797177,4575,Makirikiri Valley Road,Upokongaro,
@@ -2621,6 +2623,7 @@ road_id,postcode,name,locality,city
 1773955,9532,Maryport Street,Lawrence,
 1822248,0622,Mary Poynton Crescent,Takapuna,Auckland
 1806303,3620,Mary Road,Whangamata,
+3086142,7282,Marys Bay,"Homewood,Marys Bay",Marlborough Sounds
 1777035,9779,Mary Street,Balfour,
 1772734,9018,Mary Street,Concord,Dunedin
 1807428,3204,Mary Street,Frankton,Hamilton
@@ -3378,6 +3381,7 @@ road_id,postcode,name,locality,city
 1830681,0230,Mawson Avenue,Waipapa,
 1800223,5010,Mawson Street,Waiwhetu,Lower Hutt
 1811383,3781,Mawston Road,Waerenga,Te Kauwhata
+3086098,3288,Max Clear Road,Te Kowhai,Hamilton
 1825572,1051,Maxfield Place,Epsom,Auckland
 1809103,3110,Maxine Place,Matua,Tauranga
 1823730,1071,Maxine Place,Saint Heliers,Auckland
@@ -5161,6 +5165,7 @@ road_id,postcode,name,locality,city
 1828635,2022,Mikasa Place,Mangere,Auckland
 3029137,9874,Mika Way,Lorneville,Invercargill
 3078064,3493,Mike Smith Drive,Cambridge,
+3086146,8051,Mikimiki Lane,Casebrook,Christchurch
 3033323,5881,Mikimiki Road,Mikimiki,Opaki
 3042827,3393,Mikkelsen Road,"Te Aroha,Te Aroha West,Waihou",Te Aroha
 2005280,2022,Mikoikoi Crescent,Mangere Bridge,Auckland
@@ -5504,6 +5509,7 @@ road_id,postcode,name,locality,city
 1808723,3119,Milsom Place,Te Puke,
 1833027,2110,Milson Drive,Papakura,
 3045651,,Milson Line,"Bunnythorpe,Milson,Newbury,Roslyn","Feilding,Palmerston North"
+3086164,7282,Milton Bay,"Bay Of Many Coves,Milton Bay",Marlborough Sounds
 1839097,7614,Milton Court,Rolleston,
 1810444,3010,Milton Grove,Owhata,Rotorua
 3072632,,Milton Highway,"Balclutha,Crichton,Lovells Flat,Milton,Stony Creek","Balclutha,Milton"
@@ -5656,6 +5662,7 @@ road_id,postcode,name,locality,city
 1789438,7095,Miroku Road,Golden Downs,Wakefield
 1835849,7300,Miromiro Drive,Kaikoura,
 3081781,2579,Miromiro Lane,Ramarama,Drury
+3086104,3800,Miromiro Lane,Te Awamutu,Te Awamutu
 1792946,5010,Miromiro Road,Normandale,Lower Hutt
 3080142,8042,Miromiro Street,Broomfield,Christchurch
 1793216,0632,Miromiro Street,Greenhithe,Auckland
@@ -5728,6 +5735,7 @@ road_id,postcode,name,locality,city
 3034618,2682,Misa Road,"Otaua,Waiuku",
 1839871,7612,Miskell Street,Pegasus,
 1799079,4720,Missel Street,Taihape,
+3086161,7281,Missionary Bay,"Missionary Bay,Onapua Bay",Picton
 1827122,2681,Mission Bush Road,Glenbrook,
 1774414,9014,Mission Cove,Company Bay,Dunedin
 3083882,7472,Mission Downs Lane,Loburn,
@@ -6437,6 +6445,7 @@ road_id,postcode,name,locality,city
 1808816,3116,Moorea Place,Mount Maunganui,
 1800885,4501,Moore Avenue,"Gonville,Tawhero",Whanganui
 3043157,4110,Moore Avenue,Maraenui,Napier
+3086118,7271,Moore Avenue,Wairau Valley,Wairau Valley
 1795350,5713,Moore Crescent,Carterton,
 1806343,3592,Moore Crescent,Opito Bay,Whitianga
 1794826,6037,Moorefield Road,Johnsonville,Wellington
@@ -7204,6 +7213,7 @@ road_id,postcode,name,locality,city
 1812596,3382,Mua Street,Tauranga Taupo,Turangi
 3045541,5571,Muaupoko Street,Hokio Beach,Levin
 1787134,7781,Muckles Road,Dorie,
+3086144,7178,Mud Bay,"Mud Bay,Pelorus Sound / Te Hoiere,Pinohia",Havelock
 3078154,3173,Muddle Lane,Pyes Pa,Tauranga
 1771310,9377,Muddy Creek Road,"Drybread,Lauder",Omakau
 1793968,6021,Mudges Terrace,Newtown,Wellington

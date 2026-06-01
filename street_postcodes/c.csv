@@ -316,6 +316,7 @@ road_id,postcode,name,locality,city
 3037559,6011,Cambridge Terrace,"Mount Victoria,Te Aro",Wellington
 1829491,2025,Cambridge Terrace,Papatoetoe,Auckland
 1805304,4112,Cambridge Terrace,Taradale,Napier
+3086115,9400,Cambrook Place,Oamaru North,Oamaru
 3049100,2402,Camburn Court,Pokeno,
 3080779,9022,Camden Grove,Maia,Dunedin
 1828465,2025,Camden Place,Papatoetoe,Auckland
@@ -430,6 +431,7 @@ road_id,postcode,name,locality,city
 2016866,8052,Campana Lane,St Albans,Christchurch
 1828463,2025,Campana Road,Wiri,Auckland
 3077603,7020,Campari Drive,Richmond,
+3086147,7282,Camp Bay,"Camp Bay,Punga Cove",Marlborough Sounds
 3040015,8972,Camp Bay Road,"Port Levy,Purau",Diamond Harbour
 1783590,7971,Campbell and Forrests Road,Otaio,Saint Andrews
 1796225,5032,Campbell Avenue,Paraparaumu,
@@ -2161,6 +2163,7 @@ road_id,postcode,name,locality,city
 3002983,7676,Chattertons Road,"McLeans Island,Templeton",Christchurch
 1788069,7830,Chattockville Road,Reefton,
 3034089,9393,Chatto Creek-Springvale Road,"Chatto Creek,Springvale",Alexandra
+3086162,7282,Chaucer Bay,"Aratawa Bay,Bay Of Many Coves,Bay of Many Coves / Miritu Bay,Chaucer Bay",Marlborough Sounds
 1788451,7011,Chaucer Lane,Stoke,Nelson
 1824641,0600,Chaucer Place,Blockhouse Bay,Auckland
 1810815,3010,Chaucer Place,Owhata,Rotorua
@@ -3651,6 +3654,7 @@ road_id,postcode,name,locality,city
 1816808,9371,Cockerell Lane,Lower Shotover,Queenstown
 1775571,9011,Cockerell Street,Brockville,Dunedin
 1827996,2014,Cockle Bay Road,Cockle Bay,Auckland
+3086151,7282,Cockle Cove,"Bay Of Many Coves,Bay of Many Coves / Miritu Bay,Cockle Cove,Milton Bay",Marlborough Sounds
 1787154,8083,Cockle Lane,Waimairi Beach,Christchurch
 1821633,0993,Cockle Place,Stillwater,Silverdale
 3039308,9591,Cockleshell Road,"Craigellachie,Evans Flat",Lawrence
@@ -5418,6 +5422,7 @@ road_id,postcode,name,locality,city
 1790520,7881,Cropp Road,Kokatahi,
 3079534,9371,Crop Street,Jacks Point,Queenstown
 3082570,7614,Crosado Place,Rolleston,
+3086119,7614,Crosbie Lane,Rolleston,Rolleston
 1827407,2120,Crosbie Road,Pukekohe,
 1777150,9884,Crosbie Road,Waikawa Valley,Tokanui
 1808341,3177,Crosby Lane,Tahawai,
