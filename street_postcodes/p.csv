@@ -7,6 +7,7 @@ road_id,postcode,name,locality,city
 3082387,2123,Paapaka Way,Waiuku,
 3084183,3118,Paapori Close,Papamoa Beach,Papamoa
 3080833,3710,Pa Ariki Road,Te Kauwhata,
+3086102,3495,Paa Road,Leamington,Cambridge
 3084122,3288,Paataka Lane,Horotiu,Hamilton
 1783774,8025,Pablo Place,Hoon Hay,Christchurch
 1789354,7095,Pab Road,Belgrove,Wakefield
@@ -67,6 +68,7 @@ road_id,postcode,name,locality,city
 1824426,1072,Paddington Street,Glen Innes,Auckland
 1783776,8052,Paddington Street,Northcote,Christchurch
 3080284,2120,Paddock Lane,Pukekohe,
+3086137,9371,Paddock Lane,Speargrass Flat,Queenstown
 1790715,7882,Paddock Road,Blue Spur,Hokitika
 3082974,4470,Paddon Place,Kelvin Grove,Palmerston North
 1778495,9874,Paddon Road,Branxholme,Invercargill
@@ -2473,6 +2475,7 @@ road_id,postcode,name,locality,city
 1797463,4476,Pickering Street,Awahuri,Palmerston North
 1794003,6035,Pickering Street,Kaiwharawhara,Wellington
 1802256,4010,Pickering Street,Outer Kaiti,Gisborne
+3086120,3710,Pickering Street,Te Kauwhata,Te Kauwhata
 1792318,5024,Picketboat Lane,Whitby,Porirua
 1824951,1025,Pickett Avenue,Sandringham,Auckland
 1811693,3300,Pickett Place,Morrinsville,
@@ -3476,6 +3479,7 @@ road_id,postcode,name,locality,city
 1793999,6035,Poona Street,Khandallah,Wellington
 1778123,9600,Pop Andrew Drive,Te Anau,
 1838717,3118,Popata Close,Papamoa Beach,Papamoa
+3086163,7282,Pope Bay,"Bay Of Many Coves,Chaucer Bay,Pope Bay",Marlborough Sounds
 1791001,7201,Pope Crescent,Witherlea,Blenheim
 3034498,9774,Pope Road,"Croydon Bush,Upper Charlton",Gore
 1790161,7805,Pope Road,Greymouth,
@@ -3746,6 +3750,7 @@ road_id,postcode,name,locality,city
 3035041,7891,Pottingers Road,Waimangaroa,Westport
 1772699,9018,Pottinger Street,Green Island,Dunedin
 1797126,3122,Potts Avenue,Opotiki,
+3086095,5036,Potts Lane,Otaihanga,Paraparaumu
 3053809,5022,Potts Lane,Titahi Bay,Porirua
 1774119,9775,Potts Road,Glenkenich,Gore
 1789436,7095,Potts Road,Golden Downs,Wakefield

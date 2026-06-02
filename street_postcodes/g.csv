@@ -22,6 +22,7 @@ road_id,postcode,name,locality,city
 1822980,0612,Gaede Terrace,Sunnyvale,Auckland
 1792155,5024,Gaff Place,Whitby,Porirua
 3081927,4130,Gage Lane,Havelock North,
+3086114,7805,Gage Lane,Paroa,Greymouth
 1794947,6037,Gahagan Way,Newlands,Wellington
 1831193,0792,Gails Drive,Okura,Auckland
 1818030,4310,Gaine Street,New Plymouth,
@@ -379,6 +380,7 @@ road_id,postcode,name,locality,city
 1796152,3197,Gaskill Road,Toatoa,Opotiki
 1840709,3197,Gaskill Road East,Toatoa,Opotiki
 1803536,4102,Gaskin Place,Haumoana,
+3086096,3288,Gas Lane,Te Kowhai,Hamilton
 1808142,3173,Gasson Lane,Pyes Pa,Tauranga
 1783634,,Gasson Street,Sydenham,Christchurch
 1817799,4310,Gasworks Lane,New Plymouth,
@@ -2622,6 +2624,7 @@ road_id,postcode,name,locality,city
 1831456,1072,Greenway Place,Glen Innes,Auckland
 1832570,0930,Greenway Rise,Gulf Harbour,Whangaparaoa
 1830657,0573,Greenway Road,Kaiwaka,
+3086167,7400,Greenway Street,Rangiora,Rangiora
 3083405,4410,Greenwich Grove,Fitzherbert,Palmerston North
 1800106,5019,Greenwich Grove,Stokes Valley,Lower Hutt
 1814047,3210,Greenwich Place,Rototuna,Hamilton
@@ -2759,6 +2762,7 @@ road_id,postcode,name,locality,city
 1819668,0200,Greys Lane,Paihia,
 1779787,7385,Greys Road,MacDonald Downs,Hawarden
 1784601,8042,Greystoke Lane,Avonhead,Christchurch
+3086158,8025,Greystone Close,Halswell,Christchurch
 1840239,3114,Greystone Place,Omokoroa,
 1790771,7871,Grey Street,Ahaura,
 1801697,4996,Grey Street,Alfredton,Eketahuna
