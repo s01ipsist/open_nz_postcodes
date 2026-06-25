@@ -50,7 +50,7 @@ jobs:
 
       - name: Restore cached download
         id: cache-nz-koordinates
-        uses: actions/cache/restore@v5
+        uses: actions/cache/restore@v6
         with:
           path: |
             scripts/koordinates/data
@@ -65,7 +65,7 @@ jobs:
 
       - name: Save download cache
         id: cache-nz-koordinates-save
-        uses: actions/cache/save@v5
+        uses: actions/cache/save@v6
         with:
           path: |
             scripts/koordinates/data
