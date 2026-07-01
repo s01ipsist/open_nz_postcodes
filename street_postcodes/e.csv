@@ -104,7 +104,9 @@ road_id,postcode,name,locality,city
 3061936,3193,East Bank Road,"Edgecumbe,Thornton","Edgecumbe,Whakatane"
 3061935,3192,East Bank Road,"Kawerau,Putauaki",Kawerau
 1775555,9013,Eastbank Street,Waverley,Dunedin
+3086187,7282,East Bay,"Arapaoa Island,East Bay,Fitzgerald Bay,Onauku Bay,Papakura Bay",Marlborough Sounds
 3045901,7282,East Bay,"Arapaoa Island,Onauku Bay,Otanerau Bay,Te Aroha Bay",Marlborough Sounds
+3086203,7282,East Bay,"East Bay,Lochmara Bay",Marlborough Sounds
 1817251,4320,East Beach,Waitara,
 1803030,4189,East Beach Road,Mohaka,Wairoa
 1780238,7608,East Belt,Lincoln,
@@ -1566,6 +1568,7 @@ road_id,postcode,name,locality,city
 1818583,2679,Estuary View Road,Waiau Pa,Pukekohe
 1815913,3112,Estuary View Road,Welcome Bay,Tauranga
 1832363,2014,Estuary Views,Shelly Park,Auckland
+3086211,5710,Eszter Way,Featherston,Featherston
 1777707,9689,Etalvale Station Road,Dunrobin,Otautau
 1829136,2019,Eterna Place,Clover Park,Auckland
 1814080,3112,Ethan Place,Ohauiti,Tauranga
