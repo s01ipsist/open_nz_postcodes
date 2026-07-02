@@ -2270,6 +2270,7 @@ road_id,postcode,name,locality,city
 1819917,0281,Cherrington Road,Moerewa,
 1841830,7510,Cherry Avenue,Darfield,
 1788452,7011,Cherry Avenue,Enner Glynn,Nelson
+3086184,7282,Cherry Bay,"Cherry Bay,Pukekoikoi",Marlborough Sounds
 1816451,5036,Cherry Bay,Waikanae,
 1842515,9300,Cherry Blossom Avenue,Frankton,Queenstown
 1792935,5010,Cherry Blossom Grove,Maungaraki,Lower Hutt
@@ -2304,6 +2305,7 @@ road_id,postcode,name,locality,city
 1818765,2014,Cherry Road,Bucklands Beach,Auckland
 1808078,3974,Cherry Road,Otorohanga,
 1826421,0176,Cherry Road,Pipiwai,Whangarei
+3086209,7193,Cherry Tree Bay,"Cherry Tree Bay,Rangitoto ki te Tonga / D'Urville Island",Marlborough Sounds
 1812912,3800,Cherry Tree Close,Te Awamutu,
 1808381,8024,Cherrytree Lane,Spreydon,Christchurch
 3083474,0173,Cherry Tree Lane,Glenbervie,Whangarei
@@ -2610,6 +2612,7 @@ road_id,postcode,name,locality,city
 1842899,5032,Christow Court,Paraparaumu,
 1815905,3432,Christy Brown Place,Leamington,Cambridge
 1800718,3381,Christy Road,Kuratau,Turangi
+3086177,7282,Christys Bay,"Christys Bay,Lochmara Bay,Onahau Bay",Marlborough Sounds
 3051226,7777,Christys Road,"Pendarves,Wakanui",Ashburton
 1823014,0612,Chrome Place,Henderson,Auckland
 3081796,3187,Chrysler Street,Papamoa,
@@ -4043,6 +4046,8 @@ road_id,postcode,name,locality,city
 1808846,3116,Commons Avenue,Mount Maunganui,
 1793761,6035,Commons Way,Crofton Downs,Wellington
 3083146,5710,Community Green,Featherston,
+3086212,5710,Community Green East,Featherston,Featherston
+3086213,5710,Community Green West,Featherston,Featherston
 1836170,1026,Community Lane,Avondale,Auckland
 1788607,7175,Community Road,Lower Moutere,
 3057953,9010,Como Street,"Maori Hill,North Dunedin",Dunedin

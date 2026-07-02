@@ -941,6 +941,7 @@ road_id,postcode,name,locality,city
 3085397,4108,Tarata Street,Wairoa,Wairoa
 3082802,9304,Tarata Way,Lower Shotover,Queenstown
 3084100,7614,Tarata Way,Rolleston,
+3086227,7604,Taratitimohi Street,Prebbleton,Prebbleton
 3082827,4779,Taratoa Place,Halcombe,
 1808978,3112,Taratoa Street,Parkvale,Tauranga
 1831474,1072,Taratoa Street,Point England,Auckland
@@ -2425,6 +2426,7 @@ road_id,postcode,name,locality,city
 1795855,3381,Te Rae Street,Kuratau,Turangi
 3008345,3193,Te Rahu Road,"Awakeri,Poroporo",Whakatane
 1815125,,Te Rahu Road,Te Awamutu,
+3086189,3112,Te Rakato Place,Hairini,Tauranga
 1797466,4775,Te Rakehou Road,"Feilding,Halcombe",
 3080088,7608,Te Raki Drive,Lincoln,
 1784880,7395,Terako Terrace,Lyford,Waiau
@@ -3674,6 +3676,7 @@ road_id,postcode,name,locality,city
 1816109,3178,Timon Drive,Tahawai,
 1824539,1026,Timothy Place,Avondale,Auckland
 1786875,8042,Timothy Place,Wigram,Christchurch
+3086218,5710,Timothy Way,Featherston,Featherston
 1839411,4294,Timoti Road,Waimarama,
 3081338,2019,Timo Way,Flat Bush,Auckland
 3036672,7483,Timpendean Road,Waikari,
@@ -3880,6 +3883,7 @@ road_id,postcode,name,locality,city
 1838582,0602,Titch Place,Glen Eden,Auckland
 1777374,9776,Tither Road,Riversdale,
 1814972,3700,Tither Street,Huntly,
+3086191,3112,Titihuia Way,Hairini,Tauranga
 3080544,1062,Titiko Place,Mount Wellington,Auckland
 1934181,0932,Titi Lane,Silverdale,
 3079416,5022,Titipounamu Place,Kenepuru,Porirua
@@ -4135,6 +4139,7 @@ road_id,postcode,name,locality,city
 3040756,9292,Toko Mouth Road,"Milton,Toko Mouth",Milton
 1789206,7197,Tokongawa Drive,Kaiteriteri,Motueka
 1810063,4376,Tokopapa Street,Mokau,
+3086204,4294,Tokorangi Drive,Ocean Beach,Waimarama
 1810687,3010,Tokorangi Pa Road,Whakarewarewa,Rotorua
 1797664,4779,Tokorangi Road,Halcombe,
 3056545,4392,Toko Road,"Huinga,Toko,Tututawa",Stratford

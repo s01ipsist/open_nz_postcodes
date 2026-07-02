@@ -1941,6 +1941,7 @@ road_id,postcode,name,locality,city
 1839233,3592,Benjamin Place,Matarangi,Whitianga
 1808999,3110,Benjamin Place,Matua,Tauranga
 1799657,4010,Benjamin Street,Makaraka,Gisborne
+3086217,5710,Benjamin Way,Featherston,Featherston
 3077579,7610,Benjes Place,Woodend,
 1808673,3119,Ben Keys Street,Te Puke,
 1778747,9672,Ben Loch Lane,Te Anau,
@@ -2325,6 +2326,7 @@ road_id,postcode,name,locality,city
 1793808,6021,Bidwill Street,"Brooklyn,Mount Cook",Wellington
 1781860,7910,Bidwill Street,"Seaview,Timaru",Timaru
 1787799,7692,Biella Place,Ohoka,
+3086235,7282,Big Bay,"Big Bay,Endeavour Inlet",Marlborough Sounds
 1827017,2684,Big Bay Road,Manukau Heads,Awhitu
 3029258,7096,Big Bush Drive,"Glenhope,Tapawera","St. Arnaud,Wakefield"
 1773606,9292,Big Bush Road,"Akatore,Glenledi",Milton
@@ -2589,6 +2591,7 @@ road_id,postcode,name,locality,city
 1779557,7392,Bisphan Road,Balmoral,
 1830782,0405,Bisset Road,Kaikohe,
 1841660,0184,Bisset Road,Opuawhanga,Hikurangi
+3086236,7772,Bisset Street,Newland,Ashburton
 1781458,7986,Bissett Road,Winchester,
 1805249,4110,Bisson Place,Maraenui,Napier
 3084492,7271,Bittern Creek Road,Ruatapu,
@@ -4038,6 +4041,7 @@ road_id,postcode,name,locality,city
 1842119,5032,Brett Ambler Way,Paraparaumu,
 1829440,2104,Brett Avenue,Papatoetoe,Auckland
 3011946,0622,Brett Avenue,Takapuna,Auckland
+3086224,7604,Brett Evans Way,Prebbleton,Prebbleton
 3062694,9371,Brett Lane,Jacks Point,Queenstown
 1828365,2014,Bretton Lane,Howick,Auckland
 1814483,3216,Bretton Terrace,Hillcrest,Hamilton

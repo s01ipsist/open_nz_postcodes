@@ -643,6 +643,7 @@ road_id,postcode,name,locality,city
 1791541,3110,Hansard Place,Bethlehem,Tauranga
 1790760,7881,Hans Bay Road,Kokatahi,
 1815717,3330,Hansen Court,Taupo,
+3086205,4294,Hansen Lane,Ocean Beach,Waimarama
 1813307,3129,Hansen Place,Katikati,
 1839965,2112,Hansen Place,Takanini,Auckland
 1819311,0376,Hansen Road,Aranga,
@@ -1440,6 +1441,7 @@ road_id,postcode,name,locality,city
 3078895,1062,Haumako Place,Otahuhu,Auckland
 1819998,0481,Haumanga Road,Broadwood,Kohukohu
 3085721,0294,Haumaru Lane,Waipapa,Waipapa
+3086233,7604,Haumata Green,Prebbleton,Prebbleton
 1814726,3079,Haumea Road,Galatea,Murupara
 3067745,3375,Haumia Road,"Mangateparu,Morrinsville",Morrinsville
 1793653,6037,Haumia Street,Johnsonville,Wellington
@@ -3501,6 +3503,7 @@ road_id,postcode,name,locality,city
 3029980,1010,Hohipere Street,Eden Terrace,Auckland
 1800410,6021,Hohiria Road,Hataitai,Wellington
 1798151,5036,Hohiria Street,Waikanae Beach,Waikanae
+3086226,7604,Hoho Street,Prebbleton,Prebbleton
 1791937,3994,Hohotaka Road,"Kakahi,Ngapuke","Kakahi,Taumarunui"
 3082118,2110,Hoia Street,Papakura,
 1796647,4696,Hoihenga Creek Road,Orautoha,Raetihi
@@ -3911,6 +3914,7 @@ road_id,postcode,name,locality,city
 1789348,7095,Hooters Road,Belgrove,Wakefield
 3047765,0810,Hooton Drive,Huapai,Kumeu
 1793957,6021,Hoover Street,Brooklyn,Wellington
+3086242,7282,Hopai Bay,"Crail Bay,Hopai Bay",Marlborough Sounds
 1806715,3597,Hopai East Road,Pipiroa,Ngatea
 3051338,7282,Hopai Road,"Crail Bay,Manaroa",Marlborough Sounds
 3069170,3576,Hopai West Road,"Pipiroa,Waitakaruru",Ngatea
@@ -4063,6 +4067,7 @@ road_id,postcode,name,locality,city
 3082109,8042,Horseman Lane,Yaldhurst,Christchurch
 3043167,9482,Horse Range Road,"Bushey,Hillgrove,Palmerston","Moeraki,Palmerston"
 3043061,9472,Horse Road,"Flag Swamp,Goodwood","Palmerston,Waikouaiti"
+3086243,7193,Horseshoe Bay,"Horseshoe Bay,Kauauroa Bay,Pohuenui",Marlborough Sounds
 1777556,9818,Horseshoe Bay Road,"Halfmoon Bay / Oban,Stewart Island/Rakiura",Stewart Island
 3081517,9382,Horseshoe Bend Drive,Albert Town,Wanaka
 1782235,7971,Horseshoe Bend Road,Otaio,Saint Andrews
