@@ -723,6 +723,7 @@ road_id,postcode,name,locality,city
 3084628,0931,Harakeke Lane,Orewa,
 3086113,9023,Harakeke Lane,Sawyers Bay,Dunedin
 3086107,3800,Harakeke Lane,Te Awamutu,Te Awamutu
+3086280,4108,Harakeke Lane,Wairoa,Wairoa
 3083365,3300,Harakeke Parade,Morrinsville,
 3084586,4610,Harakeke Place,Hawera,
 1840191,3225,Harakeke Place,Raglan,
@@ -1655,6 +1656,7 @@ road_id,postcode,name,locality,city
 1837735,7384,Hawkswood Road,Hawkswood,Cheviot
 1786076,7332,Hawkswood Street,Waiau,
 1838903,7201,Hawkwood Place,Witherlea,Blenheim
+3086284,4130,Hawley Crescent,Havelock North,Havelock North
 1771334,9391,Hawley Road,Blackmans,Alexandra
 3083823,8025,Hawley Street,Halswell,Christchurch
 1815275,3434,Haworth Avenue,Cambridge,
@@ -3782,6 +3784,7 @@ road_id,postcode,name,locality,city
 1840263,5712,Homestead Lane,Greytown,
 3072961,8041,Homestead Lane,"Ilam,Upper Riccarton",Christchurch
 2012373,0573,Homestead Lane,Kaiwaka,
+3086246,0614,Homestead Parade,Henderson Valley,Auckland
 1814386,3206,Homestead Place,Glenview,Hamilton
 1813382,3112,Homestead Place,Welcome Bay,Tauranga
 1811211,3710,Homestead Rise,Te Kauwhata,
@@ -3827,6 +3830,7 @@ road_id,postcode,name,locality,city
 1817324,4682,Hone Road,Pihama,Opunake
 1807910,3873,Hone Road,Te Kawa,Te Awamutu
 1807909,3889,Hone Street,Kawhia,
+3086288,4130,Honeycomb Mews,Havelock North,Havelock North
 1841603,4310,Honeyfield Drive,Whalers Gate,New Plymouth
 3003126,0991,Honey House Lane,Great Barrier Island (Aotea Island),
 3078931,7173,Honey Lane,Tasman,Upper Moutere
@@ -3915,6 +3919,7 @@ road_id,postcode,name,locality,city
 3047765,0810,Hooton Drive,Huapai,Kumeu
 1793957,6021,Hoover Street,Brooklyn,Wellington
 3086242,7282,Hopai Bay,"Crail Bay,Hopai Bay",Marlborough Sounds
+3086273,7282,Hopai Bay,"Crail Bay,Hopai Bay",Marlborough Sounds
 1806715,3597,Hopai East Road,Pipiroa,Ngatea
 3051338,7282,Hopai Road,"Crail Bay,Manaroa",Marlborough Sounds
 3069170,3576,Hopai West Road,"Pipiroa,Waitakaruru",Ngatea
@@ -4196,6 +4201,7 @@ road_id,postcode,name,locality,city
 1788183,7011,Hounsell Circle,Tahunanui,Nelson
 3018512,3288,Hounsell Road,Burbush,Hamilton
 1784379,8041,Hounslow Street,Ilam,Christchurch
+3086260,3122,Hou O Te Rangi Lane,Opotiki,Opotiki
 3083261,3720,Houpara Place,Ngaruawahia,
 3082923,3118,Houpara Place,Papamoa,
 3041784,1061,Houpara Street,"One Tree Hill,Onehunga",Auckland

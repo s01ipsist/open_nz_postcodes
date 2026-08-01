@@ -2270,6 +2270,7 @@ road_id,postcode,name,locality,city
 1819917,0281,Cherrington Road,Moerewa,
 1841830,7510,Cherry Avenue,Darfield,
 1788452,7011,Cherry Avenue,Enner Glynn,Nelson
+3086267,7282,Cherry Bay,"Cherry Bay,Moriori Bay,Ruakaka Bay",Marlborough Sounds
 3086184,7282,Cherry Bay,"Cherry Bay,Pukekoikoi",Marlborough Sounds
 1816451,5036,Cherry Bay,Waikanae,
 1842515,9300,Cherry Blossom Avenue,Frankton,Queenstown
@@ -3379,6 +3380,7 @@ road_id,postcode,name,locality,city
 1816709,4310,Clovelly Street,Brooklands,New Plymouth
 3082285,2113,Clover Avenue,Rosehill,Papakura
 3077372,3283,Clover Close,Matangi,Hamilton
+3086287,4130,Clover Crescent,Havelock North,Havelock North
 1832893,0610,Clover Drive,Henderson,Auckland
 1813358,3281,Cloverfield Lane,Horsham Downs,Hamilton
 1829758,0812,Cloverfields Drive,Waimauku,
@@ -4392,6 +4394,7 @@ road_id,postcode,name,locality,city
 1785547,8083,Copperfield Close,Parklands,Christchurch
 3005810,2014,Copperfield Terrace,Mellons Bay,Auckland
 1842386,0630,Copper Lane,Long Bay,Auckland
+3086301,7193,Coppermine Bay,"Coppermine Bay,Rangitoto ki te Tonga / D'Urville Island",Marlborough Sounds
 3081027,7022,Coppermine Crescent,Brightwater,
 1804903,4998,Coppermine Road,Papatawa,Woodville
 1805227,4182,Coppermine Road,Te Haroto,Napier
@@ -4488,6 +4491,7 @@ road_id,postcode,name,locality,city
 1832834,0632,Corinthian Drive,Albany,Auckland
 1810116,3015,Corinth Place,Sunnybrook,Rotorua
 3012852,1072,Corinth Street,"Meadowbank,Remuera",Auckland
+3086249,0614,Cork Close,Henderson Valley,Auckland
 1803026,4108,Corkill Avenue,Wairoa,
 1830433,2110,Corkill Place,Papakura,
 1836315,7400,Cork Lane,Rangiora,

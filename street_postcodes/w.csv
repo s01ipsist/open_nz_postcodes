@@ -350,6 +350,7 @@ road_id,postcode,name,locality,city
 3016713,3073,Waikokomuka Road,"Kaingaroa Forest,Waiotapu","Murupara,Reporoa"
 1803181,4198,Waikokopu Road,Nuhaka,
 3080270,1010,Waikokota Lane,Auckland Central,Auckland
+3086262,3295,Waikokowai Lane,Raglan,Raglan
 3035595,3771,Waikokowai Road,"Huntly,Rotongaro,Rotowaro,Waikokowai",Huntly
 3078738,0600,Waikomiti Street,New Lynn,Auckland
 1803484,4130,Waikonini Place,Havelock North,
@@ -792,6 +793,7 @@ road_id,postcode,name,locality,city
 3080212,4414,Wairaka Place,Milson,Palmerston North
 1792448,5026,Wairaka Road,Pukerua Bay,Porirua
 1809438,3120,Wairaka Road,Whakatane,
+3086271,7282,Wairākau Bay,"Ruakaka Bay,Wairakau Bay",Marlborough Sounds
 3081401,5792,Wairakau Road,Gladstone,
 3037482,3391,Wairakau Road,"Manawaru,Te Aroha West","Manawaru,Te Aroha"
 1837747,0479,Wairakau Road,Totara North,Kaeo
@@ -1052,6 +1054,7 @@ road_id,postcode,name,locality,city
 3061816,4392,Waitiri Road,"Matemateaonga,Puniwhakau,Tututawa","Eltham,Stratford"
 1815131,3373,Waiti Road,Tahuna,
 1819362,0593,Waiti Road,Tinopai,
+3086306,3330,Waitī Road,Wharewaka,Taupo
 3077732,0932,Waititiro Rise,Stanmore Bay,Whangaparaoa
 1794709,6021,Waitoa Road,Hataitai,Wellington
 1824847,1052,Waitoa Street,Parnell,Auckland
@@ -3654,6 +3657,7 @@ road_id,postcode,name,locality,city
 3027949,7010,Wildman Avenue,"Nelson,Port Nelson",Nelson
 1788709,7120,Wildman Road,"Lower Moutere,Motueka",
 1770349,9483,Wild Ram Road,Green Valley,Palmerston
+3086282,9383,Wildridge Road,Queensberry,Cromwell
 1780657,7675,Wild Road,Rolleston,
 1777428,9875,Wild Road,Tokanui,
 1797318,4702,Wild Street,Feilding,

@@ -449,6 +449,7 @@ road_id,postcode,name,locality,city
 3083456,0630,Taku Close,Long Bay,Auckland
 1793345,5012,Taku Matenga Grove,Korokoro,Lower Hutt
 3083019,3206,Takurua Rise,Peacocke,Hamilton
+3086302,3330,Takurua Road,Wharewaka,Taupo
 2005736,0931,Takurua Terrace,Orewa,
 1790086,7872,Taku Street,Moana,
 1829350,2012,Takutai Avenue,"Bucklands Beach,Half Moon Bay",Auckland
@@ -728,6 +729,7 @@ road_id,postcode,name,locality,city
 1808980,3112,Tanner Street,Tauranga South,Tauranga
 1786612,8023,Tanner Street,Woolston,Christchurch
 1803856,4112,Tannery Road,Meeanee,Napier
+3086254,0614,Tannin Way,Henderson Valley,Auckland
 1829369,2024,Tannock Place,Mangere East,Auckland
 1823365,0602,Tanoa Place,Glendene,Auckland
 3061138,0583,Tanoa Road,Maungaturoto,
@@ -1284,6 +1286,7 @@ road_id,postcode,name,locality,city
 1820077,0492,Tautoro Road,Panguru,
 2005737,0931,Tautoru Avenue,Orewa,
 3084608,7183,Tautoru Lane,Pohara,Takaka
+3086307,3330,Tautoru Road,Wharewaka,Taupo
 1795945,3381,Tautoru Street,Tokaanu,Turangi
 1773753,9586,Tautuku Beach Road,Papatowai,Owaka
 1842839,0820,Tauwaka Crescent,Riverhead,
@@ -2439,6 +2442,7 @@ road_id,postcode,name,locality,city
 1817998,4375,Te Rangi Hiroa Place,Urenui,
 1842593,3334,Te Rangikahekeiwaho Place,Turangi,
 1840841,0483,Te Ranginui Place,Karikari Peninsula,
+3086304,3330,Te Ranginui Road,Wharewaka,Taupo
 1842598,3334,Te Rangitautahanga Road,Turangi,
 3025825,0991,Te Rangitawhiri Road,Great Barrier Island (Aotea Island),
 1842600,3334,Te Rangitukehu Street,"Rangipo,Turangi",Turangi
@@ -4797,6 +4801,7 @@ road_id,postcode,name,locality,city
 3078104,2019,Treeline Lane,Flat Bush,Auckland
 3084410,5024,Treenail Lane,Whitby,Porirua
 3011173,9073,Tree Road,Woodside,Outram
+3086255,9371,Treespace Drive,Coronet Peak,Queenstown
 1986418,2112,Treestump Road,Takanini,Auckland
 1788901,7025,Treeton Place,Wakefield,
 1772661,9014,Treetop Drive,Portobello,Dunedin
@@ -4824,6 +4829,7 @@ road_id,postcode,name,locality,city
 1800374,6035,Trelissick Crescent,Ngaio,Wellington
 1780530,7580,Trelissick Loop,Castle Hill,
 1787133,7700,Trellech Place,Allenton,Ashburton
+3086252,0614,Trellis Lane,Henderson Valley,Auckland
 3078401,0616,Treloar Crescent,Hobsonville,Auckland
 1807728,3214,Treloar Street,Fairfield,Hamilton
 1792038,,Tremaine Avenue,"Highbury,Palmerston North,Roslyn,Takaro,Westbrook",Palmerston North
@@ -5455,6 +5461,8 @@ road_id,postcode,name,locality,city
 1815114,4392,Tupia Road,Puniwhakau,Stratford
 1816382,4379,Tupoki Road,Uruti,Urenui
 1817031,4312,Tupoki Street,Glen Avon,New Plymouth
+3086309,3330,Tupuānuku Road,Wharewaka,Taupo
+3086308,3330,Tupuārangi Road,Wharewaka,Taupo
 1841455,4312,Tupuhi Place,Highlands Park,New Plymouth
 3083334,1041,Tupuka Lane,Mount Roskill,Auckland
 3083566,3288,Tupuke Lane,Horotiu,Hamilton

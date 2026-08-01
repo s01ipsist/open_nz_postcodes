@@ -784,6 +784,7 @@ road_id,postcode,name,locality,city
 1838882,4087,Makahuri Place,Hicks Bay,
 3008325,4184,Makahu Road,"Kaweka Forest Park,Puketitiri","Kaweka Forest Park,Napier"
 3023527,3995,Makaikatoa Road,"Matiere,Ohura",
+3086312,0230,Makaira Lane,Waipapa,Waipapa
 1841866,4982,Makairo Road East,Pahiatua,
 1841867,4982,Makairo Track,Pahiatua,
 3017738,5772,Makakahi Road,"Kahutara,Lake Wairarapa",Kahutara
@@ -868,6 +869,7 @@ road_id,postcode,name,locality,city
 1819643,0200,Mako Lane,Paihia,
 3081911,3330,Makomako Crescent,Wharewaka,Taupo
 3079675,0931,Makomako Drive,Orewa,
+3086290,3010,Makomako Drive,Owhata,Rotorua
 1839769,7612,Makomako Lane,Pegasus,
 1797895,4983,Makomako Road,"Ballance,Pahiatua",Pahiatua
 1857305,6021,Makomako Road,Brooklyn,Wellington
@@ -2974,6 +2976,7 @@ road_id,postcode,name,locality,city
 1797115,4582,Matarawa Valley Road,"Fordell,Okoia","Fordell,Whanganui"
 1840808,4120,Matariki Avenue,Frimley,Hastings
 3084184,3400,Matariki Drive,Matamata,
+3086303,3330,Matariki Drive,Wharewaka,Taupo
 1801588,5014,Matariki Grove,Wainuiomata,Lower Hutt
 1839780,7612,Matariki Lane,Pegasus,
 1820308,0483,Matariki Place,Karikari Peninsula,
@@ -6285,6 +6288,7 @@ road_id,postcode,name,locality,city
 1792589,5018,Montana Road,Totara Park,Upper Hutt
 1799681,4414,Montana Way,Milson,Palmerston North
 1839456,2019,Montanez Drive,Flat Bush,Auckland
+3086279,7604,Montauck Street,Prebbleton,Prebbleton
 1818660,0931,Montcalm Close,Orewa,
 1788250,7010,Montcalm Street,Washington Valley,Nelson
 1822013,0630,Montclair Rise,Browns Bay,Auckland
@@ -6627,6 +6631,7 @@ road_id,postcode,name,locality,city
 1790212,7805,Morice Street,Greymouth,
 3081532,0602,Morihana Close,Glen Eden,Auckland
 1797124,4576,Morikau Road,Ranana,Whanganui
+3086268,7282,Moriori Bay,"Moriori Bay,Ruakaka Bay",Marlborough Sounds
 1812403,3330,Morison Street,Nukuhau,Taupo
 1827131,2681,Morley Road,"Glenbrook,Waiuku",
 1803658,4120,Morley Road,Tomoana,Hastings
