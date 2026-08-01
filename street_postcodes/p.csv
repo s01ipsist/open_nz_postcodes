@@ -72,6 +72,7 @@ road_id,postcode,name,locality,city
 1790715,7882,Paddock Road,Blue Spur,Hokitika
 3082974,4470,Paddon Place,Kelvin Grove,Palmerston North
 1778495,9874,Paddon Road,Branxholme,Invercargill
+3086296,7193,Paddy Bay,"Greville Harbour / Wharariki,Paddy Bay,Rangitoto ki te Tonga / D'Urville Island",Marlborough Sounds
 3046065,3782,Paddy Road,"Rangiriri,Whangamarino",Te Kauwhata
 1778201,9793,Paddys Alley Road,Athol,
 1818375,7978,Paddys Lane,Waimate,
@@ -328,6 +329,7 @@ road_id,postcode,name,locality,city
 3078443,0618,Pakoro Close,Hobsonville,Auckland
 1830599,0376,Pakotai Road,Donnellys Crossing,
 1800627,5894,Pakowai Tinui Road,Tinui Valley,Tinui
+3086261,3122,Pākōwhai Crescent,Opotiki,Opotiki
 1802850,4193,Pakowhai Road,Frasertown,Wairoa
 3051494,,Pakowhai Road,"Frimley,Pakowhai,Tomoana","Hastings,Napier"
 1798887,4072,Pakowhai Road,Muriwai,Manutuke
@@ -1913,6 +1915,7 @@ road_id,postcode,name,locality,city
 1820813,0830,Pengelly Place,Parakai,Helensville
 1841985,3495,Pengover Avenue,Leamington,Cambridge
 1833727,2022,Peng Place,Mangere Bridge,Auckland
+3086277,7282,Penguin Bay,"Nydia Bay,Penguin Bay",Marlborough Sounds
 1822060,0630,Penguin Drive,Murrays Bay,Auckland
 3051048,5036,Penguin Grove,Waikanae,
 1792316,5024,Penguin Grove,Waitangirua,Porirua
@@ -2863,6 +2866,7 @@ road_id,postcode,name,locality,city
 3079921,3114,Pip Way,Omokoroa,
 1824661,1072,Pirangi Street,Point England,Auckland
 1799585,4412,Pirani Place,Takaro,Palmerston North
+3086274,7282,Pirapu Bay,"Pirapu Bay,Ruakaka Bay",Marlborough Sounds
 1811870,3391,Piraunui Road,"Manawaru,Te Aroha West","Manawaru,Te Aroha"
 3060290,4588,Piraunui Road,Ngamatapouri,Whanganui
 1803540,4183,Pirau Road,Fernhill,Napier
@@ -3263,6 +3267,7 @@ road_id,postcode,name,locality,city
 1810007,3988,Pohutukawa Place,Taharoa,
 1828062,2018,Pohutukawa Road,Beachlands,Auckland
 3066614,0618,Pohutukawa Road,"Te Turerenga Inlet,Whenuapai",Auckland
+3086305,3330,Pōhutukawa Road,Wharewaka,Taupo
 1801624,,Pohutukawa Street,"Hutt Central,Woburn",Lower Hutt
 3078312,3112,Pohutukawa Way,Gate Pa,Tauranga
 3084673,7282,Pōhutukawa Way,Portage,Marlborough Sounds
@@ -3430,6 +3435,7 @@ road_id,postcode,name,locality,city
 1808433,3186,Pongakawa School Road,Pongakawa,
 1808438,3186,Pongakawa Station Road,Pongakawa,
 1808452,3074,Pongakawa Valley Road,"Lake Rotoma,Okere Falls",Rotorua
+3086300,7193,Ponganui Bay,"Ponganui Bay,Rangitoto ki te Tonga / D'Urville Island",Marlborough Sounds
 1808171,2697,Ponganui Road,Onewhero,
 3081850,4312,Ponga Place,Highlands Park,New Plymouth
 1842893,3118,Ponga Place,Papamoa Beach,Papamoa
