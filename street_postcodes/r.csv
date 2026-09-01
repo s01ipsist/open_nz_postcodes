@@ -6,6 +6,7 @@ road_id,postcode,name,locality,city
 1777514,9891,Rabbidge Road,Glenham,Wyndham
 3029751,9371,Rabbiters Drive,Jacks Point,Queenstown
 1788598,7096,Rabbit Gully Road,Spooners Range,Wakefield
+3086406,9300,Rabbit Run Lane,Kelvin Peninsula,Queenstown
 3083952,9391,Rabbitt Avenue,Clyde,
 3083619,7615,Rabbit Way,Rolleston,
 1813540,3510,Rabbit Way,Whitianga,
@@ -405,6 +406,7 @@ road_id,postcode,name,locality,city
 1789566,7830,Ramsay Street,Blacks Point,Reefton
 1772126,9010,Ramsay Street,"Dalmore,North East Valley",Dunedin
 1807570,3204,Ramsay Street,Frankton,Hamilton
+3086362,9391,Ramsay Way,Alexandra,Alexandra
 1809856,3127,Ramsden Place,Kawerau,
 1803288,4120,Ramsey Crescent,Flaxmere,Hastings
 1803283,4120,Ramsey Place,Flaxmere,Hastings
@@ -432,6 +434,7 @@ road_id,postcode,name,locality,city
 1821747,0626,Ranch Avenue,Beach Haven,Auckland
 1819754,2120,Ranchod Terrace,Pukekohe,
 1832690,2120,Ranch Place,Pukekohe,
+3086386,7678,Ranch Place,Rolleston,Rolleston
 1808779,3116,Ranch Road,Mount Maunganui,
 3084214,9382,Ranch Terrace,Wanaka,
 1803894,4110,Randall Place,Hospital Hill,Napier
@@ -976,6 +979,7 @@ road_id,postcode,name,locality,city
 1821366,0873,Rauhori Road,Makarau,Warkworth
 1812641,3330,Rauhoto Street,Nukuhau,Taupo
 1823331,0604,Rauhuia Crescent,Parau,Auckland
+3086426,2577,Rauika Road,Drury,Drury
 3060685,0118,Rauiri Drive,One Tree Point,Whangarei
 1812642,3332,Raukawa Crescent,Wairakei,Taupo
 1837312,3110,Raukawa Drive,Bethlehem,Tauranga
@@ -1326,6 +1330,7 @@ road_id,postcode,name,locality,city
 1778074,9881,Redpath Road,Orepuki,Riverton/Aparima
 1797223,3197,Redpath Road,Waioeka,Opotiki
 1797825,4994,Redpaths Road,Eketahuna,
+3086345,2019,Red Pine Rise,"Flat Bush,Totara Park",Auckland
 3085973,8025,Red Poppy Lane,Halswell,Christchurch
 1837185,8081,Red Rock Lane,Moncks Bay,Christchurch
 1782403,8024,Redruth Avenue,"Addington,Spreydon",Christchurch
@@ -1519,6 +1524,7 @@ road_id,postcode,name,locality,city
 1827846,2024,Rehua Place,Favona,Auckland
 3077854,3989,Rehua Place,Tongariro National Park,
 3080733,4312,Rehua Place,Waiwhakaiho,New Plymouth
+3086368,0230,Rehua Road,Kerikeri,Kerikeri
 1795883,3381,Rehua Street,Tokaanu,Turangi
 3082807,3118,Rehua Way,"Papamoa,Papamoa Beach",Papamoa
 1819231,0377,Rehutai Road,Baylys Beach,
@@ -1691,6 +1697,7 @@ road_id,postcode,name,locality,city
 1832006,2583,Repeater Road,Hunua,
 3081165,2019,Repehina Road,Flat Bush,Auckland
 3036307,3210,Repoiti Court,Rototuna North,Hamilton
+3086432,0892,Repo Lane,"Kumeu,Riverhead","Kumeu,Riverhead"
 3080471,3112,Repo Lane,Poike,Tauranga
 1802746,4072,Repongaere Road,Waituhi,Gisborne
 3077827,3210,Reponui Court,Rototuna North,Hamilton
@@ -1797,6 +1804,7 @@ road_id,postcode,name,locality,city
 3021115,3990,Retaruke Road,"Erua,Retaruke","National Park,Owhango"
 1807998,3889,Retemeyer Road,Kawhia,
 3009847,7618,Retford Common,West Melton,
+3086313,3187,Retimana Way,Papamoa,Papamoa
 3083177,3171,Reti Place,Omanawa,
 1838591,2022,Retreat Drive,Mangere,Auckland
 1786596,8061,Retreat Road,Avonside,Christchurch
@@ -2783,6 +2791,7 @@ road_id,postcode,name,locality,city
 1803906,4110,Roach Street,Marewa,Napier
 1841015,7274,Roadhouse Drive,Riverlands,
 1832171,2010,Roadley Avenue,Sunnyhills,Auckland
+3086410,9300,Roaming Deer Rise,Kelvin Peninsula,Queenstown
 1832624,0632,Roanoke Way,Albany,Auckland
 3045747,7975,Roaring Camp Road,"Kerrytown,Temuka","Temuka,Timaru"
 1790005,7804,Roa Road,Blackball,Greymouth
@@ -2917,6 +2926,7 @@ road_id,postcode,name,locality,city
 1806487,3500,Robert Street,Thames,
 1826203,0110,Robert Street,Whangarei,
 1813339,3210,Roberts Way,Flagstaff,Hamilton
+3086409,9300,Roberts Way,Kelvin Peninsula,Queenstown
 1832595,0372,Roberts West Road,"Arapohue,Turiwiri",Dargaville
 1816868,4310,Robe Street,New Plymouth,
 1800461,6011,Robieson Lane,Roseneath,Wellington
@@ -4137,6 +4147,7 @@ road_id,postcode,name,locality,city
 1837326,9382,Ruby Island Road,Wanaka,
 1837172,7630,Ruby Lane,Kaiapoi,
 3083979,2113,Ruby Lane,Karaka,Papakura
+3086378,4470,Ruby Lane,Kelvin Grove,Palmerston North
 1836515,0505,Ruby Lane,Mangawhai,
 1834657,3894,Ruby Lane,Raglan,
 1789924,7022,Ruby Place,Brightwater,
@@ -4282,6 +4293,7 @@ road_id,postcode,name,locality,city
 3084073,5022,Ruru Lane,Kenepuru,Porirua
 2011393,0230,Ruru Lane,Kerikeri,
 3086311,7891,Ruru Lane,Mokihinui,Westport
+3086337,0173,Ruru Lane,Tutukaka,Whangarei
 3082521,9382,Ruru Lane,Wanaka,
 1831871,0112,Rurumoki Street,Regent,Whangarei
 1803271,4120,Ruru Place,Camberley,Hastings
@@ -4476,6 +4488,7 @@ road_id,postcode,name,locality,city
 1802660,4010,Ruth Street,Riverdale,Gisborne
 1836721,7011,Ruth Taylor Avenue,Stoke,Nelson
 1800307,5014,Ruthven Road,Wainuiomata,Lower Hutt
+3086421,9793,Rutland Lane,Kingston,Kingston
 1801010,4414,Rutland Place,Milson,Palmerston North
 1805025,4112,Rutland Place,Taradale,Napier
 1814556,4394,Rutland Road,Midhirst,Stratford

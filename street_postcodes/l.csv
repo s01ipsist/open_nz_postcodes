@@ -346,6 +346,7 @@ road_id,postcode,name,locality,city
 1777464,9816,Lanark Street,Wallacetown,
 1778937,9794,Lanark Street East,Lumsden,
 1794575,6012,Lanark Way,Northland,Wellington
+3086416,9793,Lancashire Lane,Kingston,Kingston
 1841821,7671,Lancashire Lane,West Melton,
 2009567,7272,Lancaster Avenue,Burleigh,Blenheim
 1812199,3420,Lancaster Crescent,Tokoroa,
@@ -1234,6 +1235,7 @@ road_id,postcode,name,locality,city
 1782261,7924,Leonard Street,Waimate,
 1827576,2123,Leonard Street,Waiuku,
 3086130,3179,Leonard Way,Minden,Minden
+3086336,2576,Leonard Yeats Lane,Whitford,Whitford
 1794779,6037,Leona Way,Paparangi,Wellington
 1824993,1025,Leone Terrace,Mount Albert,Auckland
 1807370,3204,Leong Avenue,Dinsdale,Hamilton
@@ -1668,6 +1670,7 @@ road_id,postcode,name,locality,city
 1806264,3620,Lincoln Road,Whangamata,
 1780114,7678,Lincoln Rolleston Road,Rolleston,
 3014672,5016,Lincolnshire Road,"Horokiwi,Woodridge",Wellington
+3086412,9793,Lincolnshire Road,Kingston,Kingston
 1796331,4810,Lincoln Street,Ashhurst,
 1794756,6021,Lincoln Street,Brooklyn,Wellington
 1778629,9792,Lincoln Street,Castlerock,Lumsden
@@ -1865,6 +1868,7 @@ road_id,postcode,name,locality,city
 1816018,3110,Lisa Place,Brookfield,Tauranga
 1829234,2012,Lisa Rise,Half Moon Bay,Auckland
 1781938,7910,Lisava Avenue,Seaview,Timaru
+3086321,8025,Lisbon Road,Halswell,Christchurch
 1808923,3112,Lisbon Street,Greerton,Tauranga
 1772622,9012,Lisburn Avenue,Caversham,Dunedin
 1823683,1071,Lisburn Avenue,Glendowie,Auckland
@@ -2035,6 +2039,7 @@ road_id,postcode,name,locality,city
 1833010,0632,Living Stream Road,Albany Heights,Auckland
 1772625,9011,Lixmont Street,Bradford,Dunedin
 3082955,8051,Lizard Lane,Casebrook,Christchurch
+3086404,9300,Lizard Rock Lane,Kelvin Peninsula,Queenstown
 3085268,7810,Liz Cameron Lane,Hokitika,Hokitika
 1830320,2019,Lizzie Lane,Clover Park,Auckland
 1840655,3283,Llennoc Lane,Matangi,Hamilton
@@ -2108,6 +2113,7 @@ road_id,postcode,name,locality,city
 1823681,1050,Lochiel Road,Remuera,Auckland
 1813048,3282,Lochiel Road,Rukuhia,Hamilton
 1805070,4198,Lochiel Street,Mahia,
+3086425,7604,Lochie Roberts Lane,Prebbleton,Prebbleton
 3044307,9273,Lochindorb Runs Road,"Clinton,Lochindorb","Balclutha,Clinton"
 1808935,3112,Lochinvar Place,Hairini,Tauranga
 3078473,9024,Lochinvar Street,Mosgiel,
@@ -2287,6 +2293,7 @@ road_id,postcode,name,locality,city
 1800548,6037,Lomond Street,Newlands,Wellington
 1822526,0622,Lomond Street,Takapuna,Auckland
 3080401,7615,Lomu Way,Rolleston,
+3086341,3432,London Lane,Leamington,Cambridge
 1775348,9300,London Lane,Queenstown,
 1808932,3110,London Place,Judea,Tauranga
 1804229,4112,London Place,Tamatea,Napier
@@ -2343,6 +2350,7 @@ road_id,postcode,name,locality,city
 1780588,7510,Longden Street,Darfield,
 1823697,1071,Long Drive,Saint Heliers,Auckland
 1805344,4110,Longfellow Avenue,Maraenui,Napier
+3086354,7282,Longfellow Bay,"Longfellow Bay,Queen Charlotte Sound / Totaranui,Snake Point",Marlborough Sounds
 1823564,0604,Longfellow Parade,Glen Eden,Auckland
 1818127,4616,Longfellow Road,Opunake,
 1812826,3432,Longfellow Street,Leamington,Cambridge
@@ -2529,6 +2537,7 @@ road_id,postcode,name,locality,city
 1801608,5032,Lorna Irene Drive,Raumati South,Paraparaumu
 1837112,8083,Lorna Lane,Brooklands,Christchurch
 1808933,3110,Lorna Place,Brookfield,Tauranga
+3086344,5871,Lornas Lane,Lansdowne,Masterton
 1816968,4310,Lorna Street,Lynmouth,New Plymouth
 1803263,4120,Lorne Crescent,Flaxmere,Hastings
 3040509,,Lorne Dacre Road,"Anderson Park,Dacre,Lorneville,Mabel Bush,Rakahouka,Roslyn Bush",Invercargill
@@ -2890,6 +2899,7 @@ road_id,postcode,name,locality,city
 1803265,4122,Lumsden Road,"Akina,Parkvale",Hastings
 1805966,3771,Lumsden Road,"Ohinewai,Rangiriri","Huntly,Te Kauwhata"
 1808930,3112,Lumsden Street,Greerton,Tauranga
+3086355,7571,Luna Lane,Darfield,Darfield
 1833394,0612,Luna Place,Henderson,Auckland
 1837343,9304,Luna Place,Lake Hayes,Queenstown
 1776777,9730,Luna Street,Lumsden,
@@ -2988,6 +2998,7 @@ road_id,postcode,name,locality,city
 1813499,3200,Lynbrae Court,Nawton,Hamilton
 1818870,0600,Lynbrooke Avenue,Blockhouse Bay,Auckland
 1799664,5510,Lynch Grove,Levin,
+3086364,9391,Lynch Lane,Alexandra,Alexandra
 3078909,9300,Lynch Lane,Queenstown Hill,Queenstown
 1780674,8061,Lyn Christie Place,Wainoni,Christchurch
 1777577,9689,Lynch Road,"Aparima,Wreys Bush",Otautau

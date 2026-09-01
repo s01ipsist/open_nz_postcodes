@@ -1833,6 +1833,7 @@ road_id,postcode,name,locality,city
 1770464,9482,Watercourse Road,Moeraki,
 3082592,0112,Watercourse Way,Tikipunga,Whangarei
 1788410,7010,Waterdale Way,The Brook,Nelson
+3086315,7282,Waterfall Bay,"Onahau Bay,Waterfall Bay",Marlborough Sounds
 3083440,0230,Waterfall Lane,Kerikeri,
 1771672,9371,Waterfall Park Road,Arrowtown,
 3040779,5032,Waterfall Road,"Paekakariki,Paraparaumu,Raumati South","Paekakariki,Paraparaumu"
@@ -2480,6 +2481,7 @@ road_id,postcode,name,locality,city
 1810082,3971,Were Road,Pomarangai,Piopio
 1812364,3377,Wereta Road,Marotiri,Taupo
 1802419,4079,Wereta Street,Tokomaru Bay,
+3086391,3010,Werewere Avenue,Ngongotaha,Rotorua
 3080857,3300,Werewere Street,Morrinsville,
 3079620,2578,Weri Road,Karaka,Papakura
 1790166,7805,Werita Street,Greymouth,
@@ -2955,6 +2957,7 @@ road_id,postcode,name,locality,city
 1810756,3010,Whakaue Street,Rotorua,
 1815172,3420,Whakauru Street,Tokoroa,
 3079994,2102,Whakaute Lane,Manurewa,Auckland
+3086431,0892,Whakawhiti Lane,"Kumeu,Riverhead","Kumeu,Riverhead"
 1977280,1026,Whakawhiti Loop,Avondale,Auckland
 1816948,4310,Whakawhiti Street,Marfell,New Plymouth
 3080654,0930,Whale Bay Rise,Gulf Harbour,Whangaparaoa
@@ -4208,6 +4211,7 @@ road_id,postcode,name,locality,city
 1779062,7400,Wiltshire Court,Rangiora,
 1816210,3210,Wiltshire Drive,Huntington,Hamilton
 3037615,0991,Wiltshire Lane,Great Barrier Island (Aotea Island),
+3086423,7892,Wiltshire Lane,Westport,Westport
 1784640,8042,Wiltshire Mews,Avonhead,Christchurch
 1792462,5024,Wiltshire Place,Cannons Creek,Porirua
 1799563,4414,Wiltshire Place,Milson,Palmerston North
@@ -4896,6 +4900,7 @@ road_id,postcode,name,locality,city
 1815500,3210,Worcester Drive,Rototuna North,Hamilton
 1800098,5024,Worcester Place,Cannons Creek,Porirua
 1824510,1072,Worcester Road,Meadowbank,Auckland
+3086418,9793,Worcestershire Lane,Kingston,Kingston
 1800790,4810,Worcester Street,Ashhurst,
 3023519,,Worcester Street,"Christchurch Central,Linwood",Christchurch
 1770838,9410,Worcester Street,Hampden,

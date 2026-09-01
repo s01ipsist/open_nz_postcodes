@@ -530,6 +530,7 @@ road_id,postcode,name,locality,city
 1776948,9892,Camp Hill Road,Mimihau,Wyndham
 1773880,9274,Camp Hill Road,Rongahere,Clydevale
 1823480,0612,Camphora Place,Ranui,Auckland
+3086327,7614,Camphor Way,Rolleston,Rolleston
 1818722,2013,Campian Place,Golflands,Auckland
 1833128,2016,Campile Close,East Tamaki,Auckland
 1785421,8025,Campion Place,Halswell,Christchurch
@@ -1328,6 +1329,7 @@ road_id,postcode,name,locality,city
 1830068,2016,Castlemaine Close,Dannemora,Auckland
 1801708,6012,Castlemaine Close,Karori,Wellington
 3047538,8971,Castle Peak Road,"Charteris Bay,Diamond Harbour","Diamond Harbour,Governors Bay"
+3086401,7400,Castle Place,Rangiora,Rangiora
 3078641,2110,Castlepoint Avenue,Takanini,Auckland
 1793421,5014,Castlerea Street,Wainuiomata,Lower Hutt
 3081425,3210,Castle Road,Flagstaff,Hamilton
@@ -2339,6 +2341,7 @@ road_id,postcode,name,locality,city
 1840036,3210,Chesham Street,Rototuna North,Hamilton
 1789914,7011,Cheshire Place,Stoke,Nelson
 1792491,5024,Cheshire Street,Cannons Creek,Porirua
+3086415,9793,Cheshire Street,Kingston,Kingston
 1794724,6012,Cheshire Street,"Northland,Wilton",Wellington
 1824637,1052,Cheshire Street,Parnell,Auckland
 1828929,2012,Chesley Place,Half Moon Bay,Auckland
@@ -3067,6 +3070,7 @@ road_id,postcode,name,locality,city
 1777474,9778,Cleadon Street,Waikaia,
 1839584,0112,Cleanen Place,Te Kamo,Whangarei
 1819254,0391,Clean Street,Te Kopuru,
+3086319,7700,Clearbrook Boulevard,Elgin,Ashburton
 1837613,7400,Clearbrook Lane,Rangiora,
 1784294,8052,Clearbrook Street,Shirley,Christchurch
 1816710,4310,Clearmont Crescent,Blagdon,New Plymouth
@@ -3581,6 +3585,7 @@ road_id,postcode,name,locality,city
 1785988,8083,Cobblewood Court,Parklands,Christchurch
 1798195,4412,Cobb Place,Highbury,Palmerston North
 1796258,5512,Cobb Place,Otaki,
+3086317,7700,Cobb Street,Netherby,Ashburton
 1780352,7183,Cobb Valley Road,Upper Takaka,Takaka
 1791176,7274,Cob Cottage Road,Riverlands,
 1782824,8062,Cob Crescent,Woolston,Christchurch
@@ -4156,6 +4161,7 @@ road_id,postcode,name,locality,city
 1841324,5391,Connelly Way,Reikorangi,Waikanae
 1829830,0618,Connemara Court,West Harbour,Auckland
 1786912,8051,Connemara Drive,Northwood,Christchurch
+3086369,0230,Connemara Lane,Kerikeri,Kerikeri
 3048109,7384,Connemara Road,"Ferniehurst,Hawkswood",Cheviot
 3063852,4312,Connett Road,Bell Block,New Plymouth
 1842981,3112,Conniston Way,Pyes Pa,Tauranga

@@ -334,6 +334,7 @@ road_id,postcode,name,locality,city
 1793911,6023,Dart Crescent,Island Bay,Wellington
 1784551,8083,Dartford Street,Brooklands,Christchurch
 1816670,4310,Dartmoor Avenue,Westown,New Plymouth
+3086314,7282,Dartmoor Bay,"Dartmoor Bay,Grove Arm,Onahau Bay",Marlborough Sounds
 1789857,7020,Dartmoor Place,Richmond,
 1803561,,Dartmoor Road,"Dartmoor,Puketapu",Napier
 1773638,9210,Dartmouth Street,Kaitangata,
@@ -403,6 +404,7 @@ road_id,postcode,name,locality,city
 1784018,8042,Davidson Crescent,Hornby,Christchurch
 1797666,4910,Davidson Crescent,Pahiatua,
 1793572,5028,Davidson Crescent,Tawa,Wellington
+3086365,9391,Davidson Drive,Alexandra,Alexandra
 1834626,3283,Davidson Lane,Tamahere,Hamilton
 1803562,4130,Davidson Road,Havelock North,
 1817591,4672,Davidson Road,Hawera,
@@ -658,6 +660,7 @@ road_id,postcode,name,locality,city
 1796826,4501,Deem Place,Tawhero,Whanganui
 3077745,2025,Deepak Lane,Papatoetoe,Auckland
 3081173,7281,Deep Bay,"Arapaoa Island,Deep Bay,Queen Charlotte Sound / Totaranui",Marlborough Sounds
+3086379,7282,Deep Bay,"Deep Bay,Endeavour Inlet,Pukekoikoi",Marlborough Sounds
 3007736,9818,Deep Bay Road,Stewart Island/Rakiura,Stewart Island
 3039993,7872,Deep Creek Road,"Hochstetter,Moana",Moana
 3039990,9398,Deep Creek Road,"Lake Onslow,Serpentine","Patearoa,Roxburgh"
@@ -681,6 +684,7 @@ road_id,postcode,name,locality,city
 1821300,0920,Deerness Crescent,Algies Bay,
 1788799,7173,Dee Road,Tasman,Upper Moutere
 1779745,7310,Deer Park Road,Cheviot,
+3086402,9300,Deer Park Road,Kelvin Peninsula,Queenstown
 1934220,8025,Deerwood Lane,Wigram,Christchurch
 1832212,2585,Deerys Road,Orere Point,
 3034994,9810,Dee Street,"Avenal,Gladstone,Invercargill,Prestonville",Invercargill
@@ -1976,6 +1980,7 @@ road_id,postcode,name,locality,city
 1783108,8013,Draper Street,Richmond,Christchurch
 1835962,0632,Draycott Lane,Rosedale,Auckland
 3082971,8025,Dray Place,Halswell,Christchurch
+3086376,7571,Drayton Crescent,Darfield,Darfield
 1783078,8081,Drayton Drive,Mount Pleasant,Christchurch
 1799414,4412,Drayton Place,Highbury,Palmerston North
 1812733,3432,Drayton Place,Leamington,Cambridge

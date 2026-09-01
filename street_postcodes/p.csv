@@ -1834,6 +1834,7 @@ road_id,postcode,name,locality,city
 1784840,8051,Pelorus Place,Harewood,Christchurch
 1828141,2010,Pelorus Place,Pakuranga,Auckland
 1838771,7201,Pelorus Place,Redwoodtown,Blenheim
+3086350,7071,Pelorus Sound,"Four Fathom Bay,Pelorus Sound / Te Hoiere,Tamuri,Yncyca Bay",Marlborough Sounds
 1807533,3206,Pelorus Street,Glenview,Hamilton
 1809037,3112,Pelorus Street,Welcome Bay,Tauranga
 1831445,1011,Pember Reeves Street,"Freemans Bay,Ponsonby",Auckland
@@ -1903,6 +1904,7 @@ road_id,postcode,name,locality,city
 1823494,0604,Pendlebury Street,"Green Bay,Titirangi",Auckland
 3056860,4279,Pendle Hill Road,"Ongaonga,Tikokino",
 1831347,0772,Pendrell Road,Piha,
+3086339,3112,Pendula Lane,Pyes Pa,Tauranga
 3083252,1072,Penehareti Rise,Stonefields,Auckland
 1802476,4094,Peneha Street,Whatatutu,Te Karaka
 1784832,8051,Penelope Place,Casebrook,Christchurch
@@ -2207,6 +2209,7 @@ road_id,postcode,name,locality,city
 1838027,9392,Perseverance Drive,Conroys Gully,Alexandra
 1828138,2022,Pershore Place,Mangere,Auckland
 1837763,7010,Persico Way,The Wood,Nelson
+3086331,7614,Persimmon Lane,Rolleston,Rolleston
 3079971,2576,Persimmon Place,Whitford,
 1799586,4412,Persson Place,Takaro,Palmerston North
 1799589,4412,Perth Place,Awapuni,Palmerston North
@@ -2729,6 +2732,7 @@ road_id,postcode,name,locality,city
 1841406,9024,Pinfold Place,Mosgiel,
 3016727,4471,Pinfold Road,Aokautere,
 3016728,,Pinfold Road,"Papatawa,Woodville",Woodville
+3086373,4501,Pīngao Drive,"Castlecliff,Tawhero,Westmere",Whanganui
 3083418,8083,Pingao Lane,New Brighton,Christchurch
 1839882,3118,Pingao Lane,Papamoa Beach,Papamoa
 1840162,5391,Pingao Lane,Peka Peka,Waikanae
@@ -3700,6 +3704,7 @@ road_id,postcode,name,locality,city
 1833846,4078,Possum Bend,Morere,Nuhaka
 3078723,0616,Possum Lane,Hobsonville,Auckland
 1838613,8022,Postbridge Lane,Huntsbury,Christchurch
+3086334,7614,Poster Lane,Rolleston,Rolleston
 1792002,5024,Postgate Drive,Whitby,Porirua
 1820823,0794,Postman Road,Dairy Flat,
 1791422,7371,Postmans Road,Kaikoura Flat,Kaikoura
