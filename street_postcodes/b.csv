@@ -685,6 +685,7 @@ road_id,postcode,name,locality,city
 1786648,8023,Barnett Avenue,Sydenham,Christchurch
 1831636,1023,Barnett Crescent,Epsom,Auckland
 1801609,4710,Barnett Drive,Marton,
+3086464,4470,Barnett Place,Kelvin Grove,Palmerston North
 1803927,4112,Barnett Place,Pirimai,Napier
 1808737,3119,Barnett Place,Te Puke,
 1815581,3200,Barnett Place,Te Rapa Park,Hamilton
@@ -1306,6 +1307,7 @@ road_id,postcode,name,locality,city
 1784558,8083,Beacon Street,Brooklands,Christchurch
 1773609,9073,Beacon Street,Waihola,Milton
 1832379,2012,Beaconview Rise,Farm Cove,Auckland
+3086467,8025,Beadel Road,Halswell,Christchurch
 1807505,3200,Beadle Place,St Andrews,Hamilton
 1825362,1025,Beagle Avenue,"Mount Albert,Sandringham,Wesley",Auckland
 3084660,9305,Beagle Lane,Wanaka,Wanaka
@@ -3776,6 +3778,7 @@ road_id,postcode,name,locality,city
 1840720,7700,Braebrook Drive,Netherby,Ashburton
 3037923,7692,Braeburn Crescent,Swannanoa,
 1785423,8042,Braeburn Drive,Hornby,Christchurch
+3086460,5712,Braeburn Lane,Greytown,Greytown
 1837405,7011,Braeburn Lane,Stoke,Nelson
 1813606,3110,Braeburn Place,Bethlehem,Tauranga
 1832098,2112,Braeburn Place,Takanini,Auckland
@@ -4987,6 +4990,7 @@ road_id,postcode,name,locality,city
 1778563,9884,Buckingham Street,Tokanui,
 1775145,9085,Buckingham Street,Waitati,
 1803709,4172,Buckingham Street,Whakatu,Hastings
+3086463,3575,Buckland Lane,Tapu,Thames
 1812757,3434,Buckland Place,Cambridge,
 1816634,4310,Buckland Place,Spotswood,New Plymouth
 3063758,,Buckland Road,"Buckland,Pukekohe,Tuakau","Pukekohe,Tuakau"
