@@ -4,6 +4,12 @@ An openly licenced (unofficial) dataset of New Zealand postcodes with geospatial
 
 Latest boundary shapefile can be downloaded from the [Releases](https://github.com/s01ipsist/open_nz_postcodes/releases) page. Releases older than 36 months are pruned automatically.
 
+The latest release's shapefile is always at this URL, which scripts can download without authentication:
+
+```
+https://github.com/s01ipsist/open_nz_postcodes/releases/latest/download/open_nz_postcode_boundaries_shp.zip
+```
+
 Boundary files are generated automatically using latest upstream data on the 1st of each month via GitHub Actions.
 
 [![process-data](https://github.com/s01ipsist/open_nz_postcodes/actions/workflows/process-data.yml/badge.svg?event=schedule)](https://github.com/s01ipsist/open_nz_postcodes/actions/workflows/process-data.yml)
@@ -51,7 +57,7 @@ Land Information New Zealand (LINZ) and Statistics NZ provide many high fidelity
 - [Meshblocks](https://datafinder.stats.govt.nz/layer/123521-meshblock-2026/). A meshblock is the smallest geographic unit for which statistical data is collected and processed by Stats NZ.
 - [Regions](https://datafinder.stats.govt.nz/layer/111182-regional-council-2023-generalised/). Regional councils / [ISO-3166-2](https://en.wikipedia.org/wiki/ISO_3166-2:NZ))
 
-Note that [postal area digital boundaries](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/digital-boundary-files) are freely available in Australia from Australian Bureau of Statistics. 🤔
+Note that [postal area digital boundaries](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs/edition-4-july-2026-june-2031/access-and-downloads/digital-boundary-files) are freely available in Australia from Australian Bureau of Statistics. 🤔
 
 ### Postcodes for Roads
 
