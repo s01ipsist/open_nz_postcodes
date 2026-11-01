@@ -55,6 +55,7 @@ road_id,postcode,name,locality,city
 1785464,7482,Rachael Road,Broomfield,
 1784392,8042,Rachel Place,Avonhead,Christchurch
 1813977,3204,Rachel Place,Dinsdale,Hamilton
+3086511,9012,Rachel Reynolds Place,Calton Hill,Dunedin
 3084104,7615,Radar Drive,Rolleston,
 1813401,3591,Radar Road,Hot Water Beach,Whitianga
 1784391,8042,Radbrook Street,Avonhead,Christchurch
@@ -942,6 +943,7 @@ road_id,postcode,name,locality,city
 1830683,0281,Rata Tipene Road,Maromaku,Kawakawa
 1805083,4198,Ratau Street,Mahia,
 1828915,2104,Rata Vine Drive,Wiri,Auckland
+3086556,7614,Ratcliffe Lane,Rolleston,Rolleston
 1811540,3400,Ratcliffe Street,Matamata,
 1789456,7822,Ratcliff Road,Ngakawau,Hector
 1804320,4210,Rathbone Street,Waipawa,
@@ -1010,6 +1012,7 @@ road_id,postcode,name,locality,city
 3081166,2019,Raumaota Road,Flat Bush,Auckland
 1799071,4793,Rauma Road,Taihape,
 1826067,0110,Raumati Crescent,Onerahi,Whangarei
+3086498,0505,Raumati Lane,Mangawhai Heads,Mangawhai
 3080750,3510,Raumati Lane,Whitianga,
 1796048,5032,Raumati Road,Raumati Beach,Paraparaumu
 1823740,1050,Raumati Road,Remuera,Auckland
@@ -2152,6 +2155,7 @@ road_id,postcode,name,locality,city
 1822321,0632,Ride Way,Rosedale,Auckland
 1795458,9305,Ridgecrest,Wanaka,
 1982471,3210,Ridgedale Crescent,Flagstaff,Hamilton
+3086484,9672,Ridgedale Road,Hillside,Te Anau
 1842251,0932,Ridgedale Road,Silverdale,
 3080462,3114,Ridge Drive,Omokoroa,
 1832689,2016,Ridgefield Lane,East Tamaki Heights,Auckland
