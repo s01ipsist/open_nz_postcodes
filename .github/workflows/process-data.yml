@@ -29,8 +29,8 @@ jobs:
           - 5432:5432
 
     steps:
-      - uses: actions/checkout@v7
-      - uses: actions/setup-python@v7
+      - uses: actions/checkout@v7.0.1
+      - uses: actions/setup-python@v7.1.0
         with:
           python-version: '3.x'
           cache: 'pip'
@@ -50,7 +50,7 @@ jobs:
 
       - name: Restore cached download
         id: cache-nz-koordinates
-        uses: actions/cache/restore@v6
+        uses: actions/cache/restore@v6.1.0
         with:
           path: |
             scripts/koordinates/data
@@ -65,7 +65,7 @@ jobs:
 
       - name: Save download cache
         id: cache-nz-koordinates-save
-        uses: actions/cache/save@v6
+        uses: actions/cache/save@v6.1.0
         with:
           path: |
             scripts/koordinates/data
@@ -103,7 +103,7 @@ jobs:
         run: echo "artifact=open_nz_postcode_boundaries_shp_`date +%Y-%m-%d`" >> $GITHUB_OUTPUT
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v7
+        uses: actions/upload-artifact@v7.0.2
         with:
           name: ${{ steps.generate-name.outputs.artifact }}
           path: release/open_nz_postcode_boundaries_shp.zip
