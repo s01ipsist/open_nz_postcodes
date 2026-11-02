@@ -592,6 +592,7 @@ road_id,postcode,name,locality,city
 1773427,9220,Newport Street,Milton,
 1800472,6022,Newport Terrace,Seatoun,Wellington
 1781527,7010,Newport Way,The Brook,Nelson
+3086495,8051,Newquay Avenue,"Marshland,Redwood",Christchurch
 1783665,8011,New Regent Street,Christchurch Central,Christchurch
 3043025,,New Renwick Road,"Burleigh,Fairhall,Redwoodtown","Blenheim,Fairhall"
 1817765,7805,New River Road,Marsden,Greymouth
@@ -690,6 +691,7 @@ road_id,postcode,name,locality,city
 1813373,3874,Ngahuia Place,Tokanui,Te Awamutu
 1798976,4796,Ngahuinga Road,Taihape,
 1823951,1021,Ngahura Street,"Eden Terrace,Mount Eden",Auckland
+3086563,3110,Ngahuru Close,Tauriko,Tauranga
 3084898,0932,Ngahuru Road,Wainui,Wainui
 1810468,3015,Ngahu Street,Fairy Springs,Rotorua
 1839168,3673,Ngahutoitoi Marae Road,Paeroa,

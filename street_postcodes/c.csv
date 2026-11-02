@@ -2866,6 +2866,7 @@ road_id,postcode,name,locality,city
 1791763,5712,Clara Anne Grove,Greytown,
 3085359,7678,Clara Crescent,Rolleston,Rolleston
 3082967,0932,Clara Road,Silverdale,
+3086545,7614,Clareburt Street,Rolleston,Rolleston
 1944763,4777,Clare Court,Feilding,
 1804529,4271,Clareinch Road,Omakere,
 1779395,7520,Clare Lane,Akaroa,
@@ -2922,6 +2923,7 @@ road_id,postcode,name,locality,city
 1805012,4112,Claridge Place,Taradale,Napier
 1779190,8051,Claridges Road,"Casebrook,Harewood",Christchurch
 1822750,0602,Claridge Street,Glen Eden,Auckland
+3086506,8051,Claridgewood Lane,Casebrook,Christchurch
 1830509,0602,Clarion Place,Glendene,Auckland
 1772741,9018,Clariton Avenue,Green Island,Dunedin
 1808210,2696,Clark and Denize Road,Pukekawa,
@@ -3936,6 +3938,7 @@ road_id,postcode,name,locality,city
 3025581,9891,Collis Road,"Quarry Hills,Tokanui,Waimahaka",Tokanui
 3083300,7632,Collisson Street,Leeston,
 1952285,0632,Colliston Rise,Pinehill,Auckland
+3086553,7614,Coll Lane,Rolleston,Rolleston
 1771506,9372,Coll Street,Glenorchy,
 1790574,7886,Collyers Road,Haast,
 1784041,8042,Colman Avenue,Sockburn,Christchurch
@@ -4257,6 +4260,7 @@ road_id,postcode,name,locality,city
 3080092,2121,Cook Drive,Tuakau,
 1806012,3510,Cook Drive,Whitianga,
 3041536,4312,Cooke Farm Grove,Waiwhakaiho,New Plymouth
+3086531,9304,Cooke Place,Lower Shotover,Queenstown
 1804129,4112,Cooke Place,Taradale,Napier
 1826031,0110,Cooke Street,Avenues,Whangarei
 1782818,8024,Cooke Street,Somerfield,Christchurch
@@ -5197,6 +5201,7 @@ road_id,postcode,name,locality,city
 1823870,1026,Crayford Street,Avondale,Auckland
 1832922,1026,Crayford Street West,Avondale,Auckland
 3028336,5810,Crayne Street,"Kuripuni,Masterton",Masterton
+3086504,8025,Craythorne Road,Halswell,Christchurch
 1806084,3575,Creagh Street,Tapu,Thames
 1804031,4110,Creagh Street,Te Awa,Napier
 1822690,0622,Creamer Avenue,Belmont,Auckland

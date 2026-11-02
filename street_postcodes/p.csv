@@ -83,6 +83,7 @@ road_id,postcode,name,locality,city
 1837320,0593,Padget Lane,Tinopai,
 1840877,9391,Padgets Lane,Earnscleugh,Alexandra
 1793843,6037,Padnell Crescent,"Newlands,Paparangi",Wellington
+3086491,8051,Padstow Loop,Redwood,Christchurch
 1799843,5026,Padstow Place,Camborne,Porirua
 3084363,5010,Pae Ariki Place,Normandale,Lower Hutt
 1786385,4072,Paea Road,Muriwai,Manutuke
@@ -1675,6 +1676,7 @@ road_id,postcode,name,locality,city
 1775742,9302,Pearl Lane,Arrowtown,
 3079178,9305,Pearl Lane,Wanaka,
 1807530,3210,Pearl Place,Chartwell,Hamilton
+3086521,8025,Pearl Place,Wigram,Christchurch
 1819391,0505,Pearl Street,Mangawhai Heads,Mangawhai
 1822136,0627,Pearn Crescent,Northcote,Auckland
 1822137,0627,Pearn Place,Northcote,Auckland
@@ -2100,6 +2102,7 @@ road_id,postcode,name,locality,city
 1805761,4274,Percy Cambell Road,Tikokino,
 1801517,5011,Percy Cameron Street,Avalon,Lower Hutt
 1794492,6012,Percy Dyett Drive,Karori,Wellington
+3086549,8025,Percy Fever Street,Halswell,Christchurch
 1827512,2121,Percy Graham Drive,Tuakau,
 1842669,0932,Percy Greens,Silverdale,
 1838170,5018,Percy Kinsman Crescent,Riverstone Terraces,Upper Hutt
@@ -4527,6 +4530,7 @@ road_id,postcode,name,locality,city
 3083031,3281,Pukeroa Road,"Chartwell,Puketaha",Hamilton
 1810012,3977,Pukeroa Road,Hangatiki,Te Kuiti
 1814925,3010,Pukeroa Street,Rotorua,
+3086524,3493,Pukeroro Place,Cambridge,Cambridge
 1792327,5026,Pukerua Beach Road,Pukerua Bay,Porirua
 3085670,5018,Pukeruru Lane,Trentham,Upper Hutt
 3085671,5018,Pukeruru Lane,Trentham,Upper Hutt

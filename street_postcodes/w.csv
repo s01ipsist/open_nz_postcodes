@@ -432,6 +432,7 @@ road_id,postcode,name,locality,city
 1813522,3584,Waimanu Road,Waikawau,Coromandel
 1820939,0975,Waimanu Road,Wellsford,
 1811061,3296,Waimaori Road,Raglan,
+3086509,5026,Waimapihi Road,Pukerua Bay,Porirua
 1808493,3112,Waimapu Pa Road,Hairini,Tauranga
 1809069,3112,Waimapu Street,Greerton,Tauranga
 1815928,3118,Waimarama Close,Papamoa Beach,Papamoa
@@ -1455,6 +1456,7 @@ road_id,postcode,name,locality,city
 1802261,4010,Walsh Street,Mangapapa,Gisborne
 1774914,9016,Walsh Street,North Dunedin,Dunedin
 1787997,7830,Walsh Street,Reefton,
+3086543,7614,Walsh Street,Rolleston,Rolleston
 1799562,7999,Walter Black Place,Lake Tekapo,
 3004110,0991,Walter Blackwell Road,Great Barrier Island (Aotea Island),
 3078457,8051,Walter Case Drive,"Casebrook,Harewood",Christchurch
@@ -1785,6 +1787,7 @@ road_id,postcode,name,locality,city
 1780112,7683,Washbournes Road,Southbridge,
 1783957,8042,Washbournes Road,Wigram,Christchurch
 1788499,7182,Washbourn Road,Onekaka,Takaka
+3086523,9273,Wash Creek Lane,Pukeawa,Balclutha
 1781232,7975,Washdyke Flat Road,"Washdyke,Washdyke Flat",Timaru
 1809439,3120,Washer Avenue,Whakatane,
 1808749,3119,Washer Place,Te Puke,
@@ -2623,6 +2626,7 @@ road_id,postcode,name,locality,city
 1784820,8042,Westgrove Avenue,Avonhead,Christchurch
 3085376,7676,Westhampton Drive,Prebbleton,Prebbleton
 1831376,0618,West Harbour Drive,West Harbour,Auckland
+3086539,7614,Westhaven Boulevard,Rolleston,Rolleston
 1824391,1010,Westhaven Drive,"Auckland Central,Saint Marys Bay,Westhaven",Auckland
 1791668,5028,Westhaven Drive,Tawa,Wellington
 1801283,4412,Westhaven Grove,Takaro,Palmerston North
@@ -4836,6 +4840,7 @@ road_id,postcode,name,locality,city
 1800183,5011,Woodvale Grove,Fairfield,Lower Hutt
 1822754,0602,Woodvale Road,Glen Eden,Auckland
 1780965,7778,Woodvale Road,Montalto,Mount Somers
+3086559,8051,Woodview Drive,Belfast,Christchurch
 1829282,2010,Woodview Rise,Botany Downs,Auckland
 1797955,4985,Woodville Aohanga Road,"Makuri,Pahiatua",Pahiatua
 1824517,1050,Woodville Road,Remuera,Auckland

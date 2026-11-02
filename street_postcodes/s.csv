@@ -85,11 +85,13 @@ road_id,postcode,name,locality,city
 1832853,0600,Saintly Lane,Avondale,Auckland
 1836646,2105,Saint Maroun Rise,The Gardens,Auckland
 3086150,7282,Saint Omer Bay,"Kenepuru Sound,Saint Omer,Saint Omer Bay",Marlborough Sounds
+3086532,9793,Saint Patrick Drive,Garston,Athol
 1839623,9779,Saint Patricks Road,St Patricks,Balfour
 1814252,3620,Saint Patricks Row,Whangamata,
 3001448,9893,Saint Ronans Road,"Edendale,Kamahi,Morton Mains","Edendale,Invercargill,Wyndham"
 1778155,9893,Saint Ronans Road North,Edendale,
 1832561,2102,Saints Court,Manurewa,Auckland
+3086560,9793,Saint Thomas Drive,Garston,Athol
 2018665,2120,Sai Ridge Close,Pukekohe,
 1841365,2019,Sai Street,Flat Bush,Auckland
 3079046,7615,Saker Place,Rolleston,
@@ -1542,6 +1544,7 @@ road_id,postcode,name,locality,city
 1839473,3610,Settlers Drive,Waihi,
 1821048,0931,Settlers Grove,Orewa,
 1779424,7520,Settlers Hill,Akaroa,
+3086497,3373,Settlers Lane,Morrinsville,Morrinsville
 1837658,7198,Settlers Road,Brooklyn,Motueka
 1778458,9876,Settlers Road,Makarewa,Invercargill
 1808010,3874,Settlers Road,"Otorohanga,Waikeria","Otorohanga,Te Awamutu"
@@ -2555,6 +2558,7 @@ road_id,postcode,name,locality,city
 2014032,3112,Sirocco Place,Ohauiti,Tauranga
 1832723,0622,Sir Peter Blake Parade,Bayswater,Auckland
 1802596,4010,Sirrah Street,Okitu,Gisborne
+3086533,9600,Sir Richard Hayes Drive,Te Anau,Te Anau
 1794471,6035,Sirsi Terrace,Broadmeadows,Wellington
 2007605,9382,Sir Tim Wallis Drive,Wanaka,
 3017970,3200,Sir Tristram Avenue,Te Rapa,Hamilton
@@ -3119,9 +3123,11 @@ road_id,postcode,name,locality,city
 1838285,2105,Sonterra Close,Randwick Park,Auckland
 1784100,8042,Sonter Road,Wigram,Christchurch
 3035263,3206,Soo Yong Place,Glenview,Hamilton
+3086515,9012,Soper Close,Calton Hill,Dunedin
 1790912,7201,Soper Lane,Springlands,Blenheim
 1775173,9024,Soper Road,Mosgiel,
 1773650,9273,Soper Road,Te Houka,Balclutha
+3086534,9793,Soper Street,Athol,Athol
 1840085,1062,Sophia Close,Mount Wellington,Auckland
 1836045,8025,Sophia Gardens,Halswell,Christchurch
 1839658,2113,Sophia Place,Karaka,Papakura
@@ -3440,6 +3446,7 @@ road_id,postcode,name,locality,city
 1789404,7095,Spikes Road,Golden Downs,Wakefield
 3078665,3510,Spikes Way,Whitianga,
 3082701,9384,Spillane Grove,Cromwell,
+3086508,8025,Spiller Road,Halswell,Christchurch
 3084238,7901,Spillway Street,Twizel,
 3006746,4412,Spilman Place,Awapuni,Palmerston North
 1821535,0972,Spindler Road,Wellsford,
@@ -4794,6 +4801,7 @@ road_id,postcode,name,locality,city
 1787555,7476,Stone Eyre Place,Swannanoa,
 1794034,6037,Stonefield Place,Johnsonville,Wellington
 1835333,1072,Stonefields Avenue,"Saint Johns,Stonefields",Auckland
+3086525,0293,Stonefields Road,Kerikeri,Kerikeri
 1839357,3330,Stonefly Place,Nukuhau,Taupo
 1833039,0614,Stonegate Close,Westgate,Auckland
 3085735,7604,Stonegreen Close,Prebbleton,Prebbleton
